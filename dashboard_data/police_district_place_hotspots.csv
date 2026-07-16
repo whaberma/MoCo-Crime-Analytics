@@ -1,0 +1,740 @@
+district_number,district_name,place,total_incidents,total_victims
+1D,ROCKVILLE,Air/Bus/Train/Metro Terminal,246,252.0
+1D,ROCKVILLE,Amusement Park,3,4.0
+1D,ROCKVILLE,Arena/Stadium/Fairgrounds/Coliseum,2,2.0
+1D,ROCKVILLE,Atm Separate From Bank,3,3.0
+1D,ROCKVILLE,Auto Dealership,399,401.0
+1D,ROCKVILLE,Auto Repair,272,273.0
+1D,ROCKVILLE,Bank - ATM,269,269.0
+1D,ROCKVILLE,Bank/S&L/Credit Union,268,268.0
+1D,ROCKVILLE,Bar/Night Club,158,176.0
+1D,ROCKVILLE,Camp / Campground,3,3.0
+1D,ROCKVILLE,Check Cashing Est.,3,3.0
+1D,ROCKVILLE,Church/Synagogue/Temple,153,156.0
+1D,ROCKVILLE,Commercial - Industrial park,160,161.0
+1D,ROCKVILLE,Commercial - Office Building,1101,1113.0
+1D,ROCKVILLE,Community Center,46,48.0
+1D,ROCKVILLE,Construction Site,121,122.0
+1D,ROCKVILLE,Convenience Store,597,601.0
+1D,ROCKVILLE,Cyberspace,266,266.0
+1D,ROCKVILLE,Daycare Facility,16,16.0
+1D,ROCKVILLE,Dock/Wharf/Freight/Modal Terminal,2,2.0
+1D,ROCKVILLE,Doctor/Dentist/Vet Office,177,177.0
+1D,ROCKVILLE,Farm Facility,18,18.0
+1D,ROCKVILLE,Field/ Open Space,64,66.0
+1D,ROCKVILLE,Gas Station,320,325.0
+1D,ROCKVILLE,Golf Course,40,40.0
+1D,ROCKVILLE,Government Building,2765,2776.0
+1D,ROCKVILLE,Grocery/Supermarket,1299,1308.0
+1D,ROCKVILLE,Hospital/Emergency Care Center,156,159.0
+1D,ROCKVILLE,Hotel/Motel/Etc.,790,814.0
+1D,ROCKVILLE,Industrial Site,8,8.0
+1D,ROCKVILLE,Jail/Prison,436,438.0
+1D,ROCKVILLE,Lake/Waterway,14,14.0
+1D,ROCKVILLE,Laundromat,24,24.0
+1D,ROCKVILLE,Library,188,188.0
+1D,ROCKVILLE,Liquor Store - Beer & Wine,189,190.0
+1D,ROCKVILLE,Liquor Store - County,223,223.0
+1D,ROCKVILLE,Nursery,4,4.0
+1D,ROCKVILLE,Other/Unknown,8642,8657.0
+1D,ROCKVILLE,Park,605,626.0
+1D,ROCKVILLE,Parking Garage - Commercial,421,426.0
+1D,ROCKVILLE,Parking Garage - County,31,31.0
+1D,ROCKVILLE,Parking Garage - Metro,37,37.0
+1D,ROCKVILLE,Parking Garage - Other,124,125.0
+1D,ROCKVILLE,Parking Garage - Residential,727,730.0
+1D,ROCKVILLE,Parking Lot - Church,44,44.0
+1D,ROCKVILLE,Parking Lot - Commercial,2359,2402.0
+1D,ROCKVILLE,Parking Lot - County,134,134.0
+1D,ROCKVILLE,Parking Lot - Metro,167,175.0
+1D,ROCKVILLE,Parking Lot - Other,463,469.0
+1D,ROCKVILLE,Parking Lot - Park & Ride,7,7.0
+1D,ROCKVILLE,Parking Lot - Rec Center,75,75.0
+1D,ROCKVILLE,Parking Lot - Residential,1992,2021.0
+1D,ROCKVILLE,Parking Lot - School,148,151.0
+1D,ROCKVILLE,Pawn Shop,4,4.0
+1D,ROCKVILLE,Pedestrian Tunnel,7,7.0
+1D,ROCKVILLE,Pool,89,91.0
+1D,ROCKVILLE,Recreation Center,257,264.0
+1D,ROCKVILLE,Rental Storage Facility,108,108.0
+1D,ROCKVILLE,Residence - Apartment/Condo,4386,4580.0
+1D,ROCKVILLE,Residence - Apt Ofc/Storage,146,148.0
+1D,ROCKVILLE,Residence - Carport,33,33.0
+1D,ROCKVILLE,Residence - Driveway,1995,2006.0
+1D,ROCKVILLE,Residence - Garage,218,221.0
+1D,ROCKVILLE,Residence - Mobile Home,14,15.0
+1D,ROCKVILLE,Residence - Nursing Home,418,423.0
+1D,ROCKVILLE,Residence - Other,830,845.0
+1D,ROCKVILLE,Residence - Shed,63,63.0
+1D,ROCKVILLE,Residence - Single Family,7468,7683.0
+1D,ROCKVILLE,Residence - Yard,695,711.0
+1D,ROCKVILLE,Residence -Townhouse/Duplex,1757,1833.0
+1D,ROCKVILLE,Rest Area,2,2.0
+1D,ROCKVILLE,Restaurant,1278,1300.0
+1D,ROCKVILLE,Retail - Appliances/Electronics,251,252.0
+1D,ROCKVILLE,Retail - Beauty/Barber Shop,91,91.0
+1D,ROCKVILLE,Retail - Clothing,243,244.0
+1D,ROCKVILLE,Retail - Department/Discount Store,1367,1372.0
+1D,ROCKVILLE,Retail - Drug Store/Pharmacy,657,660.0
+1D,ROCKVILLE,Retail - Dry Cleaner,16,16.0
+1D,ROCKVILLE,Retail - Hardware,30,30.0
+1D,ROCKVILLE,Retail - Jewelry,24,24.0
+1D,ROCKVILLE,Retail - Mall,59,59.0
+1D,ROCKVILLE,Retail - Other,1101,1109.0
+1D,ROCKVILLE,Retail - Salon/Spa,79,79.0
+1D,ROCKVILLE,Retail - Sporting Goods,66,66.0
+1D,ROCKVILLE,Retail - Video Store,6,6.0
+1D,ROCKVILLE,School - College/University,49,49.0
+1D,ROCKVILLE,School - Elementary/Secondary,1033,1057.0
+1D,ROCKVILLE,School/College - DO NOT USE,902,914.0
+1D,ROCKVILLE,Shelter-Mission/Homeless,104,106.0
+1D,ROCKVILLE,Street - Alley,38,40.0
+1D,ROCKVILLE,Street - Bus Stop,387,389.0
+1D,ROCKVILLE,Street - Commercial,959,994.0
+1D,ROCKVILLE,Street - In vehicle,3944,3962.0
+1D,ROCKVILLE,Street - Other,1127,1146.0
+1D,ROCKVILLE,Street - Residential,2882,2915.0
+1D,ROCKVILLE,Theater,29,29.0
+1D,ROCKVILLE,Wooded Area,128,130.0
+2D,BETHESDA,Abandoned/Condemned Structures,13,13.0
+2D,BETHESDA,Air/Bus/Train/Metro Terminal,151,154.0
+2D,BETHESDA,Amusement Park,1,1.0
+2D,BETHESDA,Arena/Stadium/Fairgrounds/Coliseum,2,2.0
+2D,BETHESDA,Atm Separate From Bank,3,3.0
+2D,BETHESDA,Auto Dealership,356,360.0
+2D,BETHESDA,Auto Repair,90,91.0
+2D,BETHESDA,Bank - ATM,318,318.0
+2D,BETHESDA,Bank/S&L/Credit Union,335,335.0
+2D,BETHESDA,Bar/Night Club,235,258.0
+2D,BETHESDA,Camp / Campground,2,3.0
+2D,BETHESDA,Check Cashing Est.,4,4.0
+2D,BETHESDA,Church/Synagogue/Temple,179,179.0
+2D,BETHESDA,Commercial - Industrial park,68,68.0
+2D,BETHESDA,Commercial - Office Building,1144,1145.0
+2D,BETHESDA,Community Center,33,33.0
+2D,BETHESDA,Construction Site,222,222.0
+2D,BETHESDA,Convenience Store,583,591.0
+2D,BETHESDA,Cyberspace,431,431.0
+2D,BETHESDA,Daycare Facility,8,8.0
+2D,BETHESDA,Dock/Wharf/Freight/Modal Terminal,1,1.0
+2D,BETHESDA,Doctor/Dentist/Vet Office,249,253.0
+2D,BETHESDA,Field/ Open Space,32,33.0
+2D,BETHESDA,Gas Station,279,284.0
+2D,BETHESDA,Golf Course,49,50.0
+2D,BETHESDA,Government Building,422,425.0
+2D,BETHESDA,Grocery/Supermarket,1248,1264.0
+2D,BETHESDA,Hospital/Emergency Care Center,432,453.0
+2D,BETHESDA,Hotel/Motel/Etc.,459,470.0
+2D,BETHESDA,Industrial Site,2,2.0
+2D,BETHESDA,Jail/Prison,15,15.0
+2D,BETHESDA,Lake/Waterway,13,13.0
+2D,BETHESDA,Laundromat,7,8.0
+2D,BETHESDA,Library,70,73.0
+2D,BETHESDA,Liquor Store - Beer & Wine,137,138.0
+2D,BETHESDA,Liquor Store - County,114,114.0
+2D,BETHESDA,Military Installation,9,9.0
+2D,BETHESDA,Nursery,6,6.0
+2D,BETHESDA,Other/Unknown,6851,6855.0
+2D,BETHESDA,Park,200,205.0
+2D,BETHESDA,Parking Garage - Commercial,679,687.0
+2D,BETHESDA,Parking Garage - County,427,428.0
+2D,BETHESDA,Parking Garage - Metro,49,49.0
+2D,BETHESDA,Parking Garage - Other,138,139.0
+2D,BETHESDA,Parking Garage - Residential,1030,1035.0
+2D,BETHESDA,Parking Lot - Church,61,61.0
+2D,BETHESDA,Parking Lot - Commercial,1688,1715.0
+2D,BETHESDA,Parking Lot - County,89,93.0
+2D,BETHESDA,Parking Lot - Metro,53,54.0
+2D,BETHESDA,Parking Lot - Other,340,343.0
+2D,BETHESDA,Parking Lot - Park & Ride,8,8.0
+2D,BETHESDA,Parking Lot - Rec Center,66,66.0
+2D,BETHESDA,Parking Lot - Residential,2747,2760.0
+2D,BETHESDA,Parking Lot - School,152,154.0
+2D,BETHESDA,Pawn Shop,4,4.0
+2D,BETHESDA,Pedestrian Tunnel,2,2.0
+2D,BETHESDA,Pool,39,39.0
+2D,BETHESDA,Recreation Center,240,242.0
+2D,BETHESDA,Rental Storage Facility,107,108.0
+2D,BETHESDA,Residence - Apartment/Condo,6244,6465.0
+2D,BETHESDA,Residence - Apt Ofc/Storage,311,313.0
+2D,BETHESDA,Residence - Carport,35,35.0
+2D,BETHESDA,Residence - Driveway,3183,3186.0
+2D,BETHESDA,Residence - Garage,231,231.0
+2D,BETHESDA,Residence - Mobile Home,1,1.0
+2D,BETHESDA,Residence - Nursing Home,597,613.0
+2D,BETHESDA,Residence - Other,1160,1173.0
+2D,BETHESDA,Residence - Shed,56,56.0
+2D,BETHESDA,Residence - Single Family,8569,8709.0
+2D,BETHESDA,Residence - Yard,606,611.0
+2D,BETHESDA,Residence -Townhouse/Duplex,778,808.0
+2D,BETHESDA,Rest Area,1,1.0
+2D,BETHESDA,Restaurant,1300,1328.0
+2D,BETHESDA,Retail - Appliances/Electronics,246,247.0
+2D,BETHESDA,Retail - Beauty/Barber Shop,197,197.0
+2D,BETHESDA,Retail - Clothing,822,823.0
+2D,BETHESDA,Retail - Department/Discount Store,1496,1510.0
+2D,BETHESDA,Retail - Drug Store/Pharmacy,768,773.0
+2D,BETHESDA,Retail - Dry Cleaner,21,21.0
+2D,BETHESDA,Retail - Hardware,187,187.0
+2D,BETHESDA,Retail - Jewelry,85,86.0
+2D,BETHESDA,Retail - Mall,2196,2207.0
+2D,BETHESDA,Retail - Other,944,950.0
+2D,BETHESDA,Retail - Salon/Spa,149,149.0
+2D,BETHESDA,Retail - Sporting Goods,98,98.0
+2D,BETHESDA,Retail - Video Store,3,3.0
+2D,BETHESDA,School - College/University,8,8.0
+2D,BETHESDA,School - Elementary/Secondary,1205,1240.0
+2D,BETHESDA,School/College - DO NOT USE,755,758.0
+2D,BETHESDA,Shelter-Mission/Homeless,481,498.0
+2D,BETHESDA,Street - Alley,71,73.0
+2D,BETHESDA,Street - Bus Stop,215,219.0
+2D,BETHESDA,Street - Commercial,1616,1679.0
+2D,BETHESDA,Street - In vehicle,3483,3513.0
+2D,BETHESDA,Street - Other,1055,1082.0
+2D,BETHESDA,Street - Residential,4393,4426.0
+2D,BETHESDA,Theater,46,48.0
+2D,BETHESDA,Wooded Area,57,58.0
+3D,SILVER SPRING,Abandoned/Condemned Structures,4,4.0
+3D,SILVER SPRING,Air/Bus/Train/Metro Terminal,306,309.0
+3D,SILVER SPRING,Arena/Stadium/Fairgrounds/Coliseum,9,10.0
+3D,SILVER SPRING,Atm Separate From Bank,7,7.0
+3D,SILVER SPRING,Auto Dealership,451,454.0
+3D,SILVER SPRING,Auto Repair,151,152.0
+3D,SILVER SPRING,Bank - ATM,353,355.0
+3D,SILVER SPRING,Bank/S&L/Credit Union,286,288.0
+3D,SILVER SPRING,Bar/Night Club,442,480.0
+3D,SILVER SPRING,Check Cashing Est.,46,46.0
+3D,SILVER SPRING,Church/Synagogue/Temple,229,230.0
+3D,SILVER SPRING,Commercial - Industrial park,57,58.0
+3D,SILVER SPRING,Commercial - Office Building,941,947.0
+3D,SILVER SPRING,Community Center,41,41.0
+3D,SILVER SPRING,Construction Site,155,155.0
+3D,SILVER SPRING,Convenience Store,1917,1947.0
+3D,SILVER SPRING,Cyberspace,323,323.0
+3D,SILVER SPRING,Daycare Facility,18,18.0
+3D,SILVER SPRING,Doctor/Dentist/Vet Office,189,195.0
+3D,SILVER SPRING,Field/ Open Space,48,49.0
+3D,SILVER SPRING,Gas Station,710,717.0
+3D,SILVER SPRING,Government Building,560,567.0
+3D,SILVER SPRING,Grocery/Supermarket,2214,2234.0
+3D,SILVER SPRING,Hospital/Emergency Care Center,647,677.0
+3D,SILVER SPRING,Hotel/Motel/Etc.,738,759.0
+3D,SILVER SPRING,Industrial Site,2,2.0
+3D,SILVER SPRING,Jail/Prison,4,4.0
+3D,SILVER SPRING,Lake/Waterway,4,4.0
+3D,SILVER SPRING,Laundromat,104,106.0
+3D,SILVER SPRING,Library,248,253.0
+3D,SILVER SPRING,Liquor Store - Beer & Wine,218,222.0
+3D,SILVER SPRING,Liquor Store - County,172,174.0
+3D,SILVER SPRING,Nursery,23,23.0
+3D,SILVER SPRING,Other/Unknown,5777,5782.0
+3D,SILVER SPRING,Park,404,414.0
+3D,SILVER SPRING,Parking Garage - Commercial,454,462.0
+3D,SILVER SPRING,Parking Garage - County,1455,1460.0
+3D,SILVER SPRING,Parking Garage - Metro,41,42.0
+3D,SILVER SPRING,Parking Garage - Other,199,199.0
+3D,SILVER SPRING,Parking Garage - Residential,1187,1189.0
+3D,SILVER SPRING,Parking Lot - Church,135,136.0
+3D,SILVER SPRING,Parking Lot - Commercial,3091,3169.0
+3D,SILVER SPRING,Parking Lot - County,389,393.0
+3D,SILVER SPRING,Parking Lot - Metro,42,43.0
+3D,SILVER SPRING,Parking Lot - Other,590,596.0
+3D,SILVER SPRING,Parking Lot - Park & Ride,71,71.0
+3D,SILVER SPRING,Parking Lot - Rec Center,68,72.0
+3D,SILVER SPRING,Parking Lot - Residential,7626,7709.0
+3D,SILVER SPRING,Parking Lot - School,220,224.0
+3D,SILVER SPRING,Pawn Shop,14,14.0
+3D,SILVER SPRING,Pedestrian Tunnel,5,5.0
+3D,SILVER SPRING,Pool,49,50.0
+3D,SILVER SPRING,Recreation Center,206,207.0
+3D,SILVER SPRING,Rental Storage Facility,87,87.0
+3D,SILVER SPRING,Residence - Apartment/Condo,11494,12097.0
+3D,SILVER SPRING,Residence - Apt Ofc/Storage,347,354.0
+3D,SILVER SPRING,Residence - Carport,42,42.0
+3D,SILVER SPRING,Residence - Driveway,2421,2428.0
+3D,SILVER SPRING,Residence - Garage,194,197.0
+3D,SILVER SPRING,Residence - Mobile Home,17,17.0
+3D,SILVER SPRING,Residence - Nursing Home,403,410.0
+3D,SILVER SPRING,Residence - Other,876,888.0
+3D,SILVER SPRING,Residence - Shed,191,191.0
+3D,SILVER SPRING,Residence - Single Family,7290,7514.0
+3D,SILVER SPRING,Residence - Yard,739,762.0
+3D,SILVER SPRING,Residence -Townhouse/Duplex,2381,2488.0
+3D,SILVER SPRING,Restaurant,1914,1974.0
+3D,SILVER SPRING,Retail - Appliances/Electronics,162,165.0
+3D,SILVER SPRING,Retail - Beauty/Barber Shop,118,122.0
+3D,SILVER SPRING,Retail - Clothing,692,694.0
+3D,SILVER SPRING,Retail - Department/Discount Store,2111,2124.0
+3D,SILVER SPRING,Retail - Drug Store/Pharmacy,994,997.0
+3D,SILVER SPRING,Retail - Dry Cleaner,28,28.0
+3D,SILVER SPRING,Retail - Hardware,172,174.0
+3D,SILVER SPRING,Retail - Jewelry,38,38.0
+3D,SILVER SPRING,Retail - Mall,538,553.0
+3D,SILVER SPRING,Retail - Other,1007,1019.0
+3D,SILVER SPRING,Retail - Salon/Spa,86,87.0
+3D,SILVER SPRING,Retail - Sporting Goods,17,17.0
+3D,SILVER SPRING,Retail - Video Store,8,8.0
+3D,SILVER SPRING,School - College/University,18,18.0
+3D,SILVER SPRING,School - Elementary/Secondary,1033,1088.0
+3D,SILVER SPRING,School/College - DO NOT USE,904,931.0
+3D,SILVER SPRING,Shelter-Mission/Homeless,295,307.0
+3D,SILVER SPRING,Street - Alley,356,361.0
+3D,SILVER SPRING,Street - Bus Stop,1010,1043.0
+3D,SILVER SPRING,Street - Commercial,3528,3634.0
+3D,SILVER SPRING,Street - In vehicle,8485,8529.0
+3D,SILVER SPRING,Street - Other,2406,2461.0
+3D,SILVER SPRING,Street - Residential,8101,8229.0
+3D,SILVER SPRING,Theater,100,104.0
+3D,SILVER SPRING,Wooded Area,74,80.0
+4D,WHEATON,Abandoned/Condemned Structures,9,9.0
+4D,WHEATON,Air/Bus/Train/Metro Terminal,196,203.0
+4D,WHEATON,Arena/Stadium/Fairgrounds/Coliseum,2,2.0
+4D,WHEATON,Atm Separate From Bank,8,8.0
+4D,WHEATON,Auto Dealership,85,86.0
+4D,WHEATON,Auto Repair,45,46.0
+4D,WHEATON,Bank - ATM,288,290.0
+4D,WHEATON,Bank/S&L/Credit Union,302,304.0
+4D,WHEATON,Bar/Night Club,404,448.0
+4D,WHEATON,Camp / Campground,2,2.0
+4D,WHEATON,Check Cashing Est.,44,44.0
+4D,WHEATON,Church/Synagogue/Temple,252,255.0
+4D,WHEATON,Commercial - Industrial park,25,25.0
+4D,WHEATON,Commercial - Office Building,274,278.0
+4D,WHEATON,Community Center,18,18.0
+4D,WHEATON,Construction Site,88,88.0
+4D,WHEATON,Convenience Store,716,720.0
+4D,WHEATON,Cyberspace,354,354.0
+4D,WHEATON,Daycare Facility,23,23.0
+4D,WHEATON,Doctor/Dentist/Vet Office,98,98.0
+4D,WHEATON,Farm Facility,5,5.0
+4D,WHEATON,Field/ Open Space,88,90.0
+4D,WHEATON,Gas Station,550,556.0
+4D,WHEATON,Golf Course,22,24.0
+4D,WHEATON,Government Building,341,342.0
+4D,WHEATON,Grocery/Supermarket,1415,1430.0
+4D,WHEATON,Hospital/Emergency Care Center,286,302.0
+4D,WHEATON,Hotel/Motel/Etc.,11,12.0
+4D,WHEATON,Industrial Site,3,3.0
+4D,WHEATON,Jail/Prison,17,17.0
+4D,WHEATON,Lake/Waterway,9,9.0
+4D,WHEATON,Laundromat,93,95.0
+4D,WHEATON,Library,89,89.0
+4D,WHEATON,Liquor Store - Beer & Wine,194,198.0
+4D,WHEATON,Liquor Store - County,104,104.0
+4D,WHEATON,Nursery,6,7.0
+4D,WHEATON,Other/Unknown,5945,5947.0
+4D,WHEATON,Park,353,356.0
+4D,WHEATON,Parking Garage - Commercial,252,253.0
+4D,WHEATON,Parking Garage - County,73,73.0
+4D,WHEATON,Parking Garage - Metro,190,190.0
+4D,WHEATON,Parking Garage - Other,52,52.0
+4D,WHEATON,Parking Garage - Residential,359,370.0
+4D,WHEATON,Parking Lot - Church,86,86.0
+4D,WHEATON,Parking Lot - Commercial,2872,2930.0
+4D,WHEATON,Parking Lot - County,314,316.0
+4D,WHEATON,Parking Lot - Metro,69,69.0
+4D,WHEATON,Parking Lot - Other,344,352.0
+4D,WHEATON,Parking Lot - Park & Ride,15,15.0
+4D,WHEATON,Parking Lot - Rec Center,47,47.0
+4D,WHEATON,Parking Lot - Residential,4510,4554.0
+4D,WHEATON,Parking Lot - School,205,212.0
+4D,WHEATON,Pawn Shop,24,24.0
+4D,WHEATON,Pedestrian Tunnel,3,3.0
+4D,WHEATON,Pool,54,58.0
+4D,WHEATON,Recreation Center,180,186.0
+4D,WHEATON,Rental Storage Facility,14,14.0
+4D,WHEATON,Residence - Apartment/Condo,6932,7265.0
+4D,WHEATON,Residence - Apt Ofc/Storage,215,223.0
+4D,WHEATON,Residence - Carport,81,81.0
+4D,WHEATON,Residence - Driveway,3497,3527.0
+4D,WHEATON,Residence - Garage,178,178.0
+4D,WHEATON,Residence - Mobile Home,13,13.0
+4D,WHEATON,Residence - Nursing Home,709,738.0
+4D,WHEATON,Residence - Other,1009,1023.0
+4D,WHEATON,Residence - Shed,253,254.0
+4D,WHEATON,Residence - Single Family,13472,13926.0
+4D,WHEATON,Residence - Yard,897,933.0
+4D,WHEATON,Residence -Townhouse/Duplex,2439,2554.0
+4D,WHEATON,Restaurant,1077,1118.0
+4D,WHEATON,Retail - Appliances/Electronics,232,234.0
+4D,WHEATON,Retail - Beauty/Barber Shop,51,55.0
+4D,WHEATON,Retail - Clothing,498,501.0
+4D,WHEATON,Retail - Department/Discount Store,2182,2197.0
+4D,WHEATON,Retail - Drug Store/Pharmacy,844,846.0
+4D,WHEATON,Retail - Dry Cleaner,25,27.0
+4D,WHEATON,Retail - Hardware,212,213.0
+4D,WHEATON,Retail - Jewelry,45,45.0
+4D,WHEATON,Retail - Mall,3263,3311.0
+4D,WHEATON,Retail - Other,1100,1110.0
+4D,WHEATON,Retail - Salon/Spa,84,85.0
+4D,WHEATON,Retail - Sporting Goods,75,75.0
+4D,WHEATON,Retail - Video Store,20,20.0
+4D,WHEATON,School - College/University,9,9.0
+4D,WHEATON,School - Elementary/Secondary,1811,1876.0
+4D,WHEATON,School/College - DO NOT USE,1245,1268.0
+4D,WHEATON,Shelter-Mission/Homeless,6,6.0
+4D,WHEATON,Street - Alley,260,267.0
+4D,WHEATON,Street - Bus Stop,638,650.0
+4D,WHEATON,Street - Commercial,1621,1658.0
+4D,WHEATON,Street - In vehicle,7976,8020.0
+4D,WHEATON,Street - Other,1529,1572.0
+4D,WHEATON,Street - Residential,6825,6952.0
+4D,WHEATON,Theater,23,26.0
+4D,WHEATON,Wooded Area,112,113.0
+5D,GERMANTOWN,Abandoned/Condemned Structures,3,3.0
+5D,GERMANTOWN,Air/Bus/Train/Metro Terminal,89,91.0
+5D,GERMANTOWN,Arena/Stadium/Fairgrounds/Coliseum,1,1.0
+5D,GERMANTOWN,Atm Separate From Bank,3,3.0
+5D,GERMANTOWN,Auto Dealership,104,104.0
+5D,GERMANTOWN,Auto Repair,60,60.0
+5D,GERMANTOWN,Bank - ATM,208,208.0
+5D,GERMANTOWN,Bank/S&L/Credit Union,190,190.0
+5D,GERMANTOWN,Bar/Night Club,39,39.0
+5D,GERMANTOWN,Camp / Campground,1,1.0
+5D,GERMANTOWN,Check Cashing Est.,6,6.0
+5D,GERMANTOWN,Church/Synagogue/Temple,61,63.0
+5D,GERMANTOWN,Commercial - Industrial park,36,36.0
+5D,GERMANTOWN,Commercial - Office Building,280,282.0
+5D,GERMANTOWN,Community Center,16,16.0
+5D,GERMANTOWN,Construction Site,198,199.0
+5D,GERMANTOWN,Convenience Store,610,623.0
+5D,GERMANTOWN,Cyberspace,287,288.0
+5D,GERMANTOWN,Daycare Facility,23,24.0
+5D,GERMANTOWN,Doctor/Dentist/Vet Office,81,83.0
+5D,GERMANTOWN,Farm Facility,12,12.0
+5D,GERMANTOWN,Field/ Open Space,79,83.0
+5D,GERMANTOWN,Gambling Facility / Casino / Race Track,1,1.0
+5D,GERMANTOWN,Gas Station,320,325.0
+5D,GERMANTOWN,Golf Course,24,25.0
+5D,GERMANTOWN,Government Building,329,331.0
+5D,GERMANTOWN,Grocery/Supermarket,1596,1611.0
+5D,GERMANTOWN,Hospital/Emergency Care Center,304,337.0
+5D,GERMANTOWN,Hotel/Motel/Etc.,262,266.0
+5D,GERMANTOWN,Industrial Site,3,3.0
+5D,GERMANTOWN,Jail/Prison,112,115.0
+5D,GERMANTOWN,Lake/Waterway,14,14.0
+5D,GERMANTOWN,Laundromat,5,5.0
+5D,GERMANTOWN,Library,75,75.0
+5D,GERMANTOWN,Liquor Store - Beer & Wine,108,112.0
+5D,GERMANTOWN,Liquor Store - County,77,77.0
+5D,GERMANTOWN,Nursery,8,8.0
+5D,GERMANTOWN,Other/Unknown,4445,4452.0
+5D,GERMANTOWN,Park,216,239.0
+5D,GERMANTOWN,Parking Garage - Commercial,87,89.0
+5D,GERMANTOWN,Parking Garage - County,2,2.0
+5D,GERMANTOWN,Parking Garage - Metro,3,3.0
+5D,GERMANTOWN,Parking Garage - Other,13,13.0
+5D,GERMANTOWN,Parking Garage - Residential,107,108.0
+5D,GERMANTOWN,Parking Lot - Church,24,24.0
+5D,GERMANTOWN,Parking Lot - Commercial,1467,1520.0
+5D,GERMANTOWN,Parking Lot - County,96,101.0
+5D,GERMANTOWN,Parking Lot - Metro,17,17.0
+5D,GERMANTOWN,Parking Lot - Other,331,344.0
+5D,GERMANTOWN,Parking Lot - Park & Ride,39,39.0
+5D,GERMANTOWN,Parking Lot - Rec Center,32,32.0
+5D,GERMANTOWN,Parking Lot - Residential,4146,4218.0
+5D,GERMANTOWN,Parking Lot - School,145,156.0
+5D,GERMANTOWN,Pawn Shop,5,5.0
+5D,GERMANTOWN,Pool,53,63.0
+5D,GERMANTOWN,Recreation Center,92,92.0
+5D,GERMANTOWN,Rental Storage Facility,55,56.0
+5D,GERMANTOWN,Residence - Apartment/Condo,5484,5936.0
+5D,GERMANTOWN,Residence - Apt Ofc/Storage,100,102.0
+5D,GERMANTOWN,Residence - Carport,14,14.0
+5D,GERMANTOWN,Residence - Driveway,1554,1565.0
+5D,GERMANTOWN,Residence - Garage,151,152.0
+5D,GERMANTOWN,Residence - Mobile Home,109,118.0
+5D,GERMANTOWN,Residence - Nursing Home,87,88.0
+5D,GERMANTOWN,Residence - Other,777,780.0
+5D,GERMANTOWN,Residence - Shed,55,55.0
+5D,GERMANTOWN,Residence - Single Family,5306,5479.0
+5D,GERMANTOWN,Residence - Yard,662,704.0
+5D,GERMANTOWN,Residence -Townhouse/Duplex,6424,6876.0
+5D,GERMANTOWN,Restaurant,784,810.0
+5D,GERMANTOWN,Retail - Appliances/Electronics,140,142.0
+5D,GERMANTOWN,Retail - Beauty/Barber Shop,50,50.0
+5D,GERMANTOWN,Retail - Clothing,591,591.0
+5D,GERMANTOWN,Retail - Department/Discount Store,4123,4137.0
+5D,GERMANTOWN,Retail - Drug Store/Pharmacy,322,322.0
+5D,GERMANTOWN,Retail - Dry Cleaner,12,12.0
+5D,GERMANTOWN,Retail - Hardware,231,232.0
+5D,GERMANTOWN,Retail - Jewelry,15,15.0
+5D,GERMANTOWN,Retail - Mall,339,346.0
+5D,GERMANTOWN,Retail - Other,885,887.0
+5D,GERMANTOWN,Retail - Salon/Spa,36,36.0
+5D,GERMANTOWN,Retail - Sporting Goods,16,16.0
+5D,GERMANTOWN,Retail - Video Store,5,5.0
+5D,GERMANTOWN,School - College/University,31,31.0
+5D,GERMANTOWN,School - Elementary/Secondary,1517,1586.0
+5D,GERMANTOWN,School/College - DO NOT USE,1065,1103.0
+5D,GERMANTOWN,Shelter-Mission/Homeless,4,4.0
+5D,GERMANTOWN,Street - Alley,48,51.0
+5D,GERMANTOWN,Street - Bus Stop,325,342.0
+5D,GERMANTOWN,Street - Commercial,533,543.0
+5D,GERMANTOWN,Street - In vehicle,4468,4518.0
+5D,GERMANTOWN,Street - Other,1083,1124.0
+5D,GERMANTOWN,Street - Residential,3082,3157.0
+5D,GERMANTOWN,Theater,18,19.0
+5D,GERMANTOWN,Wooded Area,101,101.0
+6D,MONTGOMERY VILLAGE,Abandoned/Condemned Structures,7,7.0
+6D,MONTGOMERY VILLAGE,Air/Bus/Train/Metro Terminal,131,140.0
+6D,MONTGOMERY VILLAGE,Amusement Park,4,7.0
+6D,MONTGOMERY VILLAGE,Arena/Stadium/Fairgrounds/Coliseum,30,34.0
+6D,MONTGOMERY VILLAGE,Atm Separate From Bank,5,5.0
+6D,MONTGOMERY VILLAGE,Auto Dealership,287,288.0
+6D,MONTGOMERY VILLAGE,Auto Repair,149,150.0
+6D,MONTGOMERY VILLAGE,Bank - ATM,250,251.0
+6D,MONTGOMERY VILLAGE,Bank/S&L/Credit Union,209,209.0
+6D,MONTGOMERY VILLAGE,Bar/Night Club,262,297.0
+6D,MONTGOMERY VILLAGE,Check Cashing Est.,24,24.0
+6D,MONTGOMERY VILLAGE,Church/Synagogue/Temple,142,146.0
+6D,MONTGOMERY VILLAGE,Commercial - Industrial park,262,264.0
+6D,MONTGOMERY VILLAGE,Commercial - Office Building,826,833.0
+6D,MONTGOMERY VILLAGE,Community Center,36,36.0
+6D,MONTGOMERY VILLAGE,Construction Site,136,136.0
+6D,MONTGOMERY VILLAGE,Convenience Store,531,539.0
+6D,MONTGOMERY VILLAGE,Cyberspace,269,269.0
+6D,MONTGOMERY VILLAGE,Daycare Facility,17,17.0
+6D,MONTGOMERY VILLAGE,Dock/Wharf/Freight/Modal Terminal,1,1.0
+6D,MONTGOMERY VILLAGE,Doctor/Dentist/Vet Office,220,221.0
+6D,MONTGOMERY VILLAGE,Farm Facility,3,5.0
+6D,MONTGOMERY VILLAGE,Field/ Open Space,91,94.0
+6D,MONTGOMERY VILLAGE,Gambling Facility / Casino / Race Track,1,1.0
+6D,MONTGOMERY VILLAGE,Gas Station,443,456.0
+6D,MONTGOMERY VILLAGE,Golf Course,5,5.0
+6D,MONTGOMERY VILLAGE,Government Building,382,383.0
+6D,MONTGOMERY VILLAGE,Grocery/Supermarket,889,901.0
+6D,MONTGOMERY VILLAGE,Hospital/Emergency Care Center,890,934.0
+6D,MONTGOMERY VILLAGE,Hotel/Motel/Etc.,860,888.0
+6D,MONTGOMERY VILLAGE,Industrial Site,4,4.0
+6D,MONTGOMERY VILLAGE,Jail/Prison,13,14.0
+6D,MONTGOMERY VILLAGE,Lake/Waterway,18,18.0
+6D,MONTGOMERY VILLAGE,Laundromat,77,79.0
+6D,MONTGOMERY VILLAGE,Library,63,65.0
+6D,MONTGOMERY VILLAGE,Liquor Store - Beer & Wine,191,196.0
+6D,MONTGOMERY VILLAGE,Liquor Store - County,186,187.0
+6D,MONTGOMERY VILLAGE,Nursery,4,4.0
+6D,MONTGOMERY VILLAGE,Other/Unknown,5447,5457.0
+6D,MONTGOMERY VILLAGE,Park,447,461.0
+6D,MONTGOMERY VILLAGE,Parking Garage - Commercial,358,368.0
+6D,MONTGOMERY VILLAGE,Parking Garage - County,10,10.0
+6D,MONTGOMERY VILLAGE,Parking Garage - Metro,8,9.0
+6D,MONTGOMERY VILLAGE,Parking Garage - Other,81,81.0
+6D,MONTGOMERY VILLAGE,Parking Garage - Residential,753,755.0
+6D,MONTGOMERY VILLAGE,Parking Lot - Church,53,53.0
+6D,MONTGOMERY VILLAGE,Parking Lot - Commercial,3201,3266.0
+6D,MONTGOMERY VILLAGE,Parking Lot - County,107,110.0
+6D,MONTGOMERY VILLAGE,Parking Lot - Metro,16,16.0
+6D,MONTGOMERY VILLAGE,Parking Lot - Other,447,451.0
+6D,MONTGOMERY VILLAGE,Parking Lot - Park & Ride,141,142.0
+6D,MONTGOMERY VILLAGE,Parking Lot - Rec Center,74,79.0
+6D,MONTGOMERY VILLAGE,Parking Lot - Residential,6299,6425.0
+6D,MONTGOMERY VILLAGE,Parking Lot - School,199,204.0
+6D,MONTGOMERY VILLAGE,Pawn Shop,11,11.0
+6D,MONTGOMERY VILLAGE,Pedestrian Tunnel,4,4.0
+6D,MONTGOMERY VILLAGE,Pool,78,82.0
+6D,MONTGOMERY VILLAGE,Recreation Center,285,287.0
+6D,MONTGOMERY VILLAGE,Rental Storage Facility,112,113.0
+6D,MONTGOMERY VILLAGE,Residence - Apartment/Condo,9178,9711.0
+6D,MONTGOMERY VILLAGE,Residence - Apt Ofc/Storage,337,353.0
+6D,MONTGOMERY VILLAGE,Residence - Carport,23,23.0
+6D,MONTGOMERY VILLAGE,Residence - Driveway,1426,1434.0
+6D,MONTGOMERY VILLAGE,Residence - Garage,170,171.0
+6D,MONTGOMERY VILLAGE,Residence - Mobile Home,4,4.0
+6D,MONTGOMERY VILLAGE,Residence - Nursing Home,233,237.0
+6D,MONTGOMERY VILLAGE,Residence - Other,877,903.0
+6D,MONTGOMERY VILLAGE,Residence - Shed,35,35.0
+6D,MONTGOMERY VILLAGE,Residence - Single Family,4837,4974.0
+6D,MONTGOMERY VILLAGE,Residence - Yard,669,713.0
+6D,MONTGOMERY VILLAGE,Residence -Townhouse/Duplex,6483,6817.0
+6D,MONTGOMERY VILLAGE,Rest Area,2,2.0
+6D,MONTGOMERY VILLAGE,Restaurant,1202,1265.0
+6D,MONTGOMERY VILLAGE,Retail - Appliances/Electronics,182,183.0
+6D,MONTGOMERY VILLAGE,Retail - Beauty/Barber Shop,71,71.0
+6D,MONTGOMERY VILLAGE,Retail - Clothing,439,442.0
+6D,MONTGOMERY VILLAGE,Retail - Department/Discount Store,2005,2022.0
+6D,MONTGOMERY VILLAGE,Retail - Drug Store/Pharmacy,421,422.0
+6D,MONTGOMERY VILLAGE,Retail - Dry Cleaner,20,21.0
+6D,MONTGOMERY VILLAGE,Retail - Hardware,435,436.0
+6D,MONTGOMERY VILLAGE,Retail - Jewelry,28,28.0
+6D,MONTGOMERY VILLAGE,Retail - Mall,953,962.0
+6D,MONTGOMERY VILLAGE,Retail - Other,977,993.0
+6D,MONTGOMERY VILLAGE,Retail - Salon/Spa,121,124.0
+6D,MONTGOMERY VILLAGE,Retail - Sporting Goods,464,464.0
+6D,MONTGOMERY VILLAGE,Retail - Video Store,5,5.0
+6D,MONTGOMERY VILLAGE,School - College/University,11,11.0
+6D,MONTGOMERY VILLAGE,School - Elementary/Secondary,1273,1326.0
+6D,MONTGOMERY VILLAGE,School/College - DO NOT USE,946,979.0
+6D,MONTGOMERY VILLAGE,Shelter-Mission/Homeless,50,50.0
+6D,MONTGOMERY VILLAGE,Street - Alley,87,88.0
+6D,MONTGOMERY VILLAGE,Street - Bus Stop,641,660.0
+6D,MONTGOMERY VILLAGE,Street - Commercial,1148,1185.0
+6D,MONTGOMERY VILLAGE,Street - In vehicle,8782,8838.0
+6D,MONTGOMERY VILLAGE,Street - Other,1418,1445.0
+6D,MONTGOMERY VILLAGE,Street - Residential,3975,4044.0
+6D,MONTGOMERY VILLAGE,Theater,33,34.0
+6D,MONTGOMERY VILLAGE,Wooded Area,114,116.0
+TPPD,TAKOMA PARK,Abandoned/Condemned Structures,4,4.0
+TPPD,TAKOMA PARK,Air/Bus/Train/Metro Terminal,8,8.0
+TPPD,TAKOMA PARK,Amusement Park,1,1.0
+TPPD,TAKOMA PARK,Atm Separate From Bank,2,2.0
+TPPD,TAKOMA PARK,Auto Dealership,8,8.0
+TPPD,TAKOMA PARK,Auto Repair,38,38.0
+TPPD,TAKOMA PARK,Bank - ATM,90,90.0
+TPPD,TAKOMA PARK,Bank/S&L/Credit Union,46,46.0
+TPPD,TAKOMA PARK,Bar/Night Club,64,66.0
+TPPD,TAKOMA PARK,Camp / Campground,1,1.0
+TPPD,TAKOMA PARK,Check Cashing Est.,8,8.0
+TPPD,TAKOMA PARK,Church/Synagogue/Temple,55,55.0
+TPPD,TAKOMA PARK,Commercial - Industrial park,1,1.0
+TPPD,TAKOMA PARK,Commercial - Office Building,122,123.0
+TPPD,TAKOMA PARK,Community Center,6,6.0
+TPPD,TAKOMA PARK,Construction Site,19,19.0
+TPPD,TAKOMA PARK,Convenience Store,730,732.0
+TPPD,TAKOMA PARK,Cyberspace,18,18.0
+TPPD,TAKOMA PARK,Daycare Facility,4,4.0
+TPPD,TAKOMA PARK,Doctor/Dentist/Vet Office,18,18.0
+TPPD,TAKOMA PARK,Field/ Open Space,8,8.0
+TPPD,TAKOMA PARK,Gas Station,386,388.0
+TPPD,TAKOMA PARK,Government Building,137,137.0
+TPPD,TAKOMA PARK,Grocery/Supermarket,218,219.0
+TPPD,TAKOMA PARK,Hospital/Emergency Care Center,333,339.0
+TPPD,TAKOMA PARK,Hotel/Motel/Etc.,238,242.0
+TPPD,TAKOMA PARK,Jail/Prison,4,4.0
+TPPD,TAKOMA PARK,Laundromat,28,28.0
+TPPD,TAKOMA PARK,Library,18,18.0
+TPPD,TAKOMA PARK,Liquor Store - Beer & Wine,14,14.0
+TPPD,TAKOMA PARK,Liquor Store - County,1,1.0
+TPPD,TAKOMA PARK,Nursery,2,2.0
+TPPD,TAKOMA PARK,Other/Unknown,306,307.0
+TPPD,TAKOMA PARK,Park,83,85.0
+TPPD,TAKOMA PARK,Parking Garage - Commercial,24,24.0
+TPPD,TAKOMA PARK,Parking Garage - County,1,1.0
+TPPD,TAKOMA PARK,Parking Garage - Metro,2,2.0
+TPPD,TAKOMA PARK,Parking Garage - Other,6,6.0
+TPPD,TAKOMA PARK,Parking Garage - Residential,33,33.0
+TPPD,TAKOMA PARK,Parking Lot - Church,15,15.0
+TPPD,TAKOMA PARK,Parking Lot - Commercial,729,737.0
+TPPD,TAKOMA PARK,Parking Lot - Metro,1,1.0
+TPPD,TAKOMA PARK,Parking Lot - Other,158,159.0
+TPPD,TAKOMA PARK,Parking Lot - Rec Center,12,12.0
+TPPD,TAKOMA PARK,Parking Lot - Residential,564,570.0
+TPPD,TAKOMA PARK,Parking Lot - School,41,42.0
+TPPD,TAKOMA PARK,Pawn Shop,4,4.0
+TPPD,TAKOMA PARK,Pool,1,1.0
+TPPD,TAKOMA PARK,Recreation Center,20,21.0
+TPPD,TAKOMA PARK,Rental Storage Facility,47,47.0
+TPPD,TAKOMA PARK,Residence - Apartment/Condo,1152,1176.0
+TPPD,TAKOMA PARK,Residence - Apt Ofc/Storage,39,39.0
+TPPD,TAKOMA PARK,Residence - Carport,2,2.0
+TPPD,TAKOMA PARK,Residence - Driveway,441,441.0
+TPPD,TAKOMA PARK,Residence - Garage,29,29.0
+TPPD,TAKOMA PARK,Residence - Mobile Home,2,2.0
+TPPD,TAKOMA PARK,Residence - Nursing Home,41,42.0
+TPPD,TAKOMA PARK,Residence - Other,144,144.0
+TPPD,TAKOMA PARK,Residence - Shed,72,72.0
+TPPD,TAKOMA PARK,Residence - Single Family,1268,1278.0
+TPPD,TAKOMA PARK,Residence - Yard,207,208.0
+TPPD,TAKOMA PARK,Residence -Townhouse/Duplex,54,54.0
+TPPD,TAKOMA PARK,Rest Area,1,1.0
+TPPD,TAKOMA PARK,Restaurant,227,232.0
+TPPD,TAKOMA PARK,Retail - Appliances/Electronics,49,50.0
+TPPD,TAKOMA PARK,Retail - Beauty/Barber Shop,8,8.0
+TPPD,TAKOMA PARK,Retail - Clothing,18,18.0
+TPPD,TAKOMA PARK,Retail - Department/Discount Store,115,115.0
+TPPD,TAKOMA PARK,Retail - Drug Store/Pharmacy,777,777.0
+TPPD,TAKOMA PARK,Retail - Dry Cleaner,7,7.0
+TPPD,TAKOMA PARK,Retail - Hardware,50,50.0
+TPPD,TAKOMA PARK,Retail - Jewelry,16,16.0
+TPPD,TAKOMA PARK,Retail - Mall,3,4.0
+TPPD,TAKOMA PARK,Retail - Other,142,142.0
+TPPD,TAKOMA PARK,Retail - Salon/Spa,23,23.0
+TPPD,TAKOMA PARK,School - College/University,20,21.0
+TPPD,TAKOMA PARK,School - Elementary/Secondary,92,94.0
+TPPD,TAKOMA PARK,School/College - DO NOT USE,152,155.0
+TPPD,TAKOMA PARK,Shelter-Mission/Homeless,2,2.0
+TPPD,TAKOMA PARK,Street - Alley,25,26.0
+TPPD,TAKOMA PARK,Street - Bus Stop,78,78.0
+TPPD,TAKOMA PARK,Street - Commercial,279,282.0
+TPPD,TAKOMA PARK,Street - In vehicle,683,686.0
+TPPD,TAKOMA PARK,Street - Other,376,383.0
+TPPD,TAKOMA PARK,Street - Residential,1565,1569.0
+TPPD,TAKOMA PARK,Theater,1,1.0
+TPPD,TAKOMA PARK,Wooded Area,15,15.0
+Unkn,<NA>,Air/Bus/Train/Metro Terminal,2,2.0
+Unkn,<NA>,Auto Dealership,3,3.0
+Unkn,<NA>,Auto Repair,1,1.0
+Unkn,<NA>,Bank - ATM,6,6.0
+Unkn,<NA>,Bank/S&L/Credit Union,2,2.0
+Unkn,<NA>,Bar/Night Club,8,10.0
+Unkn,<NA>,Church/Synagogue/Temple,2,2.0
+Unkn,<NA>,Commercial - Industrial park,3,3.0
+Unkn,<NA>,Commercial - Office Building,15,15.0
+Unkn,<NA>,Community Center,2,2.0
+Unkn,<NA>,Construction Site,4,4.0
+Unkn,<NA>,Convenience Store,19,19.0
+Unkn,<NA>,Cyberspace,4,4.0
+Unkn,<NA>,Doctor/Dentist/Vet Office,2,2.0
+Unkn,<NA>,Field/ Open Space,1,1.0
+Unkn,<NA>,Gas Station,11,11.0
+Unkn,<NA>,Government Building,8,8.0
+Unkn,<NA>,Grocery/Supermarket,24,24.0
+Unkn,<NA>,Hospital/Emergency Care Center,12,12.0
+Unkn,<NA>,Hotel/Motel/Etc.,9,9.0
+Unkn,<NA>,Industrial Site,1,1.0
+Unkn,<NA>,Laundromat,4,4.0
+Unkn,<NA>,Library,2,2.0
+Unkn,<NA>,Liquor Store - Beer & Wine,2,2.0
+Unkn,<NA>,Liquor Store - County,2,2.0
+Unkn,<NA>,Other/Unknown,88,88.0
+Unkn,<NA>,Park,7,7.0
+Unkn,<NA>,Parking Garage - Commercial,9,9.0
+Unkn,<NA>,Parking Garage - County,4,4.0
+Unkn,<NA>,Parking Garage - Metro,2,2.0
+Unkn,<NA>,Parking Garage - Other,4,6.0
+Unkn,<NA>,Parking Garage - Residential,17,17.0
+Unkn,<NA>,Parking Lot - Commercial,38,40.0
+Unkn,<NA>,Parking Lot - County,2,2.0
+Unkn,<NA>,Parking Lot - Other,7,7.0
+Unkn,<NA>,Parking Lot - Park & Ride,1,1.0
+Unkn,<NA>,Parking Lot - Rec Center,1,1.0
+Unkn,<NA>,Parking Lot - Residential,77,77.0
+Unkn,<NA>,Parking Lot - School,4,4.0
+Unkn,<NA>,Pawn Shop,1,1.0
+Unkn,<NA>,Recreation Center,3,3.0
+Unkn,<NA>,Rental Storage Facility,3,3.0
+Unkn,<NA>,Residence - Apartment/Condo,146,154.0
+Unkn,<NA>,Residence - Apt Ofc/Storage,5,5.0
+Unkn,<NA>,Residence - Carport,1,1.0
+Unkn,<NA>,Residence - Driveway,33,33.0
+Unkn,<NA>,Residence - Garage,3,3.0
+Unkn,<NA>,Residence - Nursing Home,5,5.0
+Unkn,<NA>,Residence - Other,16,16.0
+Unkn,<NA>,Residence - Shed,1,1.0
+Unkn,<NA>,Residence - Single Family,132,132.0
+Unkn,<NA>,Residence - Yard,12,14.0
+Unkn,<NA>,Residence -Townhouse/Duplex,60,63.0
+Unkn,<NA>,Restaurant,21,21.0
+Unkn,<NA>,Retail - Appliances/Electronics,2,2.0
+Unkn,<NA>,Retail - Beauty/Barber Shop,16,16.0
+Unkn,<NA>,Retail - Clothing,21,21.0
+Unkn,<NA>,Retail - Department/Discount Store,49,49.0
+Unkn,<NA>,Retail - Drug Store/Pharmacy,12,12.0
+Unkn,<NA>,Retail - Dry Cleaner,1,1.0
+Unkn,<NA>,Retail - Hardware,1,1.0
+Unkn,<NA>,Retail - Jewelry,1,1.0
+Unkn,<NA>,Retail - Mall,12,12.0
+Unkn,<NA>,Retail - Other,28,29.0
+Unkn,<NA>,Retail - Salon/Spa,3,3.0
+Unkn,<NA>,Retail - Sporting Goods,3,3.0
+Unkn,<NA>,School - College/University,1,1.0
+Unkn,<NA>,School - Elementary/Secondary,29,30.0
+Unkn,<NA>,School/College - DO NOT USE,3,3.0
+Unkn,<NA>,Shelter-Mission/Homeless,3,3.0
+Unkn,<NA>,Street - Alley,4,4.0
+Unkn,<NA>,Street - Bus Stop,7,7.0
+Unkn,<NA>,Street - Commercial,25,25.0
+Unkn,<NA>,Street - In vehicle,86,87.0
+Unkn,<NA>,Street - Other,29,30.0
+Unkn,<NA>,Street - Residential,101,102.0
+Unkn,<NA>,Wooded Area,1,1.0

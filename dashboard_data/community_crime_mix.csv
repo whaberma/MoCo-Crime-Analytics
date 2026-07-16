@@ -1,0 +1,1181 @@
+City,State,crime_category_primary,crime_category_secondary,offense_count,incident_count
+ASHTON,MD,Crime Against Not a Crime,Runaway,8,8
+ASHTON,MD,Crime Against Person,Aggravated Assault,3,3
+ASHTON,MD,Crime Against Person,Forcible Fondling,7,7
+ASHTON,MD,Crime Against Person,Forcible Rape,2,1
+ASHTON,MD,Crime Against Person,Intimidation,2,2
+ASHTON,MD,Crime Against Person,Simple Assault,29,29
+ASHTON,MD,Crime Against Property,All other Larceny,31,31
+ASHTON,MD,Crime Against Property,Burglary/Breaking and Entering,25,25
+ASHTON,MD,Crime Against Property,Counterfeiting/Forgery,11,11
+ASHTON,MD,Crime Against Property,Credit Card/Automatic Teller Machine Fraud,13,13
+ASHTON,MD,Crime Against Property,Destruction/Damage/Vandalism of Property,23,22
+ASHTON,MD,Crime Against Property,Embezzlement,2,2
+ASHTON,MD,Crime Against Property,False Pretenses/Swindle/Confidence Game,27,27
+ASHTON,MD,Crime Against Property,Hacking/Computer Invasion,1,1
+ASHTON,MD,Crime Against Property,Identity Theft,42,42
+ASHTON,MD,Crime Against Property,Impersonation,2,2
+ASHTON,MD,Crime Against Property,Motor Vehicle Theft,18,18
+ASHTON,MD,Crime Against Property,Robbery,2,2
+ASHTON,MD,Crime Against Property,Shoplifting,12,12
+ASHTON,MD,Crime Against Property,Theft from Building,14,14
+ASHTON,MD,Crime Against Property,Theft From Motor Vehicle,56,56
+ASHTON,MD,Crime Against Property,Theft of Motor Vehicle Parts or Accessories,11,11
+ASHTON,MD,Crime Against Society,All Other Offenses,190,189
+ASHTON,MD,Crime Against Society,Disorderly Conduct,2,2
+ASHTON,MD,Crime Against Society,Driving Under the Influence,26,26
+ASHTON,MD,Crime Against Society,Drug Equipment Violations,1,1
+ASHTON,MD,Crime Against Society,Drug/Narcotic Violations,8,8
+ASHTON,MD,Crime Against Society,"Family Offenses, NonViolent",1,1
+ASHTON,MD,Crime Against Society,Liquor Law Violations,1,1
+ASHTON,MD,Crime Against Society,Trespass of Real Property,2,2
+ASHTON,MD,Crime Against Society,Weapon Law Violations,1,1
+BARNESVILLE,MD,Crime Against Person,Aggravated Assault,6,6
+BARNESVILLE,MD,Crime Against Person,Simple Assault,4,4
+BARNESVILLE,MD,Crime Against Property,All other Larceny,2,2
+BARNESVILLE,MD,Crime Against Property,Burglary/Breaking and Entering,2,2
+BARNESVILLE,MD,Crime Against Property,Counterfeiting/Forgery,1,1
+BARNESVILLE,MD,Crime Against Property,Credit Card/Automatic Teller Machine Fraud,1,1
+BARNESVILLE,MD,Crime Against Property,Destruction/Damage/Vandalism of Property,6,6
+BARNESVILLE,MD,Crime Against Property,Embezzlement,1,1
+BARNESVILLE,MD,Crime Against Property,False Pretenses/Swindle/Confidence Game,2,2
+BARNESVILLE,MD,Crime Against Property,Identity Theft,3,3
+BARNESVILLE,MD,Crime Against Property,Motor Vehicle Theft,2,2
+BARNESVILLE,MD,Crime Against Property,Theft from Building,2,2
+BARNESVILLE,MD,Crime Against Property,Theft of Motor Vehicle Parts or Accessories,3,3
+BARNESVILLE,MD,Crime Against Society,All Other Offenses,27,27
+BARNESVILLE,MD,Crime Against Society,Driving Under the Influence,1,1
+BARNESVILLE,MD,Crime Against Society,Drug Equipment Violations,1,1
+BARNESVILLE,MD,Crime Against Society,Drug/Narcotic Violations,12,12
+BARNESVILLE,MD,Crime Against Society,Liquor Law Violations,2,2
+BARNESVILLE,MD,Crime Against Society,Pornography/Obscene Material,1,1
+BEALLSVILLE,MD,Crime Against Person,Simple Assault,5,5
+BEALLSVILLE,MD,Crime Against Property,All other Larceny,5,5
+BEALLSVILLE,MD,Crime Against Property,Burglary/Breaking and Entering,2,2
+BEALLSVILLE,MD,Crime Against Property,Counterfeiting/Forgery,1,1
+BEALLSVILLE,MD,Crime Against Property,Credit Card/Automatic Teller Machine Fraud,2,2
+BEALLSVILLE,MD,Crime Against Property,Destruction/Damage/Vandalism of Property,3,3
+BEALLSVILLE,MD,Crime Against Property,False Pretenses/Swindle/Confidence Game,2,2
+BEALLSVILLE,MD,Crime Against Property,Identity Theft,1,1
+BEALLSVILLE,MD,Crime Against Property,Impersonation,1,1
+BEALLSVILLE,MD,Crime Against Property,Motor Vehicle Theft,3,3
+BEALLSVILLE,MD,Crime Against Property,Theft From Motor Vehicle,7,7
+BEALLSVILLE,MD,Crime Against Property,Wire Fraud,1,1
+BEALLSVILLE,MD,Crime Against Society,All Other Offenses,23,23
+BEALLSVILLE,MD,Crime Against Society,Driving Under the Influence,3,3
+BEALLSVILLE,MD,Crime Against Society,Drug/Narcotic Violations,2,2
+BELTSVILLE,MD,Crime Against Not a Crime,Runaway,1,1
+BELTSVILLE,MD,Crime Against Person,Aggravated Assault,7,7
+BELTSVILLE,MD,Crime Against Person,Forcible Rape,3,2
+BELTSVILLE,MD,Crime Against Person,Simple Assault,19,19
+BELTSVILLE,MD,Crime Against Property,All other Larceny,2,2
+BELTSVILLE,MD,Crime Against Property,Burglary/Breaking and Entering,18,18
+BELTSVILLE,MD,Crime Against Property,Counterfeiting/Forgery,1,1
+BELTSVILLE,MD,Crime Against Property,Credit Card/Automatic Teller Machine Fraud,1,1
+BELTSVILLE,MD,Crime Against Property,Destruction/Damage/Vandalism of Property,6,6
+BELTSVILLE,MD,Crime Against Property,False Pretenses/Swindle/Confidence Game,1,1
+BELTSVILLE,MD,Crime Against Property,Identity Theft,3,3
+BELTSVILLE,MD,Crime Against Property,Motor Vehicle Theft,11,11
+BELTSVILLE,MD,Crime Against Property,Shoplifting,3,3
+BELTSVILLE,MD,Crime Against Property,Theft from Building,3,3
+BELTSVILLE,MD,Crime Against Property,Theft From Motor Vehicle,5,5
+BELTSVILLE,MD,Crime Against Property,Theft of Motor Vehicle Parts or Accessories,3,3
+BELTSVILLE,MD,Crime Against Society,All Other Offenses,37,37
+BELTSVILLE,MD,Crime Against Society,Disorderly Conduct,1,1
+BELTSVILLE,MD,Crime Against Society,Driving Under the Influence,2,2
+BELTSVILLE,MD,Crime Against Society,Drug/Narcotic Violations,2,2
+BELTSVILLE,MD,Crime Against Society,Trespass of Real Property,2,2
+BELTSVILLE,MD,Crime Against Society,Weapon Law Violations,1,1
+BETHESDA,MD,Crime Against Not a Crime,Runaway,528,528
+BETHESDA,MD,Crime Against Person,Aggravated Assault,198,197
+BETHESDA,MD,Crime Against Person,Forcible Fondling,143,143
+BETHESDA,MD,Crime Against Person,Forcible Rape,207,174
+BETHESDA,MD,Crime Against Person,"Human Trafficking, Commercial Sex Acts",1,1
+BETHESDA,MD,Crime Against Person,Incest,1,1
+BETHESDA,MD,Crime Against Person,Intimidation,66,66
+BETHESDA,MD,Crime Against Person,Kidnapping/Abduction,6,6
+BETHESDA,MD,Crime Against Person,Murder and Nonnegligent Manslaughter,6,6
+BETHESDA,MD,Crime Against Person,Negligent Manslaughter,1,1
+BETHESDA,MD,Crime Against Person,Simple Assault,1885,1880
+BETHESDA,MD,Crime Against Person,Statuory Rape,3,3
+BETHESDA,MD,Crime Against Property,All other Larceny,2102,2102
+BETHESDA,MD,Crime Against Property,Arson,21,21
+BETHESDA,MD,Crime Against Property,Burglary/Breaking and Entering,974,971
+BETHESDA,MD,Crime Against Property,Counterfeiting/Forgery,695,691
+BETHESDA,MD,Crime Against Property,Credit Card/Automatic Teller Machine Fraud,907,907
+BETHESDA,MD,Crime Against Property,Destruction/Damage/Vandalism of Property,1816,1811
+BETHESDA,MD,Crime Against Property,Embezzlement,85,85
+BETHESDA,MD,Crime Against Property,Extortion/Blackmail,86,86
+BETHESDA,MD,Crime Against Property,False Pretenses/Swindle/Confidence Game,1004,1003
+BETHESDA,MD,Crime Against Property,From Coin/Operated Machine or Device,2,2
+BETHESDA,MD,Crime Against Property,Hacking/Computer Invasion,14,14
+BETHESDA,MD,Crime Against Property,Identity Theft,1482,1482
+BETHESDA,MD,Crime Against Property,Impersonation,264,264
+BETHESDA,MD,Crime Against Property,Motor Vehicle Theft,864,861
+BETHESDA,MD,Crime Against Property,Pocket/picking,185,185
+BETHESDA,MD,Crime Against Property,Purse-snatching,48,48
+BETHESDA,MD,Crime Against Property,Robbery,224,221
+BETHESDA,MD,Crime Against Property,Shoplifting,3281,3281
+BETHESDA,MD,Crime Against Property,Stolen Property Offenses,10,10
+BETHESDA,MD,Crime Against Property,Theft from Building,1964,1964
+BETHESDA,MD,Crime Against Property,Theft From Motor Vehicle,3312,3312
+BETHESDA,MD,Crime Against Property,Theft of Motor Vehicle Parts or Accessories,825,825
+BETHESDA,MD,Crime Against Property,Welfare Fraud,1,1
+BETHESDA,MD,Crime Against Property,Wire Fraud,40,40
+BETHESDA,MD,Crime Against Society,All Other Offenses,8553,8508
+BETHESDA,MD,Crime Against Society,Animal Cruelty,2,2
+BETHESDA,MD,Crime Against Society,Assisting or Promoting Prostitution,3,3
+BETHESDA,MD,Crime Against Society,Disorderly Conduct,460,452
+BETHESDA,MD,Crime Against Society,Driving Under the Influence,890,886
+BETHESDA,MD,Crime Against Society,Drug Equipment Violations,101,101
+BETHESDA,MD,Crime Against Society,Drug/Narcotic Violations,1046,964
+BETHESDA,MD,Crime Against Society,"Family Offenses, NonViolent",50,50
+BETHESDA,MD,Crime Against Society,Liquor Law Violations,375,371
+BETHESDA,MD,Crime Against Society,Pornography/Obscene Material,21,21
+BETHESDA,MD,Crime Against Society,Prostitution,5,5
+BETHESDA,MD,Crime Against Society,Trespass of Real Property,211,211
+BETHESDA,MD,Crime Against Society,Weapon Law Violations,114,111
+BOYDS,MD,Crime Against Not a Crime,Runaway,23,23
+BOYDS,MD,Crime Against Person,Aggravated Assault,32,31
+BOYDS,MD,Crime Against Person,Forcible Fondling,10,10
+BOYDS,MD,Crime Against Person,Forcible Rape,17,16
+BOYDS,MD,Crime Against Person,Intimidation,5,5
+BOYDS,MD,Crime Against Person,Murder and Nonnegligent Manslaughter,1,1
+BOYDS,MD,Crime Against Person,Simple Assault,130,130
+BOYDS,MD,Crime Against Person,Statuory Rape,1,1
+BOYDS,MD,Crime Against Property,All other Larceny,103,103
+BOYDS,MD,Crime Against Property,Arson,2,2
+BOYDS,MD,Crime Against Property,Burglary/Breaking and Entering,58,58
+BOYDS,MD,Crime Against Property,Counterfeiting/Forgery,11,11
+BOYDS,MD,Crime Against Property,Credit Card/Automatic Teller Machine Fraud,41,41
+BOYDS,MD,Crime Against Property,Destruction/Damage/Vandalism of Property,105,105
+BOYDS,MD,Crime Against Property,Embezzlement,5,5
+BOYDS,MD,Crime Against Property,Extortion/Blackmail,7,7
+BOYDS,MD,Crime Against Property,False Pretenses/Swindle/Confidence Game,63,63
+BOYDS,MD,Crime Against Property,Hacking/Computer Invasion,1,1
+BOYDS,MD,Crime Against Property,Identity Theft,113,113
+BOYDS,MD,Crime Against Property,Impersonation,12,12
+BOYDS,MD,Crime Against Property,Motor Vehicle Theft,27,27
+BOYDS,MD,Crime Against Property,Pocket/picking,2,2
+BOYDS,MD,Crime Against Property,Robbery,4,4
+BOYDS,MD,Crime Against Property,Shoplifting,12,12
+BOYDS,MD,Crime Against Property,Theft from Building,29,29
+BOYDS,MD,Crime Against Property,Theft From Motor Vehicle,164,164
+BOYDS,MD,Crime Against Property,Theft of Motor Vehicle Parts or Accessories,41,41
+BOYDS,MD,Crime Against Property,Wire Fraud,5,5
+BOYDS,MD,Crime Against Society,All Other Offenses,509,504
+BOYDS,MD,Crime Against Society,Animal Cruelty,3,3
+BOYDS,MD,Crime Against Society,Disorderly Conduct,5,5
+BOYDS,MD,Crime Against Society,Driving Under the Influence,74,74
+BOYDS,MD,Crime Against Society,Drug Equipment Violations,5,5
+BOYDS,MD,Crime Against Society,Drug/Narcotic Violations,57,53
+BOYDS,MD,Crime Against Society,"Family Offenses, NonViolent",3,3
+BOYDS,MD,Crime Against Society,Liquor Law Violations,2,2
+BOYDS,MD,Crime Against Society,Trespass of Real Property,11,11
+BOYDS,MD,Crime Against Society,Weapon Law Violations,12,12
+BROOKEVILLE,MD,Crime Against Not a Crime,Runaway,54,54
+BROOKEVILLE,MD,Crime Against Person,Aggravated Assault,9,9
+BROOKEVILLE,MD,Crime Against Person,Forcible Fondling,7,7
+BROOKEVILLE,MD,Crime Against Person,Forcible Rape,11,9
+BROOKEVILLE,MD,Crime Against Person,Intimidation,1,1
+BROOKEVILLE,MD,Crime Against Person,Murder and Nonnegligent Manslaughter,2,2
+BROOKEVILLE,MD,Crime Against Person,Simple Assault,64,64
+BROOKEVILLE,MD,Crime Against Person,Statuory Rape,1,1
+BROOKEVILLE,MD,Crime Against Property,All other Larceny,65,65
+BROOKEVILLE,MD,Crime Against Property,Arson,2,2
+BROOKEVILLE,MD,Crime Against Property,Burglary/Breaking and Entering,61,61
+BROOKEVILLE,MD,Crime Against Property,Counterfeiting/Forgery,25,25
+BROOKEVILLE,MD,Crime Against Property,Credit Card/Automatic Teller Machine Fraud,32,32
+BROOKEVILLE,MD,Crime Against Property,Destruction/Damage/Vandalism of Property,73,73
+BROOKEVILLE,MD,Crime Against Property,Embezzlement,4,4
+BROOKEVILLE,MD,Crime Against Property,Extortion/Blackmail,7,7
+BROOKEVILLE,MD,Crime Against Property,False Pretenses/Swindle/Confidence Game,45,45
+BROOKEVILLE,MD,Crime Against Property,Hacking/Computer Invasion,1,1
+BROOKEVILLE,MD,Crime Against Property,Identity Theft,128,128
+BROOKEVILLE,MD,Crime Against Property,Impersonation,9,9
+BROOKEVILLE,MD,Crime Against Property,Motor Vehicle Theft,32,32
+BROOKEVILLE,MD,Crime Against Property,Robbery,3,3
+BROOKEVILLE,MD,Crime Against Property,Shoplifting,1,1
+BROOKEVILLE,MD,Crime Against Property,Theft from Building,25,25
+BROOKEVILLE,MD,Crime Against Property,Theft From Motor Vehicle,107,107
+BROOKEVILLE,MD,Crime Against Property,Theft of Motor Vehicle Parts or Accessories,28,28
+BROOKEVILLE,MD,Crime Against Property,Wire Fraud,2,2
+BROOKEVILLE,MD,Crime Against Society,All Other Offenses,564,561
+BROOKEVILLE,MD,Crime Against Society,Animal Cruelty,1,1
+BROOKEVILLE,MD,Crime Against Society,Disorderly Conduct,8,8
+BROOKEVILLE,MD,Crime Against Society,Driving Under the Influence,51,51
+BROOKEVILLE,MD,Crime Against Society,Drug Equipment Violations,4,4
+BROOKEVILLE,MD,Crime Against Society,Drug/Narcotic Violations,32,30
+BROOKEVILLE,MD,Crime Against Society,"Family Offenses, NonViolent",1,1
+BROOKEVILLE,MD,Crime Against Society,Liquor Law Violations,5,5
+BROOKEVILLE,MD,Crime Against Society,Pornography/Obscene Material,3,3
+BROOKEVILLE,MD,Crime Against Society,Trespass of Real Property,5,5
+BROOKEVILLE,MD,Crime Against Society,Weapon Law Violations,7,7
+BURTONSVILLE,MD,Crime Against Not a Crime,Runaway,70,70
+BURTONSVILLE,MD,Crime Against Person,Aggravated Assault,101,98
+BURTONSVILLE,MD,Crime Against Person,Forcible Fondling,45,44
+BURTONSVILLE,MD,Crime Against Person,Forcible Rape,36,30
+BURTONSVILLE,MD,Crime Against Person,Intimidation,10,10
+BURTONSVILLE,MD,Crime Against Person,Kidnapping/Abduction,3,3
+BURTONSVILLE,MD,Crime Against Person,Murder and Nonnegligent Manslaughter,7,7
+BURTONSVILLE,MD,Crime Against Person,Simple Assault,414,413
+BURTONSVILLE,MD,Crime Against Person,Statuory Rape,3,3
+BURTONSVILLE,MD,Crime Against Property,All other Larceny,283,283
+BURTONSVILLE,MD,Crime Against Property,Arson,8,8
+BURTONSVILLE,MD,Crime Against Property,Burglary/Breaking and Entering,266,266
+BURTONSVILLE,MD,Crime Against Property,Counterfeiting/Forgery,49,49
+BURTONSVILLE,MD,Crime Against Property,Credit Card/Automatic Teller Machine Fraud,101,101
+BURTONSVILLE,MD,Crime Against Property,Destruction/Damage/Vandalism of Property,476,474
+BURTONSVILLE,MD,Crime Against Property,Embezzlement,11,11
+BURTONSVILLE,MD,Crime Against Property,Extortion/Blackmail,4,4
+BURTONSVILLE,MD,Crime Against Property,False Pretenses/Swindle/Confidence Game,137,137
+BURTONSVILLE,MD,Crime Against Property,From Coin/Operated Machine or Device,2,2
+BURTONSVILLE,MD,Crime Against Property,Hacking/Computer Invasion,3,3
+BURTONSVILLE,MD,Crime Against Property,Identity Theft,174,174
+BURTONSVILLE,MD,Crime Against Property,Impersonation,18,18
+BURTONSVILLE,MD,Crime Against Property,Motor Vehicle Theft,370,370
+BURTONSVILLE,MD,Crime Against Property,Pocket/picking,7,7
+BURTONSVILLE,MD,Crime Against Property,Purse-snatching,4,4
+BURTONSVILLE,MD,Crime Against Property,Robbery,70,70
+BURTONSVILLE,MD,Crime Against Property,Shoplifting,209,209
+BURTONSVILLE,MD,Crime Against Property,Stolen Property Offenses,4,3
+BURTONSVILLE,MD,Crime Against Property,Theft from Building,123,123
+BURTONSVILLE,MD,Crime Against Property,Theft From Motor Vehicle,652,652
+BURTONSVILLE,MD,Crime Against Property,Theft of Motor Vehicle Parts or Accessories,351,351
+BURTONSVILLE,MD,Crime Against Property,Wire Fraud,9,9
+BURTONSVILLE,MD,Crime Against Society,All Other Offenses,1391,1383
+BURTONSVILLE,MD,Crime Against Society,Animal Cruelty,2,2
+BURTONSVILLE,MD,Crime Against Society,Disorderly Conduct,44,43
+BURTONSVILLE,MD,Crime Against Society,Driving Under the Influence,242,240
+BURTONSVILLE,MD,Crime Against Society,Drug Equipment Violations,23,23
+BURTONSVILLE,MD,Crime Against Society,Drug/Narcotic Violations,307,292
+BURTONSVILLE,MD,Crime Against Society,"Family Offenses, NonViolent",9,9
+BURTONSVILLE,MD,Crime Against Society,Liquor Law Violations,30,30
+BURTONSVILLE,MD,Crime Against Society,Pornography/Obscene Material,2,2
+BURTONSVILLE,MD,Crime Against Society,Trespass of Real Property,38,38
+BURTONSVILLE,MD,Crime Against Society,Weapon Law Violations,86,85
+CABIN JOHN,MD,Crime Against Not a Crime,Runaway,6,6
+CABIN JOHN,MD,Crime Against Person,Aggravated Assault,4,4
+CABIN JOHN,MD,Crime Against Person,Forcible Fondling,1,1
+CABIN JOHN,MD,Crime Against Person,Forcible Rape,2,1
+CABIN JOHN,MD,Crime Against Person,Intimidation,2,2
+CABIN JOHN,MD,Crime Against Person,Simple Assault,11,11
+CABIN JOHN,MD,Crime Against Property,All other Larceny,21,21
+CABIN JOHN,MD,Crime Against Property,Burglary/Breaking and Entering,18,18
+CABIN JOHN,MD,Crime Against Property,Counterfeiting/Forgery,4,4
+CABIN JOHN,MD,Crime Against Property,Credit Card/Automatic Teller Machine Fraud,17,17
+CABIN JOHN,MD,Crime Against Property,Destruction/Damage/Vandalism of Property,23,23
+CABIN JOHN,MD,Crime Against Property,False Pretenses/Swindle/Confidence Game,7,7
+CABIN JOHN,MD,Crime Against Property,Identity Theft,17,17
+CABIN JOHN,MD,Crime Against Property,Impersonation,7,7
+CABIN JOHN,MD,Crime Against Property,Motor Vehicle Theft,8,8
+CABIN JOHN,MD,Crime Against Property,Pocket/picking,1,1
+CABIN JOHN,MD,Crime Against Property,Robbery,1,1
+CABIN JOHN,MD,Crime Against Property,Theft from Building,6,6
+CABIN JOHN,MD,Crime Against Property,Theft From Motor Vehicle,50,50
+CABIN JOHN,MD,Crime Against Property,Theft of Motor Vehicle Parts or Accessories,8,8
+CABIN JOHN,MD,Crime Against Property,Wire Fraud,2,2
+CABIN JOHN,MD,Crime Against Society,All Other Offenses,96,95
+CABIN JOHN,MD,Crime Against Society,Driving Under the Influence,8,8
+CABIN JOHN,MD,Crime Against Society,Drug Equipment Violations,1,1
+CABIN JOHN,MD,Crime Against Society,Drug/Narcotic Violations,2,1
+CABIN JOHN,MD,Crime Against Society,"Family Offenses, NonViolent",1,1
+CABIN JOHN,MD,Crime Against Society,Liquor Law Violations,3,3
+CHEVY CHASE,MD,Crime Against Not a Crime,Runaway,34,34
+CHEVY CHASE,MD,Crime Against Person,Aggravated Assault,64,64
+CHEVY CHASE,MD,Crime Against Person,Forcible Fondling,31,31
+CHEVY CHASE,MD,Crime Against Person,Forcible Rape,51,45
+CHEVY CHASE,MD,Crime Against Person,Intimidation,18,18
+CHEVY CHASE,MD,Crime Against Person,Kidnapping/Abduction,1,1
+CHEVY CHASE,MD,Crime Against Person,Murder and Nonnegligent Manslaughter,4,4
+CHEVY CHASE,MD,Crime Against Person,Simple Assault,385,384
+CHEVY CHASE,MD,Crime Against Person,Statuory Rape,1,1
+CHEVY CHASE,MD,Crime Against Property,All other Larceny,579,579
+CHEVY CHASE,MD,Crime Against Property,Arson,9,9
+CHEVY CHASE,MD,Crime Against Property,Burglary/Breaking and Entering,352,352
+CHEVY CHASE,MD,Crime Against Property,Counterfeiting/Forgery,205,205
+CHEVY CHASE,MD,Crime Against Property,Credit Card/Automatic Teller Machine Fraud,277,277
+CHEVY CHASE,MD,Crime Against Property,Destruction/Damage/Vandalism of Property,514,514
+CHEVY CHASE,MD,Crime Against Property,Embezzlement,25,25
+CHEVY CHASE,MD,Crime Against Property,Extortion/Blackmail,24,24
+CHEVY CHASE,MD,Crime Against Property,False Pretenses/Swindle/Confidence Game,309,309
+CHEVY CHASE,MD,Crime Against Property,From Coin/Operated Machine or Device,1,1
+CHEVY CHASE,MD,Crime Against Property,Hacking/Computer Invasion,3,3
+CHEVY CHASE,MD,Crime Against Property,Identity Theft,431,431
+CHEVY CHASE,MD,Crime Against Property,Impersonation,114,114
+CHEVY CHASE,MD,Crime Against Property,Motor Vehicle Theft,308,308
+CHEVY CHASE,MD,Crime Against Property,Pocket/picking,70,70
+CHEVY CHASE,MD,Crime Against Property,Purse-snatching,18,18
+CHEVY CHASE,MD,Crime Against Property,Robbery,46,46
+CHEVY CHASE,MD,Crime Against Property,Shoplifting,1169,1169
+CHEVY CHASE,MD,Crime Against Property,Stolen Property Offenses,5,5
+CHEVY CHASE,MD,Crime Against Property,Theft from Building,569,569
+CHEVY CHASE,MD,Crime Against Property,Theft From Motor Vehicle,1517,1517
+CHEVY CHASE,MD,Crime Against Property,Theft of Motor Vehicle Parts or Accessories,299,299
+CHEVY CHASE,MD,Crime Against Property,Wire Fraud,13,13
+CHEVY CHASE,MD,Crime Against Society,All Other Offenses,2013,2006
+CHEVY CHASE,MD,Crime Against Society,Animal Cruelty,3,3
+CHEVY CHASE,MD,Crime Against Society,Assisting or Promoting Prostitution,1,1
+CHEVY CHASE,MD,Crime Against Society,Disorderly Conduct,62,60
+CHEVY CHASE,MD,Crime Against Society,Driving Under the Influence,187,184
+CHEVY CHASE,MD,Crime Against Society,Drug Equipment Violations,17,17
+CHEVY CHASE,MD,Crime Against Society,Drug/Narcotic Violations,186,174
+CHEVY CHASE,MD,Crime Against Society,"Family Offenses, NonViolent",8,8
+CHEVY CHASE,MD,Crime Against Society,Liquor Law Violations,39,39
+CHEVY CHASE,MD,Crime Against Society,Pornography/Obscene Material,3,3
+CHEVY CHASE,MD,Crime Against Society,Trespass of Real Property,36,36
+CHEVY CHASE,MD,Crime Against Society,Weapon Law Violations,13,13
+CLARKSBURG,MD,Crime Against Not a Crime,Runaway,100,100
+CLARKSBURG,MD,Crime Against Person,Aggravated Assault,87,85
+CLARKSBURG,MD,Crime Against Person,Forcible Fondling,51,51
+CLARKSBURG,MD,Crime Against Person,Forcible Rape,63,49
+CLARKSBURG,MD,Crime Against Person,Incest,2,2
+CLARKSBURG,MD,Crime Against Person,Intimidation,10,10
+CLARKSBURG,MD,Crime Against Person,Kidnapping/Abduction,1,1
+CLARKSBURG,MD,Crime Against Person,Murder and Nonnegligent Manslaughter,3,3
+CLARKSBURG,MD,Crime Against Person,Simple Assault,593,590
+CLARKSBURG,MD,Crime Against Person,Statuory Rape,5,5
+CLARKSBURG,MD,Crime Against Property,All other Larceny,485,485
+CLARKSBURG,MD,Crime Against Property,Arson,20,17
+CLARKSBURG,MD,Crime Against Property,Burglary/Breaking and Entering,170,170
+CLARKSBURG,MD,Crime Against Property,Counterfeiting/Forgery,36,36
+CLARKSBURG,MD,Crime Against Property,Credit Card/Automatic Teller Machine Fraud,147,147
+CLARKSBURG,MD,Crime Against Property,Destruction/Damage/Vandalism of Property,432,432
+CLARKSBURG,MD,Crime Against Property,Embezzlement,19,19
+CLARKSBURG,MD,Crime Against Property,Extortion/Blackmail,17,17
+CLARKSBURG,MD,Crime Against Property,False Pretenses/Swindle/Confidence Game,158,158
+CLARKSBURG,MD,Crime Against Property,From Coin/Operated Machine or Device,1,1
+CLARKSBURG,MD,Crime Against Property,Hacking/Computer Invasion,2,2
+CLARKSBURG,MD,Crime Against Property,Identity Theft,306,306
+CLARKSBURG,MD,Crime Against Property,Impersonation,17,17
+CLARKSBURG,MD,Crime Against Property,Motor Vehicle Theft,134,134
+CLARKSBURG,MD,Crime Against Property,Pocket/picking,9,9
+CLARKSBURG,MD,Crime Against Property,Purse-snatching,3,3
+CLARKSBURG,MD,Crime Against Property,Robbery,36,36
+CLARKSBURG,MD,Crime Against Property,Shoplifting,970,970
+CLARKSBURG,MD,Crime Against Property,Stolen Property Offenses,4,4
+CLARKSBURG,MD,Crime Against Property,Theft from Building,270,270
+CLARKSBURG,MD,Crime Against Property,Theft From Motor Vehicle,385,385
+CLARKSBURG,MD,Crime Against Property,Theft of Motor Vehicle Parts or Accessories,101,101
+CLARKSBURG,MD,Crime Against Property,Welfare Fraud,1,1
+CLARKSBURG,MD,Crime Against Property,Wire Fraud,10,10
+CLARKSBURG,MD,Crime Against Society,All Other Offenses,1726,1722
+CLARKSBURG,MD,Crime Against Society,Animal Cruelty,1,1
+CLARKSBURG,MD,Crime Against Society,Assisting or Promoting Prostitution,2,2
+CLARKSBURG,MD,Crime Against Society,Disorderly Conduct,40,40
+CLARKSBURG,MD,Crime Against Society,Driving Under the Influence,152,152
+CLARKSBURG,MD,Crime Against Society,Drug Equipment Violations,88,88
+CLARKSBURG,MD,Crime Against Society,Drug/Narcotic Violations,245,223
+CLARKSBURG,MD,Crime Against Society,"Family Offenses, NonViolent",26,26
+CLARKSBURG,MD,Crime Against Society,Liquor Law Violations,20,19
+CLARKSBURG,MD,Crime Against Society,Pornography/Obscene Material,3,3
+CLARKSBURG,MD,Crime Against Society,Trespass of Real Property,36,36
+CLARKSBURG,MD,Crime Against Society,Weapon Law Violations,105,104
+DAMASCUS,MD,Crime Against Not a Crime,Runaway,59,59
+DAMASCUS,MD,Crime Against Person,Aggravated Assault,74,73
+DAMASCUS,MD,Crime Against Person,Forcible Fondling,49,49
+DAMASCUS,MD,Crime Against Person,Forcible Rape,42,33
+DAMASCUS,MD,Crime Against Person,Intimidation,13,13
+DAMASCUS,MD,Crime Against Person,Murder and Nonnegligent Manslaughter,3,3
+DAMASCUS,MD,Crime Against Person,Simple Assault,404,401
+DAMASCUS,MD,Crime Against Property,All other Larceny,165,165
+DAMASCUS,MD,Crime Against Property,Arson,4,4
+DAMASCUS,MD,Crime Against Property,Burglary/Breaking and Entering,145,144
+DAMASCUS,MD,Crime Against Property,Counterfeiting/Forgery,38,37
+DAMASCUS,MD,Crime Against Property,Credit Card/Automatic Teller Machine Fraud,75,75
+DAMASCUS,MD,Crime Against Property,Destruction/Damage/Vandalism of Property,247,245
+DAMASCUS,MD,Crime Against Property,Embezzlement,3,3
+DAMASCUS,MD,Crime Against Property,Extortion/Blackmail,10,10
+DAMASCUS,MD,Crime Against Property,False Pretenses/Swindle/Confidence Game,117,117
+DAMASCUS,MD,Crime Against Property,From Coin/Operated Machine or Device,1,1
+DAMASCUS,MD,Crime Against Property,Hacking/Computer Invasion,3,3
+DAMASCUS,MD,Crime Against Property,Identity Theft,130,130
+DAMASCUS,MD,Crime Against Property,Impersonation,20,20
+DAMASCUS,MD,Crime Against Property,Motor Vehicle Theft,93,93
+DAMASCUS,MD,Crime Against Property,Pocket/picking,3,3
+DAMASCUS,MD,Crime Against Property,Purse-snatching,2,2
+DAMASCUS,MD,Crime Against Property,Robbery,10,10
+DAMASCUS,MD,Crime Against Property,Shoplifting,130,130
+DAMASCUS,MD,Crime Against Property,Stolen Property Offenses,3,3
+DAMASCUS,MD,Crime Against Property,Theft from Building,108,108
+DAMASCUS,MD,Crime Against Property,Theft From Motor Vehicle,245,245
+DAMASCUS,MD,Crime Against Property,Theft of Motor Vehicle Parts or Accessories,76,76
+DAMASCUS,MD,Crime Against Property,Wire Fraud,5,5
+DAMASCUS,MD,Crime Against Society,All Other Offenses,1114,1108
+DAMASCUS,MD,Crime Against Society,Animal Cruelty,2,2
+DAMASCUS,MD,Crime Against Society,Disorderly Conduct,27,27
+DAMASCUS,MD,Crime Against Society,Driving Under the Influence,221,221
+DAMASCUS,MD,Crime Against Society,Drug Equipment Violations,12,12
+DAMASCUS,MD,Crime Against Society,Drug/Narcotic Violations,237,216
+DAMASCUS,MD,Crime Against Society,"Family Offenses, NonViolent",16,15
+DAMASCUS,MD,Crime Against Society,Liquor Law Violations,14,14
+DAMASCUS,MD,Crime Against Society,Pornography/Obscene Material,7,7
+DAMASCUS,MD,Crime Against Society,Trespass of Real Property,25,25
+DAMASCUS,MD,Crime Against Society,Weapon Law Violations,51,50
+DERWOOD,MD,Crime Against Not a Crime,Runaway,81,81
+DERWOOD,MD,Crime Against Person,Aggravated Assault,81,80
+DERWOOD,MD,Crime Against Person,Forcible Fondling,105,105
+DERWOOD,MD,Crime Against Person,Forcible Rape,114,93
+DERWOOD,MD,Crime Against Person,"Human Trafficking, Involuntary Servitude",1,1
+DERWOOD,MD,Crime Against Person,Intimidation,13,13
+DERWOOD,MD,Crime Against Person,Kidnapping/Abduction,1,1
+DERWOOD,MD,Crime Against Person,Murder and Nonnegligent Manslaughter,2,2
+DERWOOD,MD,Crime Against Person,Simple Assault,424,422
+DERWOOD,MD,Crime Against Person,Statuory Rape,7,7
+DERWOOD,MD,Crime Against Property,All other Larceny,265,265
+DERWOOD,MD,Crime Against Property,Arson,2,2
+DERWOOD,MD,Crime Against Property,Bribery,1,1
+DERWOOD,MD,Crime Against Property,Burglary/Breaking and Entering,217,217
+DERWOOD,MD,Crime Against Property,Counterfeiting/Forgery,67,67
+DERWOOD,MD,Crime Against Property,Credit Card/Automatic Teller Machine Fraud,103,103
+DERWOOD,MD,Crime Against Property,Destruction/Damage/Vandalism of Property,364,361
+DERWOOD,MD,Crime Against Property,Embezzlement,17,17
+DERWOOD,MD,Crime Against Property,Extortion/Blackmail,20,20
+DERWOOD,MD,Crime Against Property,False Pretenses/Swindle/Confidence Game,165,165
+DERWOOD,MD,Crime Against Property,From Coin/Operated Machine or Device,2,2
+DERWOOD,MD,Crime Against Property,Hacking/Computer Invasion,3,3
+DERWOOD,MD,Crime Against Property,Identity Theft,223,223
+DERWOOD,MD,Crime Against Property,Impersonation,32,32
+DERWOOD,MD,Crime Against Property,Motor Vehicle Theft,218,218
+DERWOOD,MD,Crime Against Property,Pocket/picking,12,12
+DERWOOD,MD,Crime Against Property,Purse-snatching,4,4
+DERWOOD,MD,Crime Against Property,Robbery,41,40
+DERWOOD,MD,Crime Against Property,Shoplifting,132,132
+DERWOOD,MD,Crime Against Property,Stolen Property Offenses,2,2
+DERWOOD,MD,Crime Against Property,Theft from Building,178,178
+DERWOOD,MD,Crime Against Property,Theft From Motor Vehicle,460,460
+DERWOOD,MD,Crime Against Property,Theft of Motor Vehicle Parts or Accessories,176,176
+DERWOOD,MD,Crime Against Property,Welfare Fraud,1,1
+DERWOOD,MD,Crime Against Property,Wire Fraud,14,14
+DERWOOD,MD,Crime Against Society,All Other Offenses,3737,3718
+DERWOOD,MD,Crime Against Society,Animal Cruelty,9,9
+DERWOOD,MD,Crime Against Society,Assisting or Promoting Prostitution,1,1
+DERWOOD,MD,Crime Against Society,Disorderly Conduct,62,61
+DERWOOD,MD,Crime Against Society,Driving Under the Influence,328,326
+DERWOOD,MD,Crime Against Society,Drug Equipment Violations,24,24
+DERWOOD,MD,Crime Against Society,Drug/Narcotic Violations,278,254
+DERWOOD,MD,Crime Against Society,"Family Offenses, NonViolent",15,15
+DERWOOD,MD,Crime Against Society,Liquor Law Violations,31,30
+DERWOOD,MD,Crime Against Society,Pornography/Obscene Material,765,760
+DERWOOD,MD,Crime Against Society,Prostitution,2,2
+DERWOOD,MD,Crime Against Society,Trespass of Real Property,58,58
+DERWOOD,MD,Crime Against Society,Weapon Law Violations,54,54
+DICKERSON,MD,Crime Against Not a Crime,Runaway,3,3
+DICKERSON,MD,Crime Against Person,Aggravated Assault,9,9
+DICKERSON,MD,Crime Against Person,Forcible Fondling,1,1
+DICKERSON,MD,Crime Against Person,Forcible Rape,9,7
+DICKERSON,MD,Crime Against Person,Intimidation,1,1
+DICKERSON,MD,Crime Against Person,Simple Assault,28,28
+DICKERSON,MD,Crime Against Property,All other Larceny,26,26
+DICKERSON,MD,Crime Against Property,Burglary/Breaking and Entering,35,35
+DICKERSON,MD,Crime Against Property,Counterfeiting/Forgery,2,2
+DICKERSON,MD,Crime Against Property,Credit Card/Automatic Teller Machine Fraud,9,9
+DICKERSON,MD,Crime Against Property,Destruction/Damage/Vandalism of Property,29,29
+DICKERSON,MD,Crime Against Property,Embezzlement,2,2
+DICKERSON,MD,Crime Against Property,Extortion/Blackmail,1,1
+DICKERSON,MD,Crime Against Property,False Pretenses/Swindle/Confidence Game,14,14
+DICKERSON,MD,Crime Against Property,Identity Theft,16,16
+DICKERSON,MD,Crime Against Property,Impersonation,4,4
+DICKERSON,MD,Crime Against Property,Motor Vehicle Theft,3,3
+DICKERSON,MD,Crime Against Property,Stolen Property Offenses,1,1
+DICKERSON,MD,Crime Against Property,Theft from Building,12,12
+DICKERSON,MD,Crime Against Property,Theft From Motor Vehicle,14,14
+DICKERSON,MD,Crime Against Property,Theft of Motor Vehicle Parts or Accessories,9,9
+DICKERSON,MD,Crime Against Property,Wire Fraud,1,1
+DICKERSON,MD,Crime Against Society,All Other Offenses,181,177
+DICKERSON,MD,Crime Against Society,Animal Cruelty,3,3
+DICKERSON,MD,Crime Against Society,Disorderly Conduct,4,4
+DICKERSON,MD,Crime Against Society,Driving Under the Influence,12,12
+DICKERSON,MD,Crime Against Society,Drug/Narcotic Violations,6,3
+DICKERSON,MD,Crime Against Society,"Family Offenses, NonViolent",1,1
+DICKERSON,MD,Crime Against Society,Trespass of Real Property,10,10
+DICKERSON,MD,Crime Against Society,Weapon Law Violations,5,5
+GAITHERSBURG,MD,Crime Against Not a Crime,Justifiable Homicide,3,3
+GAITHERSBURG,MD,Crime Against Not a Crime,Runaway,771,771
+GAITHERSBURG,MD,Crime Against Person,Aggravated Assault,1230,1220
+GAITHERSBURG,MD,Crime Against Person,Forcible Fondling,425,421
+GAITHERSBURG,MD,Crime Against Person,Forcible Rape,654,545
+GAITHERSBURG,MD,Crime Against Person,"Human Trafficking, Commercial Sex Acts",22,22
+GAITHERSBURG,MD,Crime Against Person,Incest,1,1
+GAITHERSBURG,MD,Crime Against Person,Intimidation,105,105
+GAITHERSBURG,MD,Crime Against Person,Kidnapping/Abduction,25,25
+GAITHERSBURG,MD,Crime Against Person,Murder and Nonnegligent Manslaughter,20,20
+GAITHERSBURG,MD,Crime Against Person,Simple Assault,5370,5346
+GAITHERSBURG,MD,Crime Against Person,Statuory Rape,28,28
+GAITHERSBURG,MD,Crime Against Property,All other Larceny,2673,2672
+GAITHERSBURG,MD,Crime Against Property,Arson,80,71
+GAITHERSBURG,MD,Crime Against Property,Burglary/Breaking and Entering,1754,1746
+GAITHERSBURG,MD,Crime Against Property,Counterfeiting/Forgery,551,550
+GAITHERSBURG,MD,Crime Against Property,Credit Card/Automatic Teller Machine Fraud,1140,1140
+GAITHERSBURG,MD,Crime Against Property,Destruction/Damage/Vandalism of Property,4133,4121
+GAITHERSBURG,MD,Crime Against Property,Embezzlement,126,125
+GAITHERSBURG,MD,Crime Against Property,Extortion/Blackmail,87,87
+GAITHERSBURG,MD,Crime Against Property,False Pretenses/Swindle/Confidence Game,1503,1502
+GAITHERSBURG,MD,Crime Against Property,From Coin/Operated Machine or Device,11,11
+GAITHERSBURG,MD,Crime Against Property,Hacking/Computer Invasion,19,19
+GAITHERSBURG,MD,Crime Against Property,Identity Theft,1867,1867
+GAITHERSBURG,MD,Crime Against Property,Impersonation,176,176
+GAITHERSBURG,MD,Crime Against Property,Motor Vehicle Theft,2097,2096
+GAITHERSBURG,MD,Crime Against Property,Pocket/picking,91,91
+GAITHERSBURG,MD,Crime Against Property,Purse-snatching,88,88
+GAITHERSBURG,MD,Crime Against Property,Robbery,689,684
+GAITHERSBURG,MD,Crime Against Property,Shoplifting,4228,4228
+GAITHERSBURG,MD,Crime Against Property,Stolen Property Offenses,36,36
+GAITHERSBURG,MD,Crime Against Property,Theft from Building,2484,2483
+GAITHERSBURG,MD,Crime Against Property,Theft From Motor Vehicle,4408,4408
+GAITHERSBURG,MD,Crime Against Property,Theft of Motor Vehicle Parts or Accessories,1624,1624
+GAITHERSBURG,MD,Crime Against Property,Welfare Fraud,8,8
+GAITHERSBURG,MD,Crime Against Property,Wire Fraud,57,57
+GAITHERSBURG,MD,Crime Against Society,All Other Offenses,17703,17565
+GAITHERSBURG,MD,Crime Against Society,Animal Cruelty,22,22
+GAITHERSBURG,MD,Crime Against Society,Assisting or Promoting Prostitution,38,37
+GAITHERSBURG,MD,Crime Against Society,Curfew/Loitering/Vagrancy Violations,6,6
+GAITHERSBURG,MD,Crime Against Society,Disorderly Conduct,870,856
+GAITHERSBURG,MD,Crime Against Society,Driving Under the Influence,4898,4882
+GAITHERSBURG,MD,Crime Against Society,Drug Equipment Violations,604,604
+GAITHERSBURG,MD,Crime Against Society,Drug/Narcotic Violations,4554,4111
+GAITHERSBURG,MD,Crime Against Society,"Family Offenses, NonViolent",182,182
+GAITHERSBURG,MD,Crime Against Society,Liquor Law Violations,631,626
+GAITHERSBURG,MD,Crime Against Society,Pornography/Obscene Material,53,52
+GAITHERSBURG,MD,Crime Against Society,Prostitution,73,73
+GAITHERSBURG,MD,Crime Against Society,Trespass of Real Property,639,639
+GAITHERSBURG,MD,Crime Against Society,Weapon Law Violations,578,571
+GARRETT PARK,MD,Crime Against Person,Aggravated Assault,1,1
+GARRETT PARK,MD,Crime Against Person,Forcible Fondling,1,1
+GARRETT PARK,MD,Crime Against Person,Forcible Rape,3,2
+GARRETT PARK,MD,Crime Against Person,Simple Assault,8,8
+GARRETT PARK,MD,Crime Against Property,All other Larceny,12,12
+GARRETT PARK,MD,Crime Against Property,Arson,2,2
+GARRETT PARK,MD,Crime Against Property,Burglary/Breaking and Entering,11,11
+GARRETT PARK,MD,Crime Against Property,Counterfeiting/Forgery,2,2
+GARRETT PARK,MD,Crime Against Property,Credit Card/Automatic Teller Machine Fraud,5,5
+GARRETT PARK,MD,Crime Against Property,Destruction/Damage/Vandalism of Property,13,13
+GARRETT PARK,MD,Crime Against Property,Embezzlement,2,2
+GARRETT PARK,MD,Crime Against Property,Extortion/Blackmail,1,1
+GARRETT PARK,MD,Crime Against Property,False Pretenses/Swindle/Confidence Game,7,7
+GARRETT PARK,MD,Crime Against Property,Identity Theft,10,10
+GARRETT PARK,MD,Crime Against Property,Impersonation,1,1
+GARRETT PARK,MD,Crime Against Property,Motor Vehicle Theft,7,7
+GARRETT PARK,MD,Crime Against Property,Theft from Building,1,1
+GARRETT PARK,MD,Crime Against Property,Theft From Motor Vehicle,37,37
+GARRETT PARK,MD,Crime Against Property,Theft of Motor Vehicle Parts or Accessories,5,5
+GARRETT PARK,MD,Crime Against Society,All Other Offenses,45,45
+GARRETT PARK,MD,Crime Against Society,Disorderly Conduct,2,2
+GARRETT PARK,MD,Crime Against Society,Driving Under the Influence,4,4
+GARRETT PARK,MD,Crime Against Society,Drug Equipment Violations,2,2
+GARRETT PARK,MD,Crime Against Society,Drug/Narcotic Violations,9,7
+GARRETT PARK,MD,Crime Against Society,Liquor Law Violations,1,1
+GARRETT PARK,MD,Crime Against Society,Trespass of Real Property,1,1
+GERMANTOWN,MD,Crime Against Not a Crime,Justifiable Homicide,1,1
+GERMANTOWN,MD,Crime Against Not a Crime,Runaway,725,725
+GERMANTOWN,MD,Crime Against Person,Aggravated Assault,952,945
+GERMANTOWN,MD,Crime Against Person,Forcible Fondling,275,274
+GERMANTOWN,MD,Crime Against Person,Forcible Rape,393,333
+GERMANTOWN,MD,Crime Against Person,"Human Trafficking, Commercial Sex Acts",2,2
+GERMANTOWN,MD,Crime Against Person,Incest,2,2
+GERMANTOWN,MD,Crime Against Person,Intimidation,57,57
+GERMANTOWN,MD,Crime Against Person,Kidnapping/Abduction,9,9
+GERMANTOWN,MD,Crime Against Person,Murder and Nonnegligent Manslaughter,24,24
+GERMANTOWN,MD,Crime Against Person,Negligent Manslaughter,1,1
+GERMANTOWN,MD,Crime Against Person,Simple Assault,4635,4603
+GERMANTOWN,MD,Crime Against Person,Statuory Rape,11,11
+GERMANTOWN,MD,Crime Against Property,All other Larceny,2132,2130
+GERMANTOWN,MD,Crime Against Property,Arson,53,49
+GERMANTOWN,MD,Crime Against Property,Burglary/Breaking and Entering,1044,1042
+GERMANTOWN,MD,Crime Against Property,Counterfeiting/Forgery,260,259
+GERMANTOWN,MD,Crime Against Property,Credit Card/Automatic Teller Machine Fraud,758,758
+GERMANTOWN,MD,Crime Against Property,Destruction/Damage/Vandalism of Property,3048,3042
+GERMANTOWN,MD,Crime Against Property,Embezzlement,61,61
+GERMANTOWN,MD,Crime Against Property,Extortion/Blackmail,87,87
+GERMANTOWN,MD,Crime Against Property,False Pretenses/Swindle/Confidence Game,1034,1034
+GERMANTOWN,MD,Crime Against Property,From Coin/Operated Machine or Device,9,9
+GERMANTOWN,MD,Crime Against Property,Hacking/Computer Invasion,10,10
+GERMANTOWN,MD,Crime Against Property,Identity Theft,1139,1139
+GERMANTOWN,MD,Crime Against Property,Impersonation,105,105
+GERMANTOWN,MD,Crime Against Property,Motor Vehicle Theft,1298,1295
+GERMANTOWN,MD,Crime Against Property,Pocket/picking,62,62
+GERMANTOWN,MD,Crime Against Property,Purse-snatching,60,60
+GERMANTOWN,MD,Crime Against Property,Robbery,511,508
+GERMANTOWN,MD,Crime Against Property,Shoplifting,5492,5492
+GERMANTOWN,MD,Crime Against Property,Stolen Property Offenses,26,26
+GERMANTOWN,MD,Crime Against Property,Theft from Building,1304,1304
+GERMANTOWN,MD,Crime Against Property,Theft From Motor Vehicle,3504,3504
+GERMANTOWN,MD,Crime Against Property,Theft of Motor Vehicle Parts or Accessories,816,816
+GERMANTOWN,MD,Crime Against Property,Welfare Fraud,5,5
+GERMANTOWN,MD,Crime Against Property,Wire Fraud,48,48
+GERMANTOWN,MD,Crime Against Society,All Other Offenses,10385,10312
+GERMANTOWN,MD,Crime Against Society,Animal Cruelty,19,19
+GERMANTOWN,MD,Crime Against Society,Assisting or Promoting Prostitution,7,7
+GERMANTOWN,MD,Crime Against Society,Disorderly Conduct,551,545
+GERMANTOWN,MD,Crime Against Society,Driving Under the Influence,1775,1769
+GERMANTOWN,MD,Crime Against Society,Drug Equipment Violations,307,307
+GERMANTOWN,MD,Crime Against Society,Drug/Narcotic Violations,2739,2484
+GERMANTOWN,MD,Crime Against Society,"Family Offenses, NonViolent",197,195
+GERMANTOWN,MD,Crime Against Society,Liquor Law Violations,411,408
+GERMANTOWN,MD,Crime Against Society,Operating/Promoting/Assisting Gambling,1,1
+GERMANTOWN,MD,Crime Against Society,Pornography/Obscene Material,37,37
+GERMANTOWN,MD,Crime Against Society,Prostitution,9,9
+GERMANTOWN,MD,Crime Against Society,Trespass of Real Property,574,574
+GERMANTOWN,MD,Crime Against Society,Weapon Law Violations,480,470
+GLEN ECHO,MD,Crime Against Person,Simple Assault,2,2
+GLEN ECHO,MD,Crime Against Property,All other Larceny,8,8
+GLEN ECHO,MD,Crime Against Property,Burglary/Breaking and Entering,4,4
+GLEN ECHO,MD,Crime Against Property,Counterfeiting/Forgery,3,3
+GLEN ECHO,MD,Crime Against Property,Credit Card/Automatic Teller Machine Fraud,5,5
+GLEN ECHO,MD,Crime Against Property,Destruction/Damage/Vandalism of Property,5,5
+GLEN ECHO,MD,Crime Against Property,Embezzlement,1,1
+GLEN ECHO,MD,Crime Against Property,False Pretenses/Swindle/Confidence Game,2,2
+GLEN ECHO,MD,Crime Against Property,Identity Theft,7,7
+GLEN ECHO,MD,Crime Against Property,Impersonation,2,2
+GLEN ECHO,MD,Crime Against Property,Motor Vehicle Theft,1,1
+GLEN ECHO,MD,Crime Against Property,Stolen Property Offenses,1,1
+GLEN ECHO,MD,Crime Against Property,Theft From Motor Vehicle,31,31
+GLEN ECHO,MD,Crime Against Property,Theft of Motor Vehicle Parts or Accessories,3,3
+GLEN ECHO,MD,Crime Against Society,All Other Offenses,14,14
+GLEN ECHO,MD,Crime Against Society,Driving Under the Influence,1,1
+GLEN ECHO,MD,Crime Against Society,Drug Equipment Violations,1,1
+GLEN ECHO,MD,Crime Against Society,Drug/Narcotic Violations,2,1
+GLEN ECHO,MD,Crime Against Society,Weapon Law Violations,1,1
+HIGHLAND,MD,Crime Against Person,Forcible Fondling,1,1
+HIGHLAND,MD,Crime Against Person,Simple Assault,3,3
+HIGHLAND,MD,Crime Against Property,All other Larceny,2,2
+HIGHLAND,MD,Crime Against Property,Destruction/Damage/Vandalism of Property,3,3
+HIGHLAND,MD,Crime Against Property,Theft From Motor Vehicle,1,1
+HIGHLAND,MD,Crime Against Society,All Other Offenses,7,7
+HYATTSVILLE,MD,Crime Against Person,Simple Assault,3,3
+HYATTSVILLE,MD,Crime Against Property,All other Larceny,2,2
+HYATTSVILLE,MD,Crime Against Property,Burglary/Breaking and Entering,1,1
+HYATTSVILLE,MD,Crime Against Property,Credit Card/Automatic Teller Machine Fraud,2,2
+HYATTSVILLE,MD,Crime Against Property,Destruction/Damage/Vandalism of Property,4,4
+HYATTSVILLE,MD,Crime Against Property,Extortion/Blackmail,1,1
+HYATTSVILLE,MD,Crime Against Property,False Pretenses/Swindle/Confidence Game,1,1
+HYATTSVILLE,MD,Crime Against Property,Identity Theft,1,1
+HYATTSVILLE,MD,Crime Against Property,Motor Vehicle Theft,2,2
+HYATTSVILLE,MD,Crime Against Property,Robbery,1,1
+HYATTSVILLE,MD,Crime Against Property,Shoplifting,4,4
+HYATTSVILLE,MD,Crime Against Property,Theft From Motor Vehicle,3,3
+HYATTSVILLE,MD,Crime Against Society,All Other Offenses,36,36
+HYATTSVILLE,MD,Crime Against Society,Driving Under the Influence,6,6
+HYATTSVILLE,MD,Crime Against Society,Drug/Narcotic Violations,12,12
+HYATTSVILLE,MD,Crime Against Society,"Family Offenses, NonViolent",1,1
+HYATTSVILLE,MD,Crime Against Society,Trespass of Real Property,1,1
+HYATTSVILLE,MD,Crime Against Society,Weapon Law Violations,2,2
+KENSINGTON,MD,Crime Against Not a Crime,Runaway,26,26
+KENSINGTON,MD,Crime Against Person,Aggravated Assault,64,64
+KENSINGTON,MD,Crime Against Person,Forcible Fondling,51,51
+KENSINGTON,MD,Crime Against Person,Forcible Rape,60,48
+KENSINGTON,MD,Crime Against Person,"Human Trafficking, Commercial Sex Acts",2,2
+KENSINGTON,MD,Crime Against Person,Intimidation,10,10
+KENSINGTON,MD,Crime Against Person,Murder and Nonnegligent Manslaughter,3,3
+KENSINGTON,MD,Crime Against Person,Simple Assault,503,500
+KENSINGTON,MD,Crime Against Property,All other Larceny,344,344
+KENSINGTON,MD,Crime Against Property,Arson,6,6
+KENSINGTON,MD,Crime Against Property,Burglary/Breaking and Entering,319,319
+KENSINGTON,MD,Crime Against Property,Counterfeiting/Forgery,75,74
+KENSINGTON,MD,Crime Against Property,Credit Card/Automatic Teller Machine Fraud,140,140
+KENSINGTON,MD,Crime Against Property,Destruction/Damage/Vandalism of Property,389,388
+KENSINGTON,MD,Crime Against Property,Embezzlement,15,15
+KENSINGTON,MD,Crime Against Property,Extortion/Blackmail,11,11
+KENSINGTON,MD,Crime Against Property,False Pretenses/Swindle/Confidence Game,166,166
+KENSINGTON,MD,Crime Against Property,From Coin/Operated Machine or Device,1,1
+KENSINGTON,MD,Crime Against Property,Hacking/Computer Invasion,3,3
+KENSINGTON,MD,Crime Against Property,Identity Theft,265,265
+KENSINGTON,MD,Crime Against Property,Impersonation,67,67
+KENSINGTON,MD,Crime Against Property,Motor Vehicle Theft,218,217
+KENSINGTON,MD,Crime Against Property,Pocket/picking,27,27
+KENSINGTON,MD,Crime Against Property,Purse-snatching,10,10
+KENSINGTON,MD,Crime Against Property,Robbery,81,79
+KENSINGTON,MD,Crime Against Property,Shoplifting,581,581
+KENSINGTON,MD,Crime Against Property,Stolen Property Offenses,2,2
+KENSINGTON,MD,Crime Against Property,Theft from Building,238,238
+KENSINGTON,MD,Crime Against Property,Theft From Motor Vehicle,815,815
+KENSINGTON,MD,Crime Against Property,Theft of Motor Vehicle Parts or Accessories,262,262
+KENSINGTON,MD,Crime Against Property,Wire Fraud,10,10
+KENSINGTON,MD,Crime Against Society,All Other Offenses,1805,1796
+KENSINGTON,MD,Crime Against Society,Animal Cruelty,1,1
+KENSINGTON,MD,Crime Against Society,Assisting or Promoting Prostitution,3,3
+KENSINGTON,MD,Crime Against Society,Disorderly Conduct,86,86
+KENSINGTON,MD,Crime Against Society,Driving Under the Influence,175,175
+KENSINGTON,MD,Crime Against Society,Drug Equipment Violations,41,41
+KENSINGTON,MD,Crime Against Society,Drug/Narcotic Violations,576,535
+KENSINGTON,MD,Crime Against Society,"Family Offenses, NonViolent",14,14
+KENSINGTON,MD,Crime Against Society,Liquor Law Violations,97,96
+KENSINGTON,MD,Crime Against Society,Pornography/Obscene Material,5,5
+KENSINGTON,MD,Crime Against Society,Prostitution,3,3
+KENSINGTON,MD,Crime Against Society,Trespass of Real Property,88,88
+KENSINGTON,MD,Crime Against Society,Weapon Law Violations,77,74
+LAUREL,MD,Crime Against Person,Aggravated Assault,1,1
+LAUREL,MD,Crime Against Property,All other Larceny,4,4
+LAUREL,MD,Crime Against Property,Burglary/Breaking and Entering,10,10
+LAUREL,MD,Crime Against Property,Counterfeiting/Forgery,1,1
+LAUREL,MD,Crime Against Property,Destruction/Damage/Vandalism of Property,7,7
+LAUREL,MD,Crime Against Property,Embezzlement,1,1
+LAUREL,MD,Crime Against Property,False Pretenses/Swindle/Confidence Game,2,2
+LAUREL,MD,Crime Against Property,Identity Theft,4,4
+LAUREL,MD,Crime Against Property,Motor Vehicle Theft,2,2
+LAUREL,MD,Crime Against Property,Theft from Building,2,2
+LAUREL,MD,Crime Against Property,Theft From Motor Vehicle,9,9
+LAUREL,MD,Crime Against Property,Theft of Motor Vehicle Parts or Accessories,5,5
+LAUREL,MD,Crime Against Property,Wire Fraud,1,1
+LAUREL,MD,Crime Against Society,All Other Offenses,23,23
+LAUREL,MD,Crime Against Society,Driving Under the Influence,2,2
+LAUREL,MD,Crime Against Society,Drug/Narcotic Violations,2,2
+LAUREL,MD,Crime Against Society,Weapon Law Violations,1,1
+MONTGOMERY VILLAGE,MD,Crime Against Not a Crime,Justifiable Homicide,1,1
+MONTGOMERY VILLAGE,MD,Crime Against Not a Crime,Runaway,436,436
+MONTGOMERY VILLAGE,MD,Crime Against Person,Aggravated Assault,439,432
+MONTGOMERY VILLAGE,MD,Crime Against Person,Forcible Fondling,138,137
+MONTGOMERY VILLAGE,MD,Crime Against Person,Forcible Rape,192,164
+MONTGOMERY VILLAGE,MD,Crime Against Person,Intimidation,23,23
+MONTGOMERY VILLAGE,MD,Crime Against Person,Kidnapping/Abduction,9,9
+MONTGOMERY VILLAGE,MD,Crime Against Person,Murder and Nonnegligent Manslaughter,8,8
+MONTGOMERY VILLAGE,MD,Crime Against Person,Negligent Manslaughter,1,1
+MONTGOMERY VILLAGE,MD,Crime Against Person,Simple Assault,1534,1524
+MONTGOMERY VILLAGE,MD,Crime Against Person,Statuory Rape,14,14
+MONTGOMERY VILLAGE,MD,Crime Against Property,All other Larceny,612,612
+MONTGOMERY VILLAGE,MD,Crime Against Property,Arson,17,17
+MONTGOMERY VILLAGE,MD,Crime Against Property,Bribery,1,1
+MONTGOMERY VILLAGE,MD,Crime Against Property,Burglary/Breaking and Entering,418,418
+MONTGOMERY VILLAGE,MD,Crime Against Property,Counterfeiting/Forgery,67,67
+MONTGOMERY VILLAGE,MD,Crime Against Property,Credit Card/Automatic Teller Machine Fraud,217,217
+MONTGOMERY VILLAGE,MD,Crime Against Property,Destruction/Damage/Vandalism of Property,1268,1264
+MONTGOMERY VILLAGE,MD,Crime Against Property,Embezzlement,16,16
+MONTGOMERY VILLAGE,MD,Crime Against Property,Extortion/Blackmail,21,21
+MONTGOMERY VILLAGE,MD,Crime Against Property,False Pretenses/Swindle/Confidence Game,305,304
+MONTGOMERY VILLAGE,MD,Crime Against Property,Hacking/Computer Invasion,3,3
+MONTGOMERY VILLAGE,MD,Crime Against Property,Identity Theft,300,300
+MONTGOMERY VILLAGE,MD,Crime Against Property,Impersonation,36,36
+MONTGOMERY VILLAGE,MD,Crime Against Property,Motor Vehicle Theft,662,661
+MONTGOMERY VILLAGE,MD,Crime Against Property,Pocket/picking,8,8
+MONTGOMERY VILLAGE,MD,Crime Against Property,Purse-snatching,21,21
+MONTGOMERY VILLAGE,MD,Crime Against Property,Robbery,284,282
+MONTGOMERY VILLAGE,MD,Crime Against Property,Shoplifting,211,211
+MONTGOMERY VILLAGE,MD,Crime Against Property,Stolen Property Offenses,9,9
+MONTGOMERY VILLAGE,MD,Crime Against Property,Theft from Building,378,378
+MONTGOMERY VILLAGE,MD,Crime Against Property,Theft From Motor Vehicle,1437,1437
+MONTGOMERY VILLAGE,MD,Crime Against Property,Theft of Motor Vehicle Parts or Accessories,370,370
+MONTGOMERY VILLAGE,MD,Crime Against Property,Welfare Fraud,1,1
+MONTGOMERY VILLAGE,MD,Crime Against Property,Wire Fraud,19,19
+MONTGOMERY VILLAGE,MD,Crime Against Society,All Other Offenses,3496,3464
+MONTGOMERY VILLAGE,MD,Crime Against Society,Animal Cruelty,9,9
+MONTGOMERY VILLAGE,MD,Crime Against Society,Disorderly Conduct,171,169
+MONTGOMERY VILLAGE,MD,Crime Against Society,Driving Under the Influence,387,385
+MONTGOMERY VILLAGE,MD,Crime Against Society,Drug Equipment Violations,148,148
+MONTGOMERY VILLAGE,MD,Crime Against Society,Drug/Narcotic Violations,961,873
+MONTGOMERY VILLAGE,MD,Crime Against Society,"Family Offenses, NonViolent",53,52
+MONTGOMERY VILLAGE,MD,Crime Against Society,Liquor Law Violations,84,81
+MONTGOMERY VILLAGE,MD,Crime Against Society,Pornography/Obscene Material,19,19
+MONTGOMERY VILLAGE,MD,Crime Against Society,Prostitution,1,1
+MONTGOMERY VILLAGE,MD,Crime Against Society,Trespass of Real Property,155,155
+MONTGOMERY VILLAGE,MD,Crime Against Society,Weapon Law Violations,190,186
+OLNEY,MD,Crime Against Not a Crime,Runaway,68,68
+OLNEY,MD,Crime Against Person,Aggravated Assault,60,58
+OLNEY,MD,Crime Against Person,Forcible Fondling,41,41
+OLNEY,MD,Crime Against Person,Forcible Rape,53,42
+OLNEY,MD,Crime Against Person,Intimidation,12,12
+OLNEY,MD,Crime Against Person,Kidnapping/Abduction,3,3
+OLNEY,MD,Crime Against Person,Murder and Nonnegligent Manslaughter,2,2
+OLNEY,MD,Crime Against Person,Simple Assault,429,425
+OLNEY,MD,Crime Against Person,Statuory Rape,3,3
+OLNEY,MD,Crime Against Property,All other Larceny,338,338
+OLNEY,MD,Crime Against Property,Arson,9,7
+OLNEY,MD,Crime Against Property,Burglary/Breaking and Entering,161,159
+OLNEY,MD,Crime Against Property,Counterfeiting/Forgery,94,94
+OLNEY,MD,Crime Against Property,Credit Card/Automatic Teller Machine Fraud,189,189
+OLNEY,MD,Crime Against Property,Destruction/Damage/Vandalism of Property,465,463
+OLNEY,MD,Crime Against Property,Embezzlement,16,16
+OLNEY,MD,Crime Against Property,Extortion/Blackmail,17,17
+OLNEY,MD,Crime Against Property,False Pretenses/Swindle/Confidence Game,197,197
+OLNEY,MD,Crime Against Property,From Coin/Operated Machine or Device,1,1
+OLNEY,MD,Crime Against Property,Hacking/Computer Invasion,2,2
+OLNEY,MD,Crime Against Property,Identity Theft,370,370
+OLNEY,MD,Crime Against Property,Impersonation,49,49
+OLNEY,MD,Crime Against Property,Motor Vehicle Theft,200,200
+OLNEY,MD,Crime Against Property,Pocket/picking,20,20
+OLNEY,MD,Crime Against Property,Purse-snatching,7,7
+OLNEY,MD,Crime Against Property,Robbery,30,29
+OLNEY,MD,Crime Against Property,Shoplifting,372,372
+OLNEY,MD,Crime Against Property,Stolen Property Offenses,2,2
+OLNEY,MD,Crime Against Property,Theft from Building,212,212
+OLNEY,MD,Crime Against Property,Theft From Motor Vehicle,653,653
+OLNEY,MD,Crime Against Property,Theft of Motor Vehicle Parts or Accessories,146,146
+OLNEY,MD,Crime Against Property,Welfare Fraud,1,1
+OLNEY,MD,Crime Against Property,Wire Fraud,12,12
+OLNEY,MD,Crime Against Society,All Other Offenses,1874,1853
+OLNEY,MD,Crime Against Society,Animal Cruelty,1,1
+OLNEY,MD,Crime Against Society,Disorderly Conduct,83,81
+OLNEY,MD,Crime Against Society,Driving Under the Influence,235,232
+OLNEY,MD,Crime Against Society,Drug Equipment Violations,33,33
+OLNEY,MD,Crime Against Society,Drug/Narcotic Violations,314,283
+OLNEY,MD,Crime Against Society,"Family Offenses, NonViolent",20,20
+OLNEY,MD,Crime Against Society,Liquor Law Violations,89,87
+OLNEY,MD,Crime Against Society,Pornography/Obscene Material,8,8
+OLNEY,MD,Crime Against Society,Prostitution,3,3
+OLNEY,MD,Crime Against Society,Trespass of Real Property,61,61
+OLNEY,MD,Crime Against Society,Weapon Law Violations,36,33
+POOLESVILLE,MD,Crime Against Not a Crime,Justifiable Homicide,1,1
+POOLESVILLE,MD,Crime Against Not a Crime,Runaway,10,10
+POOLESVILLE,MD,Crime Against Person,Aggravated Assault,22,22
+POOLESVILLE,MD,Crime Against Person,Forcible Fondling,13,13
+POOLESVILLE,MD,Crime Against Person,Forcible Rape,19,17
+POOLESVILLE,MD,Crime Against Person,Intimidation,6,6
+POOLESVILLE,MD,Crime Against Person,Simple Assault,173,170
+POOLESVILLE,MD,Crime Against Property,All other Larceny,61,61
+POOLESVILLE,MD,Crime Against Property,Arson,4,4
+POOLESVILLE,MD,Crime Against Property,Burglary/Breaking and Entering,61,60
+POOLESVILLE,MD,Crime Against Property,Counterfeiting/Forgery,14,14
+POOLESVILLE,MD,Crime Against Property,Credit Card/Automatic Teller Machine Fraud,30,30
+POOLESVILLE,MD,Crime Against Property,Destruction/Damage/Vandalism of Property,114,113
+POOLESVILLE,MD,Crime Against Property,Embezzlement,3,3
+POOLESVILLE,MD,Crime Against Property,Extortion/Blackmail,6,6
+POOLESVILLE,MD,Crime Against Property,False Pretenses/Swindle/Confidence Game,27,27
+POOLESVILLE,MD,Crime Against Property,Hacking/Computer Invasion,1,1
+POOLESVILLE,MD,Crime Against Property,Identity Theft,99,99
+POOLESVILLE,MD,Crime Against Property,Impersonation,6,6
+POOLESVILLE,MD,Crime Against Property,Motor Vehicle Theft,29,29
+POOLESVILLE,MD,Crime Against Property,Robbery,5,5
+POOLESVILLE,MD,Crime Against Property,Shoplifting,9,9
+POOLESVILLE,MD,Crime Against Property,Stolen Property Offenses,3,2
+POOLESVILLE,MD,Crime Against Property,Theft from Building,23,23
+POOLESVILLE,MD,Crime Against Property,Theft From Motor Vehicle,75,75
+POOLESVILLE,MD,Crime Against Property,Theft of Motor Vehicle Parts or Accessories,34,34
+POOLESVILLE,MD,Crime Against Property,Wire Fraud,3,3
+POOLESVILLE,MD,Crime Against Society,All Other Offenses,464,460
+POOLESVILLE,MD,Crime Against Society,Animal Cruelty,1,1
+POOLESVILLE,MD,Crime Against Society,Disorderly Conduct,11,11
+POOLESVILLE,MD,Crime Against Society,Driving Under the Influence,18,18
+POOLESVILLE,MD,Crime Against Society,Drug Equipment Violations,8,8
+POOLESVILLE,MD,Crime Against Society,Drug/Narcotic Violations,45,40
+POOLESVILLE,MD,Crime Against Society,"Family Offenses, NonViolent",4,4
+POOLESVILLE,MD,Crime Against Society,Liquor Law Violations,9,9
+POOLESVILLE,MD,Crime Against Society,Pornography/Obscene Material,2,2
+POOLESVILLE,MD,Crime Against Society,Trespass of Real Property,13,13
+POOLESVILLE,MD,Crime Against Society,Weapon Law Violations,13,12
+POTOMAC,MD,Crime Against Not a Crime,Justifiable Homicide,1,1
+POTOMAC,MD,Crime Against Not a Crime,Runaway,73,73
+POTOMAC,MD,Crime Against Person,Aggravated Assault,63,63
+POTOMAC,MD,Crime Against Person,Forcible Fondling,33,33
+POTOMAC,MD,Crime Against Person,Forcible Rape,60,49
+POTOMAC,MD,Crime Against Person,"Human Trafficking, Commercial Sex Acts",1,1
+POTOMAC,MD,Crime Against Person,Incest,1,1
+POTOMAC,MD,Crime Against Person,Intimidation,18,18
+POTOMAC,MD,Crime Against Person,Kidnapping/Abduction,1,1
+POTOMAC,MD,Crime Against Person,Murder and Nonnegligent Manslaughter,3,3
+POTOMAC,MD,Crime Against Person,Simple Assault,451,449
+POTOMAC,MD,Crime Against Person,Statuory Rape,3,3
+POTOMAC,MD,Crime Against Property,All other Larceny,521,521
+POTOMAC,MD,Crime Against Property,Arson,9,8
+POTOMAC,MD,Crime Against Property,Burglary/Breaking and Entering,413,412
+POTOMAC,MD,Crime Against Property,Counterfeiting/Forgery,170,170
+POTOMAC,MD,Crime Against Property,Credit Card/Automatic Teller Machine Fraud,313,313
+POTOMAC,MD,Crime Against Property,Destruction/Damage/Vandalism of Property,558,556
+POTOMAC,MD,Crime Against Property,Embezzlement,24,24
+POTOMAC,MD,Crime Against Property,Extortion/Blackmail,32,32
+POTOMAC,MD,Crime Against Property,False Pretenses/Swindle/Confidence Game,452,451
+POTOMAC,MD,Crime Against Property,From Coin/Operated Machine or Device,2,2
+POTOMAC,MD,Crime Against Property,Hacking/Computer Invasion,6,6
+POTOMAC,MD,Crime Against Property,Identity Theft,797,797
+POTOMAC,MD,Crime Against Property,Impersonation,136,136
+POTOMAC,MD,Crime Against Property,Motor Vehicle Theft,180,179
+POTOMAC,MD,Crime Against Property,Pocket/picking,16,16
+POTOMAC,MD,Crime Against Property,Purse-snatching,7,7
+POTOMAC,MD,Crime Against Property,Robbery,38,37
+POTOMAC,MD,Crime Against Property,Shoplifting,168,168
+POTOMAC,MD,Crime Against Property,Stolen Property Offenses,5,5
+POTOMAC,MD,Crime Against Property,Theft from Building,285,285
+POTOMAC,MD,Crime Against Property,Theft From Motor Vehicle,995,995
+POTOMAC,MD,Crime Against Property,Theft of Motor Vehicle Parts or Accessories,144,144
+POTOMAC,MD,Crime Against Property,Wire Fraud,19,19
+POTOMAC,MD,Crime Against Society,All Other Offenses,3182,3170
+POTOMAC,MD,Crime Against Society,Animal Cruelty,1,1
+POTOMAC,MD,Crime Against Society,Disorderly Conduct,53,52
+POTOMAC,MD,Crime Against Society,Driving Under the Influence,255,253
+POTOMAC,MD,Crime Against Society,Drug Equipment Violations,20,20
+POTOMAC,MD,Crime Against Society,Drug/Narcotic Violations,235,214
+POTOMAC,MD,Crime Against Society,"Family Offenses, NonViolent",17,17
+POTOMAC,MD,Crime Against Society,Liquor Law Violations,52,52
+POTOMAC,MD,Crime Against Society,Pornography/Obscene Material,6,6
+POTOMAC,MD,Crime Against Society,Prostitution,1,1
+POTOMAC,MD,Crime Against Society,Trespass of Real Property,45,45
+POTOMAC,MD,Crime Against Society,Weapon Law Violations,26,26
+ROCKVILLE,MD,Crime Against Not a Crime,Justifiable Homicide,1,1
+ROCKVILLE,MD,Crime Against Not a Crime,Runaway,746,746
+ROCKVILLE,MD,Crime Against Person,Aggravated Assault,866,859
+ROCKVILLE,MD,Crime Against Person,Forcible Fondling,449,447
+ROCKVILLE,MD,Crime Against Person,Forcible Rape,623,540
+ROCKVILLE,MD,Crime Against Person,"Human Trafficking, Commercial Sex Acts",41,41
+ROCKVILLE,MD,Crime Against Person,"Human Trafficking, Involuntary Servitude",1,1
+ROCKVILLE,MD,Crime Against Person,Intimidation,119,119
+ROCKVILLE,MD,Crime Against Person,Kidnapping/Abduction,13,13
+ROCKVILLE,MD,Crime Against Person,Murder and Nonnegligent Manslaughter,19,19
+ROCKVILLE,MD,Crime Against Person,Simple Assault,5127,5095
+ROCKVILLE,MD,Crime Against Person,Statuory Rape,12,12
+ROCKVILLE,MD,Crime Against Property,All other Larceny,3445,3444
+ROCKVILLE,MD,Crime Against Property,Arson,70,68
+ROCKVILLE,MD,Crime Against Property,Burglary/Breaking and Entering,2038,2031
+ROCKVILLE,MD,Crime Against Property,Counterfeiting/Forgery,662,657
+ROCKVILLE,MD,Crime Against Property,Credit Card/Automatic Teller Machine Fraud,1214,1214
+ROCKVILLE,MD,Crime Against Property,Destruction/Damage/Vandalism of Property,4599,4580
+ROCKVILLE,MD,Crime Against Property,Embezzlement,133,133
+ROCKVILLE,MD,Crime Against Property,Extortion/Blackmail,100,100
+ROCKVILLE,MD,Crime Against Property,False Pretenses/Swindle/Confidence Game,1603,1600
+ROCKVILLE,MD,Crime Against Property,From Coin/Operated Machine or Device,8,8
+ROCKVILLE,MD,Crime Against Property,Hacking/Computer Invasion,16,16
+ROCKVILLE,MD,Crime Against Property,Identity Theft,1760,1760
+ROCKVILLE,MD,Crime Against Property,Impersonation,242,242
+ROCKVILLE,MD,Crime Against Property,Motor Vehicle Theft,2140,2137
+ROCKVILLE,MD,Crime Against Property,Pocket/picking,157,157
+ROCKVILLE,MD,Crime Against Property,Purse-snatching,60,60
+ROCKVILLE,MD,Crime Against Property,Robbery,536,532
+ROCKVILLE,MD,Crime Against Property,Shoplifting,3822,3822
+ROCKVILLE,MD,Crime Against Property,Stolen Property Offenses,26,26
+ROCKVILLE,MD,Crime Against Property,Theft from Building,3187,3187
+ROCKVILLE,MD,Crime Against Property,Theft From Motor Vehicle,4921,4921
+ROCKVILLE,MD,Crime Against Property,Theft of Motor Vehicle Parts or Accessories,1899,1899
+ROCKVILLE,MD,Crime Against Property,Welfare Fraud,4,4
+ROCKVILLE,MD,Crime Against Property,Wire Fraud,71,71
+ROCKVILLE,MD,Crime Against Society,All Other Offenses,18762,18606
+ROCKVILLE,MD,Crime Against Society,Animal Cruelty,16,16
+ROCKVILLE,MD,Crime Against Society,Assisting or Promoting Prostitution,54,54
+ROCKVILLE,MD,Crime Against Society,Curfew/Loitering/Vagrancy Violations,4,4
+ROCKVILLE,MD,Crime Against Society,Disorderly Conduct,1074,1057
+ROCKVILLE,MD,Crime Against Society,Driving Under the Influence,2601,2586
+ROCKVILLE,MD,Crime Against Society,Drug Equipment Violations,382,382
+ROCKVILLE,MD,Crime Against Society,Drug/Narcotic Violations,2834,2617
+ROCKVILLE,MD,Crime Against Society,"Family Offenses, NonViolent",144,144
+ROCKVILLE,MD,Crime Against Society,Liquor Law Violations,941,935
+ROCKVILLE,MD,Crime Against Society,Pornography/Obscene Material,60,56
+ROCKVILLE,MD,Crime Against Society,Prostitution,112,112
+ROCKVILLE,MD,Crime Against Society,Trespass of Real Property,1207,1207
+ROCKVILLE,MD,Crime Against Society,Weapon Law Violations,382,372
+SANDY SPRING,MD,Crime Against Not a Crime,Runaway,8,8
+SANDY SPRING,MD,Crime Against Person,Aggravated Assault,3,3
+SANDY SPRING,MD,Crime Against Person,Forcible Fondling,17,17
+SANDY SPRING,MD,Crime Against Person,Forcible Rape,10,8
+SANDY SPRING,MD,Crime Against Person,Intimidation,1,1
+SANDY SPRING,MD,Crime Against Person,Simple Assault,73,73
+SANDY SPRING,MD,Crime Against Property,All other Larceny,44,44
+SANDY SPRING,MD,Crime Against Property,Arson,3,3
+SANDY SPRING,MD,Crime Against Property,Burglary/Breaking and Entering,32,32
+SANDY SPRING,MD,Crime Against Property,Counterfeiting/Forgery,18,18
+SANDY SPRING,MD,Crime Against Property,Credit Card/Automatic Teller Machine Fraud,14,14
+SANDY SPRING,MD,Crime Against Property,Destruction/Damage/Vandalism of Property,60,60
+SANDY SPRING,MD,Crime Against Property,Embezzlement,3,3
+SANDY SPRING,MD,Crime Against Property,Extortion/Blackmail,2,2
+SANDY SPRING,MD,Crime Against Property,False Pretenses/Swindle/Confidence Game,19,19
+SANDY SPRING,MD,Crime Against Property,Hacking/Computer Invasion,1,1
+SANDY SPRING,MD,Crime Against Property,Identity Theft,22,22
+SANDY SPRING,MD,Crime Against Property,Impersonation,1,1
+SANDY SPRING,MD,Crime Against Property,Motor Vehicle Theft,9,9
+SANDY SPRING,MD,Crime Against Property,Pocket/picking,2,2
+SANDY SPRING,MD,Crime Against Property,Robbery,1,1
+SANDY SPRING,MD,Crime Against Property,Shoplifting,1,1
+SANDY SPRING,MD,Crime Against Property,Theft from Building,39,39
+SANDY SPRING,MD,Crime Against Property,Theft From Motor Vehicle,39,39
+SANDY SPRING,MD,Crime Against Property,Theft of Motor Vehicle Parts or Accessories,13,13
+SANDY SPRING,MD,Crime Against Society,All Other Offenses,219,219
+SANDY SPRING,MD,Crime Against Society,Disorderly Conduct,6,6
+SANDY SPRING,MD,Crime Against Society,Driving Under the Influence,37,37
+SANDY SPRING,MD,Crime Against Society,Drug Equipment Violations,1,1
+SANDY SPRING,MD,Crime Against Society,Drug/Narcotic Violations,39,37
+SANDY SPRING,MD,Crime Against Society,"Family Offenses, NonViolent",4,4
+SANDY SPRING,MD,Crime Against Society,Liquor Law Violations,6,6
+SANDY SPRING,MD,Crime Against Society,Pornography/Obscene Material,2,2
+SANDY SPRING,MD,Crime Against Society,Prostitution,1,1
+SANDY SPRING,MD,Crime Against Society,Trespass of Real Property,2,2
+SANDY SPRING,MD,Crime Against Society,Weapon Law Violations,6,6
+SILVER SPRING,MD,Crime Against Not a Crime,Justifiable Homicide,7,7
+SILVER SPRING,MD,Crime Against Not a Crime,Runaway,1595,1595
+SILVER SPRING,MD,Crime Against Person,Aggravated Assault,2381,2358
+SILVER SPRING,MD,Crime Against Person,Forcible Fondling,774,772
+SILVER SPRING,MD,Crime Against Person,Forcible Rape,1016,877
+SILVER SPRING,MD,Crime Against Person,"Human Trafficking, Commercial Sex Acts",15,15
+SILVER SPRING,MD,Crime Against Person,"Human Trafficking, Involuntary Servitude",1,1
+SILVER SPRING,MD,Crime Against Person,Incest,3,3
+SILVER SPRING,MD,Crime Against Person,Intimidation,127,127
+SILVER SPRING,MD,Crime Against Person,Kidnapping/Abduction,30,30
+SILVER SPRING,MD,Crime Against Person,Murder and Nonnegligent Manslaughter,77,76
+SILVER SPRING,MD,Crime Against Person,Negligent Manslaughter,1,1
+SILVER SPRING,MD,Crime Against Person,Simple Assault,10250,10180
+SILVER SPRING,MD,Crime Against Person,Statuory Rape,35,35
+SILVER SPRING,MD,Crime Against Property,All other Larceny,5851,5849
+SILVER SPRING,MD,Crime Against Property,Arson,203,174
+SILVER SPRING,MD,Crime Against Property,Burglary/Breaking and Entering,3998,3991
+SILVER SPRING,MD,Crime Against Property,Counterfeiting/Forgery,1110,1106
+SILVER SPRING,MD,Crime Against Property,Credit Card/Automatic Teller Machine Fraud,1829,1829
+SILVER SPRING,MD,Crime Against Property,Destruction/Damage/Vandalism of Property,8892,8855
+SILVER SPRING,MD,Crime Against Property,Embezzlement,160,160
+SILVER SPRING,MD,Crime Against Property,Extortion/Blackmail,162,162
+SILVER SPRING,MD,Crime Against Property,False Pretenses/Swindle/Confidence Game,2613,2612
+SILVER SPRING,MD,Crime Against Property,From Coin/Operated Machine or Device,28,28
+SILVER SPRING,MD,Crime Against Property,Hacking/Computer Invasion,27,27
+SILVER SPRING,MD,Crime Against Property,Identity Theft,2708,2708
+SILVER SPRING,MD,Crime Against Property,Impersonation,332,332
+SILVER SPRING,MD,Crime Against Property,Motor Vehicle Theft,6490,6480
+SILVER SPRING,MD,Crime Against Property,Pocket/picking,319,319
+SILVER SPRING,MD,Crime Against Property,Purse-snatching,209,209
+SILVER SPRING,MD,Crime Against Property,Robbery,2307,2272
+SILVER SPRING,MD,Crime Against Property,Shoplifting,7132,7132
+SILVER SPRING,MD,Crime Against Property,Stolen Property Offenses,121,118
+SILVER SPRING,MD,Crime Against Property,Theft from Building,4176,4176
+SILVER SPRING,MD,Crime Against Property,Theft From Motor Vehicle,12003,12003
+SILVER SPRING,MD,Crime Against Property,Theft of Motor Vehicle Parts or Accessories,5257,5257
+SILVER SPRING,MD,Crime Against Property,Welfare Fraud,15,15
+SILVER SPRING,MD,Crime Against Property,Wire Fraud,87,87
+SILVER SPRING,MD,Crime Against Society,All Other Offenses,28740,28485
+SILVER SPRING,MD,Crime Against Society,Animal Cruelty,39,39
+SILVER SPRING,MD,Crime Against Society,Assisting or Promoting Prostitution,32,32
+SILVER SPRING,MD,Crime Against Society,Curfew/Loitering/Vagrancy Violations,26,26
+SILVER SPRING,MD,Crime Against Society,Disorderly Conduct,2700,2667
+SILVER SPRING,MD,Crime Against Society,Driving Under the Influence,5147,5129
+SILVER SPRING,MD,Crime Against Society,Drug Equipment Violations,998,998
+SILVER SPRING,MD,Crime Against Society,Drug/Narcotic Violations,9436,8636
+SILVER SPRING,MD,Crime Against Society,"Family Offenses, NonViolent",313,312
+SILVER SPRING,MD,Crime Against Society,Liquor Law Violations,3568,3555
+SILVER SPRING,MD,Crime Against Society,Pornography/Obscene Material,104,101
+SILVER SPRING,MD,Crime Against Society,Prostitution,48,48
+SILVER SPRING,MD,Crime Against Society,Trespass of Real Property,2132,2132
+SILVER SPRING,MD,Crime Against Society,Weapon Law Violations,1358,1335
+SPENCERVILLE,MD,Crime Against Not a Crime,Runaway,2,2
+SPENCERVILLE,MD,Crime Against Person,Aggravated Assault,1,1
+SPENCERVILLE,MD,Crime Against Person,Forcible Fondling,2,2
+SPENCERVILLE,MD,Crime Against Person,Forcible Rape,1,1
+SPENCERVILLE,MD,Crime Against Person,Simple Assault,17,17
+SPENCERVILLE,MD,Crime Against Property,All other Larceny,19,19
+SPENCERVILLE,MD,Crime Against Property,Burglary/Breaking and Entering,14,14
+SPENCERVILLE,MD,Crime Against Property,Counterfeiting/Forgery,1,1
+SPENCERVILLE,MD,Crime Against Property,Credit Card/Automatic Teller Machine Fraud,1,1
+SPENCERVILLE,MD,Crime Against Property,Destruction/Damage/Vandalism of Property,22,22
+SPENCERVILLE,MD,Crime Against Property,Embezzlement,1,1
+SPENCERVILLE,MD,Crime Against Property,Extortion/Blackmail,1,1
+SPENCERVILLE,MD,Crime Against Property,False Pretenses/Swindle/Confidence Game,6,6
+SPENCERVILLE,MD,Crime Against Property,Identity Theft,10,10
+SPENCERVILLE,MD,Crime Against Property,Motor Vehicle Theft,9,9
+SPENCERVILLE,MD,Crime Against Property,Theft from Building,4,4
+SPENCERVILLE,MD,Crime Against Property,Theft From Motor Vehicle,17,17
+SPENCERVILLE,MD,Crime Against Property,Theft of Motor Vehicle Parts or Accessories,7,7
+SPENCERVILLE,MD,Crime Against Society,All Other Offenses,59,58
+SPENCERVILLE,MD,Crime Against Society,Driving Under the Influence,14,14
+SPENCERVILLE,MD,Crime Against Society,Drug/Narcotic Violations,4,4
+SPENCERVILLE,MD,Crime Against Society,"Family Offenses, NonViolent",2,2
+SPENCERVILLE,MD,Crime Against Society,Liquor Law Violations,1,1
+SPENCERVILLE,MD,Crime Against Society,Trespass of Real Property,2,2
+SPENCERVILLE,MD,Crime Against Society,Weapon Law Violations,1,1
+TAKOMA PARK,MD,Crime Against Not a Crime,Runaway,132,132
+TAKOMA PARK,MD,Crime Against Person,Aggravated Assault,274,272
+TAKOMA PARK,MD,Crime Against Person,Forcible Fondling,81,81
+TAKOMA PARK,MD,Crime Against Person,Forcible Rape,79,71
+TAKOMA PARK,MD,Crime Against Person,"Human Trafficking, Commercial Sex Acts",4,4
+TAKOMA PARK,MD,Crime Against Person,Incest,4,4
+TAKOMA PARK,MD,Crime Against Person,Intimidation,24,24
+TAKOMA PARK,MD,Crime Against Person,Kidnapping/Abduction,8,8
+TAKOMA PARK,MD,Crime Against Person,Murder and Nonnegligent Manslaughter,4,4
+TAKOMA PARK,MD,Crime Against Person,Simple Assault,883,876
+TAKOMA PARK,MD,Crime Against Person,Statuory Rape,11,11
+TAKOMA PARK,MD,Crime Against Property,All other Larceny,842,842
+TAKOMA PARK,MD,Crime Against Property,Arson,15,12
+TAKOMA PARK,MD,Crime Against Property,Burglary/Breaking and Entering,686,686
+TAKOMA PARK,MD,Crime Against Property,Counterfeiting/Forgery,85,84
+TAKOMA PARK,MD,Crime Against Property,Credit Card/Automatic Teller Machine Fraud,87,87
+TAKOMA PARK,MD,Crime Against Property,Destruction/Damage/Vandalism of Property,1676,1668
+TAKOMA PARK,MD,Crime Against Property,Embezzlement,50,50
+TAKOMA PARK,MD,Crime Against Property,Extortion/Blackmail,17,17
+TAKOMA PARK,MD,Crime Against Property,False Pretenses/Swindle/Confidence Game,172,172
+TAKOMA PARK,MD,Crime Against Property,From Coin/Operated Machine or Device,10,10
+TAKOMA PARK,MD,Crime Against Property,Hacking/Computer Invasion,3,3
+TAKOMA PARK,MD,Crime Against Property,Identity Theft,239,239
+TAKOMA PARK,MD,Crime Against Property,Impersonation,28,28
+TAKOMA PARK,MD,Crime Against Property,Motor Vehicle Theft,677,677
+TAKOMA PARK,MD,Crime Against Property,Pocket/picking,18,18
+TAKOMA PARK,MD,Crime Against Property,Purse-snatching,44,44
+TAKOMA PARK,MD,Crime Against Property,Robbery,362,356
+TAKOMA PARK,MD,Crime Against Property,Shoplifting,1660,1660
+TAKOMA PARK,MD,Crime Against Property,Stolen Property Offenses,34,33
+TAKOMA PARK,MD,Crime Against Property,Theft from Building,388,388
+TAKOMA PARK,MD,Crime Against Property,Theft From Motor Vehicle,1914,1914
+TAKOMA PARK,MD,Crime Against Property,Theft of Motor Vehicle Parts or Accessories,470,470
+TAKOMA PARK,MD,Crime Against Property,Welfare Fraud,12,12
+TAKOMA PARK,MD,Crime Against Property,Wire Fraud,17,17
+TAKOMA PARK,MD,Crime Against Society,All Other Offenses,3712,3676
+TAKOMA PARK,MD,Crime Against Society,Animal Cruelty,2,2
+TAKOMA PARK,MD,Crime Against Society,Assisting or Promoting Prostitution,10,10
+TAKOMA PARK,MD,Crime Against Society,Curfew/Loitering/Vagrancy Violations,6,6
+TAKOMA PARK,MD,Crime Against Society,Disorderly Conduct,252,247
+TAKOMA PARK,MD,Crime Against Society,Driving Under the Influence,216,216
+TAKOMA PARK,MD,Crime Against Society,Drug Equipment Violations,91,91
+TAKOMA PARK,MD,Crime Against Society,Drug/Narcotic Violations,605,563
+TAKOMA PARK,MD,Crime Against Society,"Family Offenses, NonViolent",57,57
+TAKOMA PARK,MD,Crime Against Society,Liquor Law Violations,115,115
+TAKOMA PARK,MD,Crime Against Society,Pornography/Obscene Material,8,8
+TAKOMA PARK,MD,Crime Against Society,Prostitution,8,8
+TAKOMA PARK,MD,Crime Against Society,Trespass of Real Property,186,186
+TAKOMA PARK,MD,Crime Against Society,Weapon Law Violations,104,102
+WASHINGTON GROVE,MD,Crime Against Person,Aggravated Assault,1,1
+WASHINGTON GROVE,MD,Crime Against Person,Forcible Rape,1,1
+WASHINGTON GROVE,MD,Crime Against Person,Simple Assault,4,4
+WASHINGTON GROVE,MD,Crime Against Property,All other Larceny,5,5
+WASHINGTON GROVE,MD,Crime Against Property,Counterfeiting/Forgery,1,1
+WASHINGTON GROVE,MD,Crime Against Property,Credit Card/Automatic Teller Machine Fraud,4,4
+WASHINGTON GROVE,MD,Crime Against Property,Destruction/Damage/Vandalism of Property,11,11
+WASHINGTON GROVE,MD,Crime Against Property,False Pretenses/Swindle/Confidence Game,5,5
+WASHINGTON GROVE,MD,Crime Against Property,Hacking/Computer Invasion,1,1
+WASHINGTON GROVE,MD,Crime Against Property,Identity Theft,2,2
+WASHINGTON GROVE,MD,Crime Against Property,Impersonation,3,3
+WASHINGTON GROVE,MD,Crime Against Property,Motor Vehicle Theft,5,5
+WASHINGTON GROVE,MD,Crime Against Property,Theft From Motor Vehicle,16,16
+WASHINGTON GROVE,MD,Crime Against Property,Theft of Motor Vehicle Parts or Accessories,1,1
+WASHINGTON GROVE,MD,Crime Against Society,All Other Offenses,24,24
+WASHINGTON GROVE,MD,Crime Against Society,Disorderly Conduct,3,3
+WASHINGTON GROVE,MD,Crime Against Society,Driving Under the Influence,2,2
+WASHINGTON GROVE,MD,Crime Against Society,Drug/Narcotic Violations,3,3
+WASHINGTON GROVE,MD,Crime Against Society,"Family Offenses, NonViolent",3,3
+WASHINGTON GROVE,MD,Crime Against Society,Trespass of Real Property,1,1
+WHEATON,MD,Crime Against Not a Crime,Runaway,431,431
+WHEATON,MD,Crime Against Person,Aggravated Assault,556,552
+WHEATON,MD,Crime Against Person,Forcible Fondling,216,214
+WHEATON,MD,Crime Against Person,Forcible Rape,275,229
+WHEATON,MD,Crime Against Person,"Human Trafficking, Commercial Sex Acts",2,2
+WHEATON,MD,Crime Against Person,Incest,1,1
+WHEATON,MD,Crime Against Person,Intimidation,25,25
+WHEATON,MD,Crime Against Person,Kidnapping/Abduction,12,12
+WHEATON,MD,Crime Against Person,Murder and Nonnegligent Manslaughter,18,18
+WHEATON,MD,Crime Against Person,Simple Assault,2445,2436
+WHEATON,MD,Crime Against Person,Statuory Rape,11,11
+WHEATON,MD,Crime Against Property,All other Larceny,1335,1335
+WHEATON,MD,Crime Against Property,Arson,57,52
+WHEATON,MD,Crime Against Property,Burglary/Breaking and Entering,810,808
+WHEATON,MD,Crime Against Property,Counterfeiting/Forgery,209,208
+WHEATON,MD,Crime Against Property,Credit Card/Automatic Teller Machine Fraud,386,386
+WHEATON,MD,Crime Against Property,Destruction/Damage/Vandalism of Property,1886,1883
+WHEATON,MD,Crime Against Property,Embezzlement,40,40
+WHEATON,MD,Crime Against Property,Extortion/Blackmail,39,39
+WHEATON,MD,Crime Against Property,False Pretenses/Swindle/Confidence Game,551,550
+WHEATON,MD,Crime Against Property,From Coin/Operated Machine or Device,8,8
+WHEATON,MD,Crime Against Property,Hacking/Computer Invasion,5,5
+WHEATON,MD,Crime Against Property,Identity Theft,593,593
+WHEATON,MD,Crime Against Property,Impersonation,53,53
+WHEATON,MD,Crime Against Property,Motor Vehicle Theft,1225,1225
+WHEATON,MD,Crime Against Property,Pocket/picking,72,72
+WHEATON,MD,Crime Against Property,Purse-snatching,78,78
+WHEATON,MD,Crime Against Property,Robbery,529,527
+WHEATON,MD,Crime Against Property,Shoplifting,4548,4548
+WHEATON,MD,Crime Against Property,Stolen Property Offenses,18,17
+WHEATON,MD,Crime Against Property,Theft from Building,1215,1214
+WHEATON,MD,Crime Against Property,Theft From Motor Vehicle,2217,2217
+WHEATON,MD,Crime Against Property,Theft of Motor Vehicle Parts or Accessories,926,926
+WHEATON,MD,Crime Against Property,Welfare Fraud,2,2
+WHEATON,MD,Crime Against Property,Wire Fraud,11,11
+WHEATON,MD,Crime Against Society,All Other Offenses,6662,6605
+WHEATON,MD,Crime Against Society,Animal Cruelty,11,11
+WHEATON,MD,Crime Against Society,Assisting or Promoting Prostitution,2,2
+WHEATON,MD,Crime Against Society,Curfew/Loitering/Vagrancy Violations,3,3
+WHEATON,MD,Crime Against Society,Disorderly Conduct,1149,1138
+WHEATON,MD,Crime Against Society,Driving Under the Influence,1884,1882
+WHEATON,MD,Crime Against Society,Drug Equipment Violations,218,218
+WHEATON,MD,Crime Against Society,Drug/Narcotic Violations,2436,2280
+WHEATON,MD,Crime Against Society,"Family Offenses, NonViolent",73,73
+WHEATON,MD,Crime Against Society,Liquor Law Violations,1353,1350
+WHEATON,MD,Crime Against Society,Pornography/Obscene Material,20,20
+WHEATON,MD,Crime Against Society,Prostitution,8,8
+WHEATON,MD,Crime Against Society,Trespass of Real Property,606,606
+WHEATON,MD,Crime Against Society,Weapon Law Violations,367,362

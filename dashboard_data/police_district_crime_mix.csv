@@ -1,0 +1,393 @@
+district_number,district_name,crime_category_primary,crime_category_secondary,offense_count,incident_count,total_victims
+1D,ROCKVILLE,Crime Against Not a Crime,Justifiable Homicide,3,3,3.0
+1D,ROCKVILLE,Crime Against Not a Crime,Runaway,447,447,447.0
+1D,ROCKVILLE,Crime Against Person,Aggravated Assault,720,715,819.0
+1D,ROCKVILLE,Crime Against Person,Forcible Fondling,391,391,410.0
+1D,ROCKVILLE,Crime Against Person,Forcible Rape,538,458,552.0
+1D,ROCKVILLE,Crime Against Person,"Human Trafficking, Commercial Sex Acts",29,29,30.0
+1D,ROCKVILLE,Crime Against Person,"Human Trafficking, Involuntary Servitude",2,2,2.0
+1D,ROCKVILLE,Crime Against Person,Incest,2,2,2.0
+1D,ROCKVILLE,Crime Against Person,Intimidation,112,112,125.0
+1D,ROCKVILLE,Crime Against Person,Kidnapping/Abduction,15,15,16.0
+1D,ROCKVILLE,Crime Against Person,Murder and Nonnegligent Manslaughter,16,16,17.0
+1D,ROCKVILLE,Crime Against Person,Simple Assault,4268,4244,5121.0
+1D,ROCKVILLE,Crime Against Person,Statuory Rape,18,18,18.0
+1D,ROCKVILLE,Crime Against Property,All other Larceny,3287,3286,3292.0
+1D,ROCKVILLE,Crime Against Property,Arson,67,64,67.0
+1D,ROCKVILLE,Crime Against Property,Bribery,1,1,1.0
+1D,ROCKVILLE,Crime Against Property,Burglary/Breaking and Entering,1932,1925,1939.0
+1D,ROCKVILLE,Crime Against Property,Counterfeiting/Forgery,689,684,689.0
+1D,ROCKVILLE,Crime Against Property,Credit Card/Automatic Teller Machine Fraud,1175,1175,1175.0
+1D,ROCKVILLE,Crime Against Property,Destruction/Damage/Vandalism of Property,4130,4112,4160.0
+1D,ROCKVILLE,Crime Against Property,Embezzlement,156,156,156.0
+1D,ROCKVILLE,Crime Against Property,Extortion/Blackmail,108,108,108.0
+1D,ROCKVILLE,Crime Against Property,False Pretenses/Swindle/Confidence Game,1623,1619,1624.0
+1D,ROCKVILLE,Crime Against Property,From Coin/Operated Machine or Device,10,10,10.0
+1D,ROCKVILLE,Crime Against Property,Hacking/Computer Invasion,15,15,15.0
+1D,ROCKVILLE,Crime Against Property,Identity Theft,2055,2055,2055.0
+1D,ROCKVILLE,Crime Against Property,Impersonation,286,286,286.0
+1D,ROCKVILLE,Crime Against Property,Motor Vehicle Theft,1736,1733,1737.0
+1D,ROCKVILLE,Crime Against Property,Pocket/picking,129,129,129.0
+1D,ROCKVILLE,Crime Against Property,Purse-snatching,53,53,53.0
+1D,ROCKVILLE,Crime Against Property,Robbery,450,447,452.0
+1D,ROCKVILLE,Crime Against Property,Shoplifting,3309,3309,3316.0
+1D,ROCKVILLE,Crime Against Property,Stolen Property Offenses,24,23,24.0
+1D,ROCKVILLE,Crime Against Property,Theft from Building,2586,2586,2586.0
+1D,ROCKVILLE,Crime Against Property,Theft From Motor Vehicle,4272,4272,4275.0
+1D,ROCKVILLE,Crime Against Property,Theft of Motor Vehicle Parts or Accessories,1397,1397,1397.0
+1D,ROCKVILLE,Crime Against Property,Welfare Fraud,5,5,5.0
+1D,ROCKVILLE,Crime Against Property,Wire Fraud,74,74,74.0
+1D,ROCKVILLE,Crime Against Society,All Other Offenses,21159,20993,21206.0
+1D,ROCKVILLE,Crime Against Society,Animal Cruelty,15,15,15.0
+1D,ROCKVILLE,Crime Against Society,Assisting or Promoting Prostitution,47,46,48.0
+1D,ROCKVILLE,Crime Against Society,Curfew/Loitering/Vagrancy Violations,3,3,3.0
+1D,ROCKVILLE,Crime Against Society,Disorderly Conduct,963,945,989.0
+1D,ROCKVILLE,Crime Against Society,Driving Under the Influence,2260,2252,2263.0
+1D,ROCKVILLE,Crime Against Society,Drug Equipment Violations,334,334,334.0
+1D,ROCKVILLE,Crime Against Society,Drug/Narcotic Violations,3017,2819,3018.0
+1D,ROCKVILLE,Crime Against Society,"Family Offenses, NonViolent",133,133,135.0
+1D,ROCKVILLE,Crime Against Society,Liquor Law Violations,824,820,824.0
+1D,ROCKVILLE,Crime Against Society,Pornography/Obscene Material,815,807,815.0
+1D,ROCKVILLE,Crime Against Society,Prostitution,91,91,92.0
+1D,ROCKVILLE,Crime Against Society,Trespass of Real Property,1148,1148,1152.0
+1D,ROCKVILLE,Crime Against Society,Weapon Law Violations,341,330,345.0
+2D,BETHESDA,Crime Against Not a Crime,Runaway,822,822,825.0
+2D,BETHESDA,Crime Against Person,Aggravated Assault,516,514,605.0
+2D,BETHESDA,Crime Against Person,Forcible Fondling,305,304,327.0
+2D,BETHESDA,Crime Against Person,Forcible Rape,448,381,453.0
+2D,BETHESDA,Crime Against Person,"Human Trafficking, Commercial Sex Acts",4,4,4.0
+2D,BETHESDA,Crime Against Person,Incest,2,2,2.0
+2D,BETHESDA,Crime Against Person,Intimidation,120,120,132.0
+2D,BETHESDA,Crime Against Person,Kidnapping/Abduction,9,9,9.0
+2D,BETHESDA,Crime Against Person,Murder and Nonnegligent Manslaughter,17,17,17.0
+2D,BETHESDA,Crime Against Person,Negligent Manslaughter,1,1,1.0
+2D,BETHESDA,Crime Against Person,Simple Assault,4075,4060,4853.0
+2D,BETHESDA,Crime Against Person,Statuory Rape,9,9,9.0
+2D,BETHESDA,Crime Against Property,All other Larceny,3919,3919,3924.0
+2D,BETHESDA,Crime Against Property,Arson,48,48,48.0
+2D,BETHESDA,Crime Against Property,Burglary/Breaking and Entering,2287,2284,2295.0
+2D,BETHESDA,Crime Against Property,Counterfeiting/Forgery,1147,1142,1147.0
+2D,BETHESDA,Crime Against Property,Credit Card/Automatic Teller Machine Fraud,1787,1787,1787.0
+2D,BETHESDA,Crime Against Property,Destruction/Damage/Vandalism of Property,3948,3940,3966.0
+2D,BETHESDA,Crime Against Property,Embezzlement,158,158,158.0
+2D,BETHESDA,Crime Against Property,Extortion/Blackmail,158,158,158.0
+2D,BETHESDA,Crime Against Property,False Pretenses/Swindle/Confidence Game,2027,2026,2027.0
+2D,BETHESDA,Crime Against Property,From Coin/Operated Machine or Device,9,9,9.0
+2D,BETHESDA,Crime Against Property,Hacking/Computer Invasion,30,30,30.0
+2D,BETHESDA,Crime Against Property,Identity Theft,2977,2977,2977.0
+2D,BETHESDA,Crime Against Property,Impersonation,581,581,581.0
+2D,BETHESDA,Crime Against Property,Motor Vehicle Theft,2092,2088,2093.0
+2D,BETHESDA,Crime Against Property,Pocket/picking,319,319,319.0
+2D,BETHESDA,Crime Against Property,Purse-snatching,81,81,81.0
+2D,BETHESDA,Crime Against Property,Robbery,491,486,493.0
+2D,BETHESDA,Crime Against Property,Shoplifting,5551,5551,5565.0
+2D,BETHESDA,Crime Against Property,Stolen Property Offenses,33,32,33.0
+2D,BETHESDA,Crime Against Property,Theft from Building,3786,3786,3787.0
+2D,BETHESDA,Crime Against Property,Theft From Motor Vehicle,7350,7350,7354.0
+2D,BETHESDA,Crime Against Property,Theft of Motor Vehicle Parts or Accessories,2265,2265,2265.0
+2D,BETHESDA,Crime Against Property,Welfare Fraud,2,2,2.0
+2D,BETHESDA,Crime Against Property,Wire Fraud,89,89,89.0
+2D,BETHESDA,Crime Against Society,All Other Offenses,16926,16846,16961.0
+2D,BETHESDA,Crime Against Society,Animal Cruelty,11,11,11.0
+2D,BETHESDA,Crime Against Society,Assisting or Promoting Prostitution,7,7,7.0
+2D,BETHESDA,Crime Against Society,Disorderly Conduct,755,744,784.0
+2D,BETHESDA,Crime Against Society,Driving Under the Influence,1678,1662,1680.0
+2D,BETHESDA,Crime Against Society,Drug Equipment Violations,222,222,222.0
+2D,BETHESDA,Crime Against Society,Drug/Narcotic Violations,2289,2095,2294.0
+2D,BETHESDA,Crime Against Society,"Family Offenses, NonViolent",108,108,110.0
+2D,BETHESDA,Crime Against Society,Liquor Law Violations,692,685,692.0
+2D,BETHESDA,Crime Against Society,Pornography/Obscene Material,41,41,41.0
+2D,BETHESDA,Crime Against Society,Prostitution,15,15,15.0
+2D,BETHESDA,Crime Against Society,Trespass of Real Property,455,455,462.0
+2D,BETHESDA,Crime Against Society,Weapon Law Violations,246,239,246.0
+3D,SILVER SPRING,Crime Against Not a Crime,Justifiable Homicide,6,6,6.0
+3D,SILVER SPRING,Crime Against Not a Crime,Runaway,955,955,956.0
+3D,SILVER SPRING,Crime Against Person,Aggravated Assault,1806,1790,2140.0
+3D,SILVER SPRING,Crime Against Person,Forcible Fondling,503,501,543.0
+3D,SILVER SPRING,Crime Against Person,Forcible Rape,680,599,695.0
+3D,SILVER SPRING,Crime Against Person,"Human Trafficking, Commercial Sex Acts",15,15,16.0
+3D,SILVER SPRING,Crime Against Person,Incest,1,1,1.0
+3D,SILVER SPRING,Crime Against Person,Intimidation,102,102,109.0
+3D,SILVER SPRING,Crime Against Person,Kidnapping/Abduction,32,32,37.0
+3D,SILVER SPRING,Crime Against Person,Murder and Nonnegligent Manslaughter,70,69,74.0
+3D,SILVER SPRING,Crime Against Person,Simple Assault,7456,7411,9082.0
+3D,SILVER SPRING,Crime Against Person,Statuory Rape,22,22,22.0
+3D,SILVER SPRING,Crime Against Property,All other Larceny,4599,4598,4603.0
+3D,SILVER SPRING,Crime Against Property,Arson,145,123,146.0
+3D,SILVER SPRING,Crime Against Property,Burglary/Breaking and Entering,3146,3140,3155.0
+3D,SILVER SPRING,Crime Against Property,Counterfeiting/Forgery,779,775,781.0
+3D,SILVER SPRING,Crime Against Property,Credit Card/Automatic Teller Machine Fraud,1378,1378,1378.0
+3D,SILVER SPRING,Crime Against Property,Destruction/Damage/Vandalism of Property,7061,7030,7129.0
+3D,SILVER SPRING,Crime Against Property,Embezzlement,117,117,117.0
+3D,SILVER SPRING,Crime Against Property,Extortion/Blackmail,118,118,118.0
+3D,SILVER SPRING,Crime Against Property,False Pretenses/Swindle/Confidence Game,1800,1798,1800.0
+3D,SILVER SPRING,Crime Against Property,From Coin/Operated Machine or Device,22,22,22.0
+3D,SILVER SPRING,Crime Against Property,Hacking/Computer Invasion,17,17,17.0
+3D,SILVER SPRING,Crime Against Property,Identity Theft,1888,1888,1888.0
+3D,SILVER SPRING,Crime Against Property,Impersonation,236,236,236.0
+3D,SILVER SPRING,Crime Against Property,Motor Vehicle Theft,5309,5300,5313.0
+3D,SILVER SPRING,Crime Against Property,Pocket/picking,259,259,259.0
+3D,SILVER SPRING,Crime Against Property,Purse-snatching,178,178,178.0
+3D,SILVER SPRING,Crime Against Property,Robbery,1812,1787,1826.0
+3D,SILVER SPRING,Crime Against Property,Shoplifting,5942,5942,5963.0
+3D,SILVER SPRING,Crime Against Property,Stolen Property Offenses,94,90,94.0
+3D,SILVER SPRING,Crime Against Property,Theft from Building,3087,3087,3089.0
+3D,SILVER SPRING,Crime Against Property,Theft From Motor Vehicle,9766,9766,9767.0
+3D,SILVER SPRING,Crime Against Property,Theft of Motor Vehicle Parts or Accessories,4252,4252,4252.0
+3D,SILVER SPRING,Crime Against Property,Welfare Fraud,10,10,10.0
+3D,SILVER SPRING,Crime Against Property,Wire Fraud,77,77,77.0
+3D,SILVER SPRING,Crime Against Society,All Other Offenses,20855,20659,20915.0
+3D,SILVER SPRING,Crime Against Society,Animal Cruelty,28,28,28.0
+3D,SILVER SPRING,Crime Against Society,Assisting or Promoting Prostitution,30,30,31.0
+3D,SILVER SPRING,Crime Against Society,Curfew/Loitering/Vagrancy Violations,25,25,25.0
+3D,SILVER SPRING,Crime Against Society,Disorderly Conduct,2031,2002,2097.0
+3D,SILVER SPRING,Crime Against Society,Driving Under the Influence,3691,3679,3694.0
+3D,SILVER SPRING,Crime Against Society,Drug Equipment Violations,722,722,722.0
+3D,SILVER SPRING,Crime Against Society,Drug/Narcotic Violations,6924,6323,6933.0
+3D,SILVER SPRING,Crime Against Society,"Family Offenses, NonViolent",196,196,197.0
+3D,SILVER SPRING,Crime Against Society,Liquor Law Violations,2677,2668,2678.0
+3D,SILVER SPRING,Crime Against Society,Pornography/Obscene Material,60,60,60.0
+3D,SILVER SPRING,Crime Against Society,Prostitution,47,47,47.0
+3D,SILVER SPRING,Crime Against Society,Trespass of Real Property,1697,1697,1704.0
+3D,SILVER SPRING,Crime Against Society,Weapon Law Violations,1008,990,1011.0
+4D,WHEATON,Crime Against Not a Crime,Justifiable Homicide,1,1,1.0
+4D,WHEATON,Crime Against Not a Crime,Runaway,1401,1401,1402.0
+4D,WHEATON,Crime Against Person,Aggravated Assault,1429,1411,1697.0
+4D,WHEATON,Crime Against Person,Forcible Fondling,674,671,728.0
+4D,WHEATON,Crime Against Person,Forcible Rape,796,659,808.0
+4D,WHEATON,Crime Against Person,"Human Trafficking, Commercial Sex Acts",2,2,2.0
+4D,WHEATON,Crime Against Person,"Human Trafficking, Involuntary Servitude",1,1,2.0
+4D,WHEATON,Crime Against Person,Incest,2,2,2.0
+4D,WHEATON,Crime Against Person,Intimidation,83,83,89.0
+4D,WHEATON,Crime Against Person,Kidnapping/Abduction,20,20,22.0
+4D,WHEATON,Crime Against Person,Murder and Nonnegligent Manslaughter,38,38,45.0
+4D,WHEATON,Crime Against Person,Negligent Manslaughter,1,1,1.0
+4D,WHEATON,Crime Against Person,Simple Assault,6628,6582,8084.0
+4D,WHEATON,Crime Against Person,Statuory Rape,28,28,30.0
+4D,WHEATON,Crime Against Property,All other Larceny,3648,3647,3655.0
+4D,WHEATON,Crime Against Property,Arson,146,132,146.0
+4D,WHEATON,Crime Against Property,Burglary/Breaking and Entering,2493,2485,2495.0
+4D,WHEATON,Crime Against Property,Counterfeiting/Forgery,813,812,813.0
+4D,WHEATON,Crime Against Property,Credit Card/Automatic Teller Machine Fraud,1276,1276,1276.0
+4D,WHEATON,Crime Against Property,Destruction/Damage/Vandalism of Property,5167,5150,5208.0
+4D,WHEATON,Crime Against Property,Embezzlement,121,121,121.0
+4D,WHEATON,Crime Against Property,Extortion/Blackmail,130,130,130.0
+4D,WHEATON,Crime Against Property,False Pretenses/Swindle/Confidence Game,1999,1999,1999.0
+4D,WHEATON,Crime Against Property,From Coin/Operated Machine or Device,12,12,12.0
+4D,WHEATON,Crime Against Property,Hacking/Computer Invasion,26,26,26.0
+4D,WHEATON,Crime Against Property,Identity Theft,2406,2406,2406.0
+4D,WHEATON,Crime Against Property,Impersonation,266,266,266.0
+4D,WHEATON,Crime Against Property,Motor Vehicle Theft,3219,3218,3222.0
+4D,WHEATON,Crime Against Property,Pocket/picking,171,171,171.0
+4D,WHEATON,Crime Against Property,Purse-snatching,133,133,133.0
+4D,WHEATON,Crime Against Property,Robbery,1198,1183,1209.0
+4D,WHEATON,Crime Against Property,Shoplifting,6458,6458,6472.0
+4D,WHEATON,Crime Against Property,Stolen Property Offenses,50,50,50.0
+4D,WHEATON,Crime Against Property,Theft from Building,2690,2689,2695.0
+4D,WHEATON,Crime Against Property,Theft From Motor Vehicle,6767,6767,6768.0
+4D,WHEATON,Crime Against Property,Theft of Motor Vehicle Parts or Accessories,2558,2558,2558.0
+4D,WHEATON,Crime Against Property,Welfare Fraud,6,6,6.0
+4D,WHEATON,Crime Against Property,Wire Fraud,56,56,56.0
+4D,WHEATON,Crime Against Society,All Other Offenses,20669,20501,20736.0
+4D,WHEATON,Crime Against Society,Animal Cruelty,29,29,29.0
+4D,WHEATON,Crime Against Society,Assisting or Promoting Prostitution,4,4,4.0
+4D,WHEATON,Crime Against Society,Curfew/Loitering/Vagrancy Violations,4,4,4.0
+4D,WHEATON,Crime Against Society,Disorderly Conduct,2029,2012,2077.0
+4D,WHEATON,Crime Against Society,Driving Under the Influence,4348,4334,4357.0
+4D,WHEATON,Crime Against Society,Drug Equipment Violations,607,607,609.0
+4D,WHEATON,Crime Against Society,Drug/Narcotic Violations,6152,5719,6159.0
+4D,WHEATON,Crime Against Society,"Family Offenses, NonViolent",233,232,239.0
+4D,WHEATON,Crime Against Society,Liquor Law Violations,2443,2435,2446.0
+4D,WHEATON,Crime Against Society,Pornography/Obscene Material,99,95,100.0
+4D,WHEATON,Crime Against Society,Prostitution,13,13,13.0
+4D,WHEATON,Crime Against Society,Trespass of Real Property,1191,1191,1201.0
+4D,WHEATON,Crime Against Society,Weapon Law Violations,940,927,946.0
+5D,GERMANTOWN,Crime Against Not a Crime,Justifiable Homicide,2,2,2.0
+5D,GERMANTOWN,Crime Against Not a Crime,Runaway,920,920,920.0
+5D,GERMANTOWN,Crime Against Person,Aggravated Assault,1184,1173,1457.0
+5D,GERMANTOWN,Crime Against Person,Forcible Fondling,399,398,430.0
+5D,GERMANTOWN,Crime Against Person,Forcible Rape,558,464,566.0
+5D,GERMANTOWN,Crime Against Person,"Human Trafficking, Commercial Sex Acts",2,2,2.0
+5D,GERMANTOWN,Crime Against Person,Incest,4,4,4.0
+5D,GERMANTOWN,Crime Against Person,Intimidation,86,86,98.0
+5D,GERMANTOWN,Crime Against Person,Kidnapping/Abduction,10,10,12.0
+5D,GERMANTOWN,Crime Against Person,Murder and Nonnegligent Manslaughter,30,30,33.0
+5D,GERMANTOWN,Crime Against Person,Negligent Manslaughter,1,1,1.0
+5D,GERMANTOWN,Crime Against Person,Simple Assault,5878,5840,7370.0
+5D,GERMANTOWN,Crime Against Person,Statuory Rape,18,18,18.0
+5D,GERMANTOWN,Crime Against Property,All other Larceny,2979,2977,2991.0
+5D,GERMANTOWN,Crime Against Property,Arson,83,76,83.0
+5D,GERMANTOWN,Crime Against Property,Burglary/Breaking and Entering,1500,1497,1502.0
+5D,GERMANTOWN,Crime Against Property,Counterfeiting/Forgery,372,370,372.0
+5D,GERMANTOWN,Crime Against Property,Credit Card/Automatic Teller Machine Fraud,1077,1077,1077.0
+5D,GERMANTOWN,Crime Against Property,Destruction/Damage/Vandalism of Property,3959,3950,3988.0
+5D,GERMANTOWN,Crime Against Property,Embezzlement,87,87,87.0
+5D,GERMANTOWN,Crime Against Property,Extortion/Blackmail,125,125,125.0
+5D,GERMANTOWN,Crime Against Property,False Pretenses/Swindle/Confidence Game,1456,1456,1458.0
+5D,GERMANTOWN,Crime Against Property,From Coin/Operated Machine or Device,11,11,11.0
+5D,GERMANTOWN,Crime Against Property,Hacking/Computer Invasion,17,17,17.0
+5D,GERMANTOWN,Crime Against Property,Identity Theft,1838,1838,1838.0
+5D,GERMANTOWN,Crime Against Property,Impersonation,163,163,163.0
+5D,GERMANTOWN,Crime Against Property,Motor Vehicle Theft,1587,1584,1588.0
+5D,GERMANTOWN,Crime Against Property,Pocket/picking,79,79,79.0
+5D,GERMANTOWN,Crime Against Property,Purse-snatching,65,65,65.0
+5D,GERMANTOWN,Crime Against Property,Robbery,556,553,558.0
+5D,GERMANTOWN,Crime Against Property,Shoplifting,6578,6578,6592.0
+5D,GERMANTOWN,Crime Against Property,Stolen Property Offenses,35,35,35.0
+5D,GERMANTOWN,Crime Against Property,Theft from Building,1746,1746,1746.0
+5D,GERMANTOWN,Crime Against Property,Theft From Motor Vehicle,4367,4367,4368.0
+5D,GERMANTOWN,Crime Against Property,Theft of Motor Vehicle Parts or Accessories,1062,1062,1062.0
+5D,GERMANTOWN,Crime Against Property,Welfare Fraud,6,6,6.0
+5D,GERMANTOWN,Crime Against Property,Wire Fraud,71,71,71.0
+5D,GERMANTOWN,Crime Against Society,All Other Offenses,14343,14251,14400.0
+5D,GERMANTOWN,Crime Against Society,Animal Cruelty,32,32,32.0
+5D,GERMANTOWN,Crime Against Society,Assisting or Promoting Prostitution,9,9,9.0
+5D,GERMANTOWN,Crime Against Society,Disorderly Conduct,628,623,646.0
+5D,GERMANTOWN,Crime Against Society,Driving Under the Influence,2337,2330,2344.0
+5D,GERMANTOWN,Crime Against Society,Drug Equipment Violations,422,422,422.0
+5D,GERMANTOWN,Crime Against Society,Drug/Narcotic Violations,3352,3040,3358.0
+5D,GERMANTOWN,Crime Against Society,"Family Offenses, NonViolent",248,245,254.0
+5D,GERMANTOWN,Crime Against Society,Liquor Law Violations,452,448,453.0
+5D,GERMANTOWN,Crime Against Society,Operating/Promoting/Assisting Gambling,1,1,1.0
+5D,GERMANTOWN,Crime Against Society,Pornography/Obscene Material,49,49,49.0
+5D,GERMANTOWN,Crime Against Society,Prostitution,9,9,9.0
+5D,GERMANTOWN,Crime Against Society,Trespass of Real Property,657,657,663.0
+5D,GERMANTOWN,Crime Against Society,Weapon Law Violations,666,653,671.0
+6D,MONTGOMERY VILLAGE,Crime Against Not a Crime,Justifiable Homicide,3,3,3.0
+6D,MONTGOMERY VILLAGE,Crime Against Not a Crime,Runaway,1362,1362,1364.0
+6D,MONTGOMERY VILLAGE,Crime Against Person,Aggravated Assault,1696,1679,2008.0
+6D,MONTGOMERY VILLAGE,Crime Against Person,Forcible Fondling,624,618,667.0
+6D,MONTGOMERY VILLAGE,Crime Against Person,Forcible Rape,923,776,954.0
+6D,MONTGOMERY VILLAGE,Crime Against Person,"Human Trafficking, Commercial Sex Acts",35,35,35.0
+6D,MONTGOMERY VILLAGE,Crime Against Person,Intimidation,137,137,147.0
+6D,MONTGOMERY VILLAGE,Crime Against Person,Kidnapping/Abduction,31,31,32.0
+6D,MONTGOMERY VILLAGE,Crime Against Person,Murder and Nonnegligent Manslaughter,32,32,33.0
+6D,MONTGOMERY VILLAGE,Crime Against Person,Negligent Manslaughter,1,1,1.0
+6D,MONTGOMERY VILLAGE,Crime Against Person,Simple Assault,7203,7166,8810.0
+6D,MONTGOMERY VILLAGE,Crime Against Person,Statuory Rape,41,41,42.0
+6D,MONTGOMERY VILLAGE,Crime Against Property,All other Larceny,3133,3132,3148.0
+6D,MONTGOMERY VILLAGE,Crime Against Property,Arson,93,84,93.0
+6D,MONTGOMERY VILLAGE,Crime Against Property,Bribery,1,1,1.0
+6D,MONTGOMERY VILLAGE,Crime Against Property,Burglary/Breaking and Entering,2106,2098,2120.0
+6D,MONTGOMERY VILLAGE,Crime Against Property,Counterfeiting/Forgery,587,586,587.0
+6D,MONTGOMERY VILLAGE,Crime Against Property,Credit Card/Automatic Teller Machine Fraud,1285,1285,1285.0
+6D,MONTGOMERY VILLAGE,Crime Against Property,Destruction/Damage/Vandalism of Property,5428,5412,5484.0
+6D,MONTGOMERY VILLAGE,Crime Against Property,Embezzlement,135,134,135.0
+6D,MONTGOMERY VILLAGE,Crime Against Property,Extortion/Blackmail,107,107,107.0
+6D,MONTGOMERY VILLAGE,Crime Against Property,False Pretenses/Swindle/Confidence Game,1651,1649,1653.0
+6D,MONTGOMERY VILLAGE,Crime Against Property,From Coin/Operated Machine or Device,13,13,13.0
+6D,MONTGOMERY VILLAGE,Crime Against Property,Hacking/Computer Invasion,22,22,22.0
+6D,MONTGOMERY VILLAGE,Crime Against Property,Identity Theft,1859,1859,1859.0
+6D,MONTGOMERY VILLAGE,Crime Against Property,Impersonation,188,188,188.0
+6D,MONTGOMERY VILLAGE,Crime Against Property,Motor Vehicle Theft,2799,2796,2800.0
+6D,MONTGOMERY VILLAGE,Crime Against Property,Pocket/picking,107,107,107.0
+6D,MONTGOMERY VILLAGE,Crime Against Property,Purse-snatching,111,111,111.0
+6D,MONTGOMERY VILLAGE,Crime Against Property,Robbery,993,984,998.0
+6D,MONTGOMERY VILLAGE,Crime Against Property,Shoplifting,4518,4518,4529.0
+6D,MONTGOMERY VILLAGE,Crime Against Property,Stolen Property Offenses,43,43,43.0
+6D,MONTGOMERY VILLAGE,Crime Against Property,Theft from Building,2964,2963,2968.0
+6D,MONTGOMERY VILLAGE,Crime Against Property,Theft From Motor Vehicle,5804,5804,5804.0
+6D,MONTGOMERY VILLAGE,Crime Against Property,Theft of Motor Vehicle Parts or Accessories,1992,1992,1992.0
+6D,MONTGOMERY VILLAGE,Crime Against Property,Welfare Fraud,9,9,9.0
+6D,MONTGOMERY VILLAGE,Crime Against Property,Wire Fraud,76,76,76.0
+6D,MONTGOMERY VILLAGE,Crime Against Society,All Other Offenses,19926,19765,20020.0
+6D,MONTGOMERY VILLAGE,Crime Against Society,Animal Cruelty,31,31,31.0
+6D,MONTGOMERY VILLAGE,Crime Against Society,Assisting or Promoting Prostitution,46,46,46.0
+6D,MONTGOMERY VILLAGE,Crime Against Society,Curfew/Loitering/Vagrancy Violations,7,7,7.0
+6D,MONTGOMERY VILLAGE,Crime Against Society,Disorderly Conduct,1072,1056,1110.0
+6D,MONTGOMERY VILLAGE,Crime Against Society,Driving Under the Influence,5340,5322,5348.0
+6D,MONTGOMERY VILLAGE,Crime Against Society,Drug Equipment Violations,743,743,744.0
+6D,MONTGOMERY VILLAGE,Crime Against Society,Drug/Narcotic Violations,5012,4485,5020.0
+6D,MONTGOMERY VILLAGE,Crime Against Society,"Family Offenses, NonViolent",243,242,244.0
+6D,MONTGOMERY VILLAGE,Crime Against Society,Liquor Law Violations,706,696,707.0
+6D,MONTGOMERY VILLAGE,Crime Against Society,Pornography/Obscene Material,60,59,60.0
+6D,MONTGOMERY VILLAGE,Crime Against Society,Prostitution,92,92,92.0
+6D,MONTGOMERY VILLAGE,Crime Against Society,Trespass of Real Property,812,812,823.0
+6D,MONTGOMERY VILLAGE,Crime Against Society,Weapon Law Violations,776,766,785.0
+TPPD,TAKOMA PARK,Crime Against Not a Crime,Runaway,73,73,73.0
+TPPD,TAKOMA PARK,Crime Against Person,Aggravated Assault,212,210,241.0
+TPPD,TAKOMA PARK,Crime Against Person,Forcible Fondling,63,63,68.0
+TPPD,TAKOMA PARK,Crime Against Person,Forcible Rape,48,45,51.0
+TPPD,TAKOMA PARK,Crime Against Person,"Human Trafficking, Commercial Sex Acts",3,3,3.0
+TPPD,TAKOMA PARK,Crime Against Person,Incest,4,4,4.0
+TPPD,TAKOMA PARK,Crime Against Person,Intimidation,22,22,22.0
+TPPD,TAKOMA PARK,Crime Against Person,Kidnapping/Abduction,5,5,6.0
+TPPD,TAKOMA PARK,Crime Against Person,Murder and Nonnegligent Manslaughter,3,3,3.0
+TPPD,TAKOMA PARK,Crime Against Person,Simple Assault,684,677,755.0
+TPPD,TAKOMA PARK,Crime Against Person,Statuory Rape,12,12,12.0
+TPPD,TAKOMA PARK,Crime Against Property,All other Larceny,776,776,777.0
+TPPD,TAKOMA PARK,Crime Against Property,Arson,13,10,13.0
+TPPD,TAKOMA PARK,Crime Against Property,Burglary/Breaking and Entering,622,622,622.0
+TPPD,TAKOMA PARK,Crime Against Property,Counterfeiting/Forgery,76,75,76.0
+TPPD,TAKOMA PARK,Crime Against Property,Credit Card/Automatic Teller Machine Fraud,65,65,65.0
+TPPD,TAKOMA PARK,Crime Against Property,Destruction/Damage/Vandalism of Property,1490,1483,1495.0
+TPPD,TAKOMA PARK,Crime Against Property,Embezzlement,46,46,46.0
+TPPD,TAKOMA PARK,Crime Against Property,Extortion/Blackmail,11,11,11.0
+TPPD,TAKOMA PARK,Crime Against Property,False Pretenses/Swindle/Confidence Game,139,139,139.0
+TPPD,TAKOMA PARK,Crime Against Property,From Coin/Operated Machine or Device,9,9,9.0
+TPPD,TAKOMA PARK,Crime Against Property,Hacking/Computer Invasion,2,2,2.0
+TPPD,TAKOMA PARK,Crime Against Property,Identity Theft,214,214,214.0
+TPPD,TAKOMA PARK,Crime Against Property,Impersonation,24,24,24.0
+TPPD,TAKOMA PARK,Crime Against Property,Motor Vehicle Theft,530,530,532.0
+TPPD,TAKOMA PARK,Crime Against Property,Pocket/picking,14,14,14.0
+TPPD,TAKOMA PARK,Crime Against Property,Purse-snatching,41,41,43.0
+TPPD,TAKOMA PARK,Crime Against Property,Robbery,298,293,300.0
+TPPD,TAKOMA PARK,Crime Against Property,Shoplifting,1655,1655,1655.0
+TPPD,TAKOMA PARK,Crime Against Property,Stolen Property Offenses,32,31,32.0
+TPPD,TAKOMA PARK,Crime Against Property,Theft from Building,349,349,349.0
+TPPD,TAKOMA PARK,Crime Against Property,Theft From Motor Vehicle,1655,1655,1655.0
+TPPD,TAKOMA PARK,Crime Against Property,Theft of Motor Vehicle Parts or Accessories,343,343,343.0
+TPPD,TAKOMA PARK,Crime Against Property,Welfare Fraud,13,13,13.0
+TPPD,TAKOMA PARK,Crime Against Property,Wire Fraud,15,15,15.0
+TPPD,TAKOMA PARK,Crime Against Society,All Other Offenses,3206,3173,3210.0
+TPPD,TAKOMA PARK,Crime Against Society,Animal Cruelty,2,2,2.0
+TPPD,TAKOMA PARK,Crime Against Society,Assisting or Promoting Prostitution,10,10,10.0
+TPPD,TAKOMA PARK,Crime Against Society,Curfew/Loitering/Vagrancy Violations,6,6,6.0
+TPPD,TAKOMA PARK,Crime Against Society,Disorderly Conduct,234,228,237.0
+TPPD,TAKOMA PARK,Crime Against Society,Driving Under the Influence,161,161,162.0
+TPPD,TAKOMA PARK,Crime Against Society,Drug Equipment Violations,79,79,79.0
+TPPD,TAKOMA PARK,Crime Against Society,Drug/Narcotic Violations,466,441,466.0
+TPPD,TAKOMA PARK,Crime Against Society,"Family Offenses, NonViolent",52,52,52.0
+TPPD,TAKOMA PARK,Crime Against Society,Liquor Law Violations,76,76,77.0
+TPPD,TAKOMA PARK,Crime Against Society,Pornography/Obscene Material,5,5,5.0
+TPPD,TAKOMA PARK,Crime Against Society,Prostitution,7,7,7.0
+TPPD,TAKOMA PARK,Crime Against Society,Trespass of Real Property,168,168,168.0
+TPPD,TAKOMA PARK,Crime Against Society,Weapon Law Violations,88,86,88.0
+Unkn,<NA>,Crime Against Not a Crime,Runaway,11,11,11.0
+Unkn,<NA>,Crime Against Person,Aggravated Assault,29,29,29.0
+Unkn,<NA>,Crime Against Person,Forcible Fondling,9,9,10.0
+Unkn,<NA>,Crime Against Person,Forcible Rape,5,5,5.0
+Unkn,<NA>,Crime Against Person,Intimidation,6,6,6.0
+Unkn,<NA>,Crime Against Person,Simple Assault,130,130,153.0
+Unkn,<NA>,Crime Against Person,Statuory Rape,2,2,2.0
+Unkn,<NA>,Crime Against Property,All other Larceny,60,60,60.0
+Unkn,<NA>,Crime Against Property,Arson,1,1,1.0
+Unkn,<NA>,Crime Against Property,Burglary/Breaking and Entering,47,47,47.0
+Unkn,<NA>,Crime Against Property,Counterfeiting/Forgery,12,12,12.0
+Unkn,<NA>,Crime Against Property,Credit Card/Automatic Teller Machine Fraud,21,21,21.0
+Unkn,<NA>,Crime Against Property,Destruction/Damage/Vandalism of Property,93,91,94.0
+Unkn,<NA>,Crime Against Property,Embezzlement,6,6,6.0
+Unkn,<NA>,Crime Against Property,Extortion/Blackmail,3,3,3.0
+Unkn,<NA>,Crime Against Property,False Pretenses/Swindle/Confidence Game,27,27,27.0
+Unkn,<NA>,Crime Against Property,From Coin/Operated Machine or Device,1,1,1.0
+Unkn,<NA>,Crime Against Property,Identity Theft,30,30,30.0
+Unkn,<NA>,Crime Against Property,Impersonation,3,3,3.0
+Unkn,<NA>,Crime Against Property,Motor Vehicle Theft,74,74,74.0
+Unkn,<NA>,Crime Against Property,Pocket/picking,3,3,3.0
+Unkn,<NA>,Crime Against Property,Purse-snatching,1,1,1.0
+Unkn,<NA>,Crime Against Property,Robbery,14,14,14.0
+Unkn,<NA>,Crime Against Property,Shoplifting,138,138,138.0
+Unkn,<NA>,Crime Against Property,Stolen Property Offenses,1,1,1.0
+Unkn,<NA>,Crime Against Property,Theft from Building,36,36,36.0
+Unkn,<NA>,Crime Against Property,Theft From Motor Vehicle,104,104,104.0
+Unkn,<NA>,Crime Against Property,Theft of Motor Vehicle Parts or Accessories,47,47,47.0
+Unkn,<NA>,Crime Against Society,All Other Offenses,346,344,347.0
+Unkn,<NA>,Crime Against Society,Animal Cruelty,1,1,1.0
+Unkn,<NA>,Crime Against Society,Disorderly Conduct,16,15,17.0
+Unkn,<NA>,Crime Against Society,Driving Under the Influence,52,52,52.0
+Unkn,<NA>,Crime Against Society,Drug Equipment Violations,4,4,4.0
+Unkn,<NA>,Crime Against Society,Drug/Narcotic Violations,25,25,25.0
+Unkn,<NA>,Crime Against Society,"Family Offenses, NonViolent",2,2,2.0
+Unkn,<NA>,Crime Against Society,Liquor Law Violations,11,11,11.0
+Unkn,<NA>,Crime Against Society,Trespass of Real Property,21,21,21.0
+Unkn,<NA>,Crime Against Society,Weapon Law Violations,9,9,9.0
