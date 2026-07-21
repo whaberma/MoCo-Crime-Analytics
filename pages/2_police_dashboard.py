@@ -93,26 +93,26 @@ district_labels = {
 }
 
 selected_district = st.sidebar.selectbox(
-    "Select a police district",
+    "Select a Police District",
     options=list(district_labels.keys()),
     format_func=lambda value: district_labels[value],
 )
 
 top_n_crimes = st.sidebar.slider(
-    "Top secondary crime categories",
+    "Top Crime Categories",
     min_value=5,
     max_value=25,
     value=12,
 )
 
 top_n_places = st.sidebar.slider(
-    "Top place categories",
+    "Top Place Categories",
     min_value=5,
     max_value=25,
     value=10,
 )
 
-if st.sidebar.button("Clear cache"):
+if st.sidebar.button("Clear Cache"):
     st.cache_data.clear()
     st.cache_resource.clear()
     st.rerun()
@@ -196,19 +196,19 @@ col1.metric(
     "Selected district",
     f"{selected_district} - {district_name}",
 )
-col2.metric("Total incidents", f"{total_incidents:,}")
-col3.metric("Top crime category", top_crime_category)
+col2.metric("Total Incidents", f"{total_incidents:,}")
+col3.metric("Top Crime Category", top_crime_category)
 col4.metric(
-    "Incident rank",
+    "Incident Rank",
     f"#{district_rank}" if district_rank is not None else "N/A",
 )
 
 st.divider()
 
 
-st.header("1. How do police districts compare?")
+st.header("1. How do Police Districts compare?")
 st.caption(
-    "Total incident volume across Montgomery County police districts."
+    "Total Incident volume across Montgomery County police districts."
 )
 
 district_compare = district_summary.sort_values(
@@ -222,17 +222,17 @@ district_bar = (
     .encode(
         x=alt.X(
             "total_incidents:Q",
-            title="Total incidents",
+            title="Total Incidents",
         ),
         y=alt.Y(
             "district_name:N",
             sort="-x",
-            title="Police district",
+            title="Police District",
         ),
         tooltip=[
             alt.Tooltip(
                 "district_number:N",
-                title="District number",
+                title="District Number",
             ),
             alt.Tooltip(
                 "district_name:N",
@@ -258,7 +258,7 @@ st.altair_chart(
     use_container_width=True,
 )
 
-with st.expander("View district summary data"):
+with st.expander("View District Summary Data"):
     st.dataframe(
         district_compare,
         width="stretch",
@@ -267,9 +267,9 @@ with st.expander("View district summary data"):
 st.divider()
 
 
-st.header("2. How is incident volume changing?")
+st.header("2. How is Incident Volume changing?")
 st.caption(
-    f"Monthly incident trend for {district_name}."
+    f"Monthly Incident Trend for {district_name}."
 )
 
 selected_trend = district_trend[
@@ -318,7 +318,7 @@ else:
             ),
             y=alt.Y(
                 "total_incidents:Q",
-                title="Total incidents",
+                title="Total Incidents",
                 scale=alt.Scale(zero=False),
             ),
             tooltip=[
@@ -346,7 +346,7 @@ else:
         use_container_width=True,
     )
 
-with st.expander("View district trend data"):
+with st.expander("View District Trend Data"):
     st.dataframe(
         selected_trend,
         width="stretch",
@@ -355,9 +355,9 @@ with st.expander("View district trend data"):
 st.divider()
 
 
-st.header("3. What types of crime occur in this district?")
+st.header("3. What types of Crime occur in this district?")
 st.caption(
-    f"Top secondary crime categories reported in {district_name}."
+    f"Top Crime Categories reported in {district_name}."
 )
 
 selected_crime_mix = district_crime_mix[
@@ -413,12 +413,12 @@ else:
             y=alt.Y(
                 "crime_category_secondary:N",
                 sort="-x",
-                title="Secondary crime category",
+                title="Crime Category",
             ),
             tooltip=[
                 alt.Tooltip(
                     "crime_category_secondary:N",
-                    title="Crime category",
+                    title="Crime Category",
                 ),
                 alt.Tooltip(
                     "incident_count:Q",
@@ -445,7 +445,7 @@ else:
         use_container_width=True,
     )
 
-with st.expander("View secondary crime-category data"):
+with st.expander("View Crime Category Data"):
     st.dataframe(
         secondary_mix,
         width="stretch",
@@ -454,9 +454,9 @@ with st.expander("View secondary crime-category data"):
 st.divider()
 
 
-st.header("4. Which place categories have the most incidents?")
+st.header("4. Which Places have the most incidents?")
 st.caption(
-    f"Most common incident location categories in {district_name}."
+    f"Most Common Location in {district_name}."
 )
 
 selected_places = district_place_hotspots[
@@ -484,17 +484,17 @@ else:
         .encode(
             x=alt.X(
                 "total_incidents:Q",
-                title="Total incidents",
+                title="Total Incidents",
             ),
             y=alt.Y(
                 "place:N",
                 sort="-x",
-                title="Place category",
+                title="Place Category",
             ),
             tooltip=[
                 alt.Tooltip(
                     "place:N",
-                    title="Place category",
+                    title="Place Category",
                 ),
                 alt.Tooltip(
                     "total_incidents:Q",
@@ -516,7 +516,7 @@ else:
         use_container_width=True,
     )
 
-with st.expander("View place-category data"):
+with st.expander("View Place Category Data"):
     st.dataframe(
         selected_places,
         width="stretch",
@@ -525,7 +525,7 @@ with st.expander("View place-category data"):
 
 st.divider()
 st.caption(
-    "Views used: police_district_summary, police_district_trend, "
+    "Views Used: police_district_summary, police_district_trend, "
     "police_district_crime_mix, and "
     "police_district_place_hotspots."
 )

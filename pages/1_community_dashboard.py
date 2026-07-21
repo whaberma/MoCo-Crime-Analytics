@@ -721,7 +721,7 @@ st.dataframe(
 
 st.divider()
 st.caption(
-    "Views used: community_city_summary, community_city_trend, "
+    "Views Used: community_city_summary, community_city_trend, "
     "community_crime_mix, community_time_heatmap, "
     "community_zip_detail."
 )
