@@ -154,7 +154,7 @@ Montgomery County Crime Data
 Clone the repository
 
 ```bash
-git clone https://github.com/whaberma/public_dashboard.git
+git clone https://github.com/whaberma/MoCo-Crime_Analytics.git
 ```
 
 Install dependencies
