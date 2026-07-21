@@ -151,33 +151,33 @@ if not city_options:
     st.stop()
 
 selected_city = st.sidebar.selectbox(
-    "Select a city",
+    "Select a City",
     city_options,
 )
 
 top_n = st.sidebar.slider(
-    "Top cities to compare",
+    "Top Cities to Compare",
     min_value=5,
     max_value=25,
     value=10,
 )
 
 top_n_secondary = st.sidebar.slider(
-    "Top secondary crime categories",
+    "Top Crime Categories",
     min_value=5,
     max_value=25,
     value=12,
 )
 
 map_scope = st.sidebar.radio(
-    "Map scope",
+    "Map Scope",
     [
         "All Montgomery County ZIPs",
-        "Selected city ZIPs",
+        "Selected City ZIPs",
     ],
 )
 
-if st.sidebar.button("Clear cache"):
+if st.sidebar.button("Clear Cache"):
     st.cache_data.clear()
     st.cache_resource.clear()
     st.rerun()
@@ -227,18 +227,18 @@ city_zip_count = int(
 )
 
 col1, col2, col3, col4 = st.columns(4)
-col1.metric("Selected city", selected_city)
-col2.metric("Total incidents", f"{city_incidents:,}")
-col3.metric("ZIPs covered", f"{city_zip_count:,}")
+col1.metric("Selected City", selected_city)
+col2.metric("Total Incidents", f"{city_incidents:,}")
+col3.metric("ZIPs Covered", f"{city_zip_count:,}")
 col4.metric(
-    "Incident rank",
+    "Incident Rank",
     f"#{city_rank}" if city_rank is not None else "N/A",
 )
 
 st.divider()
 
 
-st.header("1. Where is crime concentrated?")
+st.header("1. Where is Crime Concentrated?")
 st.caption(
     "ZIP-code boundaries are shaded by total incident frequency."
 )
@@ -255,7 +255,7 @@ except Exception as exc:
 
 map_df = zip_detail.copy()
 
-if map_scope == "Selected city ZIPs":
+if map_scope == "Selected City ZIPs":
     map_df = map_df[
         map_df["City"] == selected_city
     ].copy()
@@ -364,7 +364,7 @@ else:
         )
     )
 
-with st.expander("View ZIP map data"):
+with st.expander("View ZIP Map Data"):
     st.dataframe(
         map_df[
             [
@@ -384,7 +384,7 @@ with st.expander("View ZIP map data"):
 st.divider()
 
 
-st.header("2. How does this city compare?")
+st.header("2. How does this City compare?")
 st.caption(
     "Top Montgomery County cities by total incidents."
 )
@@ -401,7 +401,7 @@ city_bar = (
     .encode(
         x=alt.X(
             "total_incidents:Q",
-            title="Total incidents",
+            title="Total Incidents",
         ),
         y=alt.Y(
             "City:N",
@@ -420,7 +420,7 @@ city_bar = (
 
 st.altair_chart(city_bar, use_container_width=True)
 
-with st.expander("View city summary data"):
+with st.expander("View City Summary Data"):
     st.dataframe(
         city_summary.sort_values(
             "total_incidents",
@@ -432,8 +432,8 @@ with st.expander("View city summary data"):
 st.divider()
 
 
-st.header("3. Is crime increasing or decreasing?")
-st.caption("Monthly trend for the selected city.")
+st.header("3. Is Crime Increasing or Decreasing?")
+st.caption("Monthly trend for the selected City.")
 
 selected_trend = city_trend[
     city_trend["City"] == selected_city
@@ -466,7 +466,7 @@ if not selected_trend.empty:
     )
 
 if selected_trend.empty:
-    st.info("No monthly trend data is available for this city.")
+    st.info("No monthly trend data is available for this City.")
 else:
     trend_line = (
         alt.Chart(selected_trend)
@@ -479,7 +479,7 @@ else:
             ),
             y=alt.Y(
                 "total_incidents:Q",
-                title="Total incidents",
+                title="Total Incidents",
             ),
             tooltip=[
                 "month_period",
@@ -495,15 +495,15 @@ else:
         use_container_width=True,
     )
 
-with st.expander("View city trend data"):
+with st.expander("View City Trend Data"):
     st.dataframe(selected_trend, width="stretch")
 
 st.divider()
 
 
-st.header("4. What types of crime happen here?")
+st.header("4. What types of Crime happen here?")
 st.caption(
-    "The most common secondary crime categories for the selected city."
+    "The most common crime categories for the selected City."
 )
 
 selected_crime_mix = crime_mix[
@@ -525,7 +525,7 @@ selected_crime_mix = selected_crime_mix[
 ].copy()
 
 if selected_crime_mix.empty:
-    st.info("No specific crime-category data is available for this city.")
+    st.info("No specific crime-category data is available for this City.")
 else:
     secondary_mix = (
         selected_crime_mix
@@ -555,7 +555,7 @@ else:
             y=alt.Y(
                 "crime_category_secondary:N",
                 sort="-x",
-                title="Secondary crime category",
+                title="Crime Category",
             ),
             tooltip=[
                 alt.Tooltip(
@@ -582,7 +582,7 @@ else:
         use_container_width=True,
     )
 
-with st.expander("View secondary crime-category data"):
+with st.expander("View Crime Category Data"):
     st.dataframe(
         secondary_mix
         if not selected_crime_mix.empty
@@ -593,9 +593,9 @@ with st.expander("View secondary crime-category data"):
 st.divider()
 
 
-st.header("5. When does crime happen?")
+st.header("5. When does Crime happen?")
 st.caption(
-    "Day-of-week and hour-of-day patterns for the selected city."
+    "Day-of-week and hour-of-day patterns for the selected City."
 )
 
 selected_time = time_heatmap[
@@ -603,7 +603,7 @@ selected_time = time_heatmap[
 ].copy()
 
 if selected_time.empty:
-    st.info("No time-pattern data is available for this city.")
+    st.info("No time-pattern data is available for this City.")
 else:
     selected_time["hour_label"] = (
         selected_time["hour_of_day"]
@@ -624,12 +624,12 @@ else:
         .encode(
             x=alt.X(
                 "hour_label:O",
-                title="Hour of day",
+                title="Hour of Day",
                 sort=hour_order,
             ),
             y=alt.Y(
                 "day_of_week:N",
-                title="Day of week",
+                title="Day of Week",
                 sort=[
                     "Sunday",
                     "Monday",
@@ -656,15 +656,15 @@ else:
 
     st.altair_chart(heatmap, use_container_width=True)
 
-with st.expander("View time heatmap data"):
+with st.expander("View Time Heatmap Data"):
     st.dataframe(selected_time, width="stretch")
 
 st.divider()
 
 
-st.header("6. Where within the selected city?")
+st.header("6. Where within the selected City?")
 st.caption(
-    "ZIP-code drill-down for the selected city."
+    "ZIP-code drill-down for the selected City."
 )
 
 selected_zip = zip_detail[
@@ -677,7 +677,7 @@ selected_zip = selected_zip.sort_values(
 )
 
 if selected_zip.empty:
-    st.info("No ZIP-level data is available for this city.")
+    st.info("No ZIP-level data is available for this City.")
 else:
     zip_bar = (
         alt.Chart(selected_zip)
@@ -685,12 +685,12 @@ else:
         .encode(
             x=alt.X(
                 "total_incidents:Q",
-                title="Total incidents",
+                title="Total Incidents",
             ),
             y=alt.Y(
                 "Zip Code:N",
                 sort="-x",
-                title="ZIP code",
+                title="ZIP Code",
             ),
             tooltip=[
                 "Zip Code",
