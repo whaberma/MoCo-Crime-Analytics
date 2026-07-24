@@ -21,6 +21,28 @@ Instead of connecting a public application directly to a database, dashboard dat
 
 ---
 
+# Dashboard Preview
+
+## Community Dashboard
+
+Designed for residents and community members to explore crime patterns across Montgomery County through interactive maps, city comparisons, monthly trends, and ZIP-level drill-downs.
+
+<p align="center">
+    <img src="community_dashboard.png" width="95%">
+</p>
+
+---
+
+## Police Operations Dashboard
+
+Designed for district-level operational analysis, allowing users to compare police districts, monitor crime trends, identify common crime categories, and analyze incident hotspots.
+
+<p align="center">
+    <img src="police_dashboard.png" width="95%">
+</p>
+
+---
+
 ## Features
 
 ### Community Dashboard
@@ -93,11 +115,17 @@ The project uses a normalized relational database consisting of:
 
 ZIP codes are validated against a whitelist of Montgomery County ZIP codes before being included in dashboard reporting.
 
+<p align="center">
+    <img src="erd.png" width="90%">
+</p>
+
+*Entity Relationship Diagram of the normalized MySQL database.*
+
 ---
 
 ## Project Architecture
 
-```
+```text
 Montgomery County Crime Data
             │
             ▼
@@ -120,7 +148,7 @@ Montgomery County Crime Data
 
 ## Repository Structure
 
-```
+```text
 .
 ├── dashboard_data/
 │   ├── community_city_summary.csv
@@ -231,4 +259,5 @@ Information Science
 University of Maryland, College Park
 
 GitHub: https://github.com/whaberma
+
 LinkedIn: https://linkedin.com/in/william-jack-haberman
