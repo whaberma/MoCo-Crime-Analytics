@@ -206,156 +206,7 @@ col4.metric(
 st.divider()
 
 
-st.header("1. How do Police Districts compare?")
-st.caption(
-    "Total Incident volume across Montgomery County police districts."
-)
-
-district_compare = district_summary.sort_values(
-    "total_incidents",
-    ascending=False,
-)
-
-district_bar = (
-    alt.Chart(district_compare)
-    .mark_bar()
-    .encode(
-        x=alt.X(
-            "total_incidents:Q",
-            title="Total Incidents",
-        ),
-        y=alt.Y(
-            "district_name:N",
-            sort="-x",
-            title="Police District",
-        ),
-        tooltip=[
-            alt.Tooltip(
-                "district_number:N",
-                title="District Number",
-            ),
-            alt.Tooltip(
-                "district_name:N",
-                title="District",
-            ),
-            alt.Tooltip(
-                "total_incidents:Q",
-                title="Incidents",
-                format=",",
-            ),
-            alt.Tooltip(
-                "total_victims:Q",
-                title="Victims",
-                format=",",
-            ),
-        ],
-    )
-    .properties(height=360)
-)
-
-st.altair_chart(
-    district_bar,
-    use_container_width=True,
-)
-
-with st.expander("View District Summary Data"):
-    st.dataframe(
-        district_compare,
-        width="stretch",
-    )
-
-st.divider()
-
-
-st.header("2. How is Incident Volume changing?")
-st.caption(
-    f"Monthly Incident Trend for {district_name}."
-)
-
-selected_trend = district_trend[
-    district_trend["district_number"] == selected_district
-].copy()
-
-selected_trend = selected_trend.sort_values(
-    ["year_number", "month_number"]
-)
-
-# Exclude the most recent available month because it may be incomplete.
-# This is dynamic and will always remove the latest month in the data,
-# rather than a hard-coded calendar month.
-if not selected_trend.empty:
-    selected_trend["month_date"] = pd.to_datetime(
-        selected_trend["month_period"],
-        format="%Y-%m",
-        errors="coerce",
-    )
-
-    latest_month = selected_trend["month_date"].max()
-
-    if pd.notna(latest_month):
-        selected_trend = selected_trend[
-            selected_trend["month_date"] < latest_month
-        ].copy()
-
-    selected_trend = selected_trend.drop(
-        columns=["month_date"],
-        errors="ignore",
-    )
-
-if selected_trend.empty:
-    st.info(
-        "No monthly trend data is available for this district."
-    )
-else:
-    trend_line = (
-        alt.Chart(selected_trend)
-        .mark_line(point=True)
-        .encode(
-            x=alt.X(
-                "month_period:N",
-                title="Month",
-                sort=None,
-            ),
-            y=alt.Y(
-                "total_incidents:Q",
-                title="Total Incidents",
-                scale=alt.Scale(zero=False),
-            ),
-            tooltip=[
-                alt.Tooltip(
-                    "month_period:N",
-                    title="Month",
-                ),
-                alt.Tooltip(
-                    "total_incidents:Q",
-                    title="Incidents",
-                    format=",",
-                ),
-                alt.Tooltip(
-                    "total_victims:Q",
-                    title="Victims",
-                    format=",",
-                ),
-            ],
-        )
-        .properties(height=380)
-    )
-
-    st.altair_chart(
-        trend_line,
-        use_container_width=True,
-    )
-
-with st.expander("View District Trend Data"):
-    st.dataframe(
-        selected_trend,
-        width="stretch",
-    )
-
-st.divider()
-
-
-st.header("3. What types of Crime occur in this district?")
+st.header("1. What types of Crime occur in this district?")
 st.caption(
     f"Top Crime Categories reported in {district_name}."
 )
@@ -454,7 +305,7 @@ with st.expander("View Crime Category Data"):
 st.divider()
 
 
-st.header("4. Which Places have the most incidents?")
+st.header("2. Which Places have the most incidents?")
 st.caption(
     f"Most Common Location in {district_name}."
 )
@@ -521,6 +372,155 @@ with st.expander("View Place Category Data"):
         selected_places,
         width="stretch",
     )
+
+st.header("3. How do Police Districts compare?")
+st.caption(
+    "Total Incident volume across Montgomery County police districts."
+)
+
+district_compare = district_summary.sort_values(
+    "total_incidents",
+    ascending=False,
+)
+
+district_bar = (
+    alt.Chart(district_compare)
+    .mark_bar()
+    .encode(
+        x=alt.X(
+            "total_incidents:Q",
+            title="Total Incidents",
+        ),
+        y=alt.Y(
+            "district_name:N",
+            sort="-x",
+            title="Police District",
+        ),
+        tooltip=[
+            alt.Tooltip(
+                "district_number:N",
+                title="District Number",
+            ),
+            alt.Tooltip(
+                "district_name:N",
+                title="District",
+            ),
+            alt.Tooltip(
+                "total_incidents:Q",
+                title="Incidents",
+                format=",",
+            ),
+            alt.Tooltip(
+                "total_victims:Q",
+                title="Victims",
+                format=",",
+            ),
+        ],
+    )
+    .properties(height=360)
+)
+
+st.altair_chart(
+    district_bar,
+    use_container_width=True,
+)
+
+with st.expander("View District Summary Data"):
+    st.dataframe(
+        district_compare,
+        width="stretch",
+    )
+
+st.divider()
+
+
+st.header("4. How is Incident Volume changing?")
+st.caption(
+    f"Monthly Incident Trend for {district_name}."
+)
+
+selected_trend = district_trend[
+    district_trend["district_number"] == selected_district
+].copy()
+
+selected_trend = selected_trend.sort_values(
+    ["year_number", "month_number"]
+)
+
+# Exclude the most recent available month because it may be incomplete.
+# This is dynamic and will always remove the latest month in the data,
+# rather than a hard-coded calendar month.
+if not selected_trend.empty:
+    selected_trend["month_date"] = pd.to_datetime(
+        selected_trend["month_period"],
+        format="%Y-%m",
+        errors="coerce",
+    )
+
+    latest_month = selected_trend["month_date"].max()
+
+    if pd.notna(latest_month):
+        selected_trend = selected_trend[
+            selected_trend["month_date"] < latest_month
+        ].copy()
+
+    selected_trend = selected_trend.drop(
+        columns=["month_date"],
+        errors="ignore",
+    )
+
+if selected_trend.empty:
+    st.info(
+        "No monthly trend data is available for this district."
+    )
+else:
+    trend_line = (
+        alt.Chart(selected_trend)
+        .mark_line(point=True)
+        .encode(
+            x=alt.X(
+                "month_period:N",
+                title="Month",
+                sort=None,
+            ),
+            y=alt.Y(
+                "total_incidents:Q",
+                title="Total Incidents",
+                scale=alt.Scale(zero=False),
+            ),
+            tooltip=[
+                alt.Tooltip(
+                    "month_period:N",
+                    title="Month",
+                ),
+                alt.Tooltip(
+                    "total_incidents:Q",
+                    title="Incidents",
+                    format=",",
+                ),
+                alt.Tooltip(
+                    "total_victims:Q",
+                    title="Victims",
+                    format=",",
+                ),
+            ],
+        )
+        .properties(height=380)
+    )
+
+    st.altair_chart(
+        trend_line,
+        use_container_width=True,
+    )
+
+with st.expander("View District Trend Data"):
+    st.dataframe(
+        selected_trend,
+        width="stretch",
+    )
+
+st.divider()
+
 
 
 st.divider()
